@@ -277,8 +277,8 @@
                 },
                 {
                     name: "自宅",
-                    lat: 35.508572, 
-                    lng: 140.071769, 
+                    lat: null, 
+                    lng: null, 
                     radius: 100,
                     text: " 國吉家。2004年に建てられた木造3階建ての住宅で、家族4人が暮らしています。",
                     spots: [
@@ -343,7 +343,12 @@
                 const currentLat = position.coords.latitude;
                 const currentLng = position.coords.longitude;
 
-                // 【修正・追加4】GPS受信時に地図を初期化、または現在地へ動かす処理
+                if(translationPoints[1].lat === null) {
+                    translationPoints[1].lat = currentLat;
+                    translationPoints[1].lng = currentLng;  
+                }
+
+                //GPS受信時に地図を初期化、または現在地へ動かす処理
                 if (!isMapInitialized) {
                     // 地図を初めて作成（最初のGPS座標を中心に、ズームレベル15で初期化）
                     map = L.map('map').setView([currentLat, currentLng], 15);
