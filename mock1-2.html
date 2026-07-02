@@ -277,9 +277,9 @@
                 },
                 {
                     name: "自宅",
-                    lat: null, 
-                    lng: null, 
-                    radius: 100,
+                    lat: 35.508572, 
+                    lng: 140.071769, 
+                    radius: 50,
                     text: " 國吉家。2004年に建てられた木造3階建ての住宅で、家族4人が暮らしています。",
                     spots: [
                         { category: "歴史", name: "姉崎二子塚古墳", distance: "4.7km" },
@@ -288,11 +288,10 @@
                     ]
                 },
                 {
-                    name: "地点C（ゴール周辺）",
-                    lat: 35.671989, 
-                    lng: 139.764632, 
+                    name: "祖母家",
+                    lat: 35.526003, lng: 140.092018,   
                     radius: 100,
-                    text: "【地点C付近を走行中】目的地周辺の繁華街に入りました。ここは近代化の先駆けとなった場所で、レトロな西洋建築と現代のビルが融合した独特の景観が特徴です。",
+                    text: "母の実家。祖母と祖父が２人で暮らしています。",
                     spots: [
                         { category: "景勝地", name: "ガス灯通りの洋館", distance: "80m" },
                         { category: "グルメ", name: "老舗の喫茶ブラン", distance: "150m" },
@@ -343,12 +342,7 @@
                 const currentLat = position.coords.latitude;
                 const currentLng = position.coords.longitude;
 
-                if(translationPoints[1].lat === null) {
-                    translationPoints[1].lat = currentLat;
-                    translationPoints[1].lng = currentLng;  
-                }
-
-                //GPS受信時に地図を初期化、または現在地へ動かす処理
+                // 【修正・追加4】GPS受信時に地図を初期化、または現在地へ動かす処理
                 if (!isMapInitialized) {
                     // 地図を初めて作成（最初のGPS座標を中心に、ズームレベル15で初期化）
                     map = L.map('map').setView([currentLat, currentLng], 15);
