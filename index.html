@@ -358,8 +358,8 @@
                     // 登録されている「風景翻訳スポット」の範囲も地図上に円（サークル）で表示してみる（おまけ機能）
                     translationPoints.forEach(point => {
                         L.circle([point.lat, point.lng], {
-                            color: '#60c9ec',
-                            fillColor: '#60c9ec',
+                            color: '#ff0000',
+                            fillColor: '#ff0000',
                             fillOpacity: 0.2,
                             radius: point.radius
                         }).addTo(map).bindPopup(point.name);
