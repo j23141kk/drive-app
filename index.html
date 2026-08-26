@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>プロトタイプ (地図＋周辺スポット連動)</title>
+        <title>Landscape Translation System</title>
         
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
         <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -55,7 +55,7 @@
                 font-weight: bold;
                 position: sticky;
                 top: 0;
-                z-index: 1000; /* 地図より上に来るように修正 */
+                z-index: 1000;
             }
 
             /* メインコンテンツエリア */
@@ -82,7 +82,7 @@
                 font-weight: bold;
             }
 
-            /* 【修正】マップ表示エリアの設定 */
+            /* マップ表示エリア */
             .map-area {
                 height: 200px;
                 background: #e5e5e5;
@@ -91,7 +91,6 @@
                 overflow: hidden;
             }
             
-            /* 【追加2】地図用の要素のサイズを100%にする */
             #map {
                 width: 100%;
                 height: 100%;
@@ -105,15 +104,15 @@
                 scroll-snap-type: x mandatory;
                 gap: 12px;
                 padding: 4px 0;
-                scrollbar-width: none; /* Firefox用 */
+                scrollbar-width: none;
             }
             .spots-carousel::-webkit-scrollbar {
-                display: none; /* Chrome, Safari用 */
+                display: none;
             }
 
             /* スポットカードのデザイン */
             .spot-card {
-                flex: 0 0 80%; /* 次のカードがチラ見えする設定 */
+                flex: 0 0 80%;
                 scroll-snap-align: start;
                 background-color: #fafbfc;
                 border-radius: 8px;
@@ -159,33 +158,6 @@
                 min-height: 80px;
             }
 
-            .album-art {
-                width: 50px;
-                height: 50px;
-                background: #ccc;
-                border-radius: 6px;
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                font-size: 0.8rem;
-            }
-
-            .track-info {
-                flex: 1;
-            }
-
-            .track-title {
-                font-weight: bold;
-                font-size: 0.95rem;
-                margin-bottom: 2px;
-            }
-
-            .track-artist {
-                font-size: 0.8rem;
-                color: #777;
-            }
-
-            /* フッター・ナビゲーション */
             footer {
                 padding: 12px;
                 text-align: center;
@@ -226,24 +198,23 @@
             </main>
 
             <footer>
-                J23141 Graduation Research Project Prototype
+                J23141 Graduation Research Project
             </footer>
         </div>
 
         <script>
-            // 【追加3】地図と現在地マーカーを入れる変数をグローバルで用意
             let map;
             let currentMarker;
             let isMapInitialized = false;
+            let lastTriggeredPoint = null;
 
-            // 1. 各地点のデータ
+            // 地点リスト（判定用の緯度・経度とスポット名のみ保持）
             const translationPoints = [
                 {
                     name: "東京情報大学5号館",
                     lat: 35.6369279,
                     lng: 140.2020905,
                     radius: 100,
-                    text: "【東京情報大学付近を走行中】ここは東京情報大学5号館です。木曜のマッキンゼミはここで開催されます。",
                     spots: [
                         { category: "施設", name: "情報大 5号館講義室", distance: "0m" },
                         { category: "グルメ", name: "学生食堂", distance: "120m" },
@@ -255,7 +226,6 @@
                     lat: 35.508572, 
                     lng: 140.071769, 
                     radius: 50,
-                    text: " 國吉家。2004年に建てられた木造3階建ての住宅で、家族4人が暮らしています。",
                     spots: [
                         { category: "歴史", name: "姉崎二子塚古墳", distance: "4.7km" },
                         { category: "グルメ", name: "田中屋", distance: "1.7km" },
@@ -264,9 +234,9 @@
                 },
                 {
                     name: "祖母家",
-                    lat: 35.526003, lng: 140.092018,   
+                    lat: 35.526003,
+                    lng: 140.092018,   
                     radius: 100,
-                    text: "母の実家。祖母と祖父が２人で暮らしています。",
                     spots: [
                         { category: "景勝地", name: "ガス灯通りの洋館", distance: "80m" },
                         { category: "グルメ", name: "老舗の喫茶ブラン", distance: "150m" },
@@ -282,7 +252,6 @@
                 { category: "なし", name: "周辺情報はありません", distance: "- m" }
             ];
 
-            // 2点間の直線距離（メートル）を計算する関数
             function getDistance(lat1, lng1, lat2, lng2) {
                 const R = 6371000;
                 const dLat = (lat2 - lat1) * Math.PI / 180;
@@ -294,7 +263,6 @@
                 return R * c;
             }
 
-            // 周辺スポット（NEARBY SPOTS）のHTMLを書き換える関数
             function updateSpotsCarousel(spotsArray) {
                 const carousel = document.getElementById('spotsCarousel');
                 if (!carousel) return;
@@ -312,25 +280,51 @@
                 carousel.innerHTML = htmlContent;
             }
 
-            // 現在地をチェックして画面をアップデートするメイン処理
+            // Python（FastAPI・RAG）から風景翻訳文を取得する処理
+            async function fetchRAGTranslation(point) {
+                const translationEl = document.getElementById('translationText');
+                translationEl.textContent = `【${point.name}】に接近中。AIがRAG資料から風景を翻訳しています...`;
+
+                try {
+                    const response = await fetch("http://localhost:8000/api/translate-landscape", {
+                        method: "POST",
+                        headers: {
+                            "Content-Type": "application/json"
+                        },
+                        body: JSON.stringify({
+                            spot_name: point.name,
+                            lat: point.lat,
+                            lng: point.lng
+                        })
+                    });
+
+                    if (!response.ok) {
+                        throw new Error(`APIエラー: ${response.status}`);
+                    }
+
+                    const data = await response.json();
+                    // Pythonから届いたRAG翻訳テキストを表示
+                    translationEl.textContent = data.translation;
+
+                } catch (error) {
+                    console.error("API通信エラー:", error);
+                    translationEl.textContent = "風景翻訳の取得に失敗しました。Pythonサーバーが起動しているか確認してください。";
+                }
+            }
+
             function checkLocation(position) {
                 const currentLat = position.coords.latitude;
                 const currentLng = position.coords.longitude;
 
-                // 【修正・追加4】GPS受信時に地図を初期化、または現在地へ動かす処理
                 if (!isMapInitialized) {
-                    // 地図を初めて作成（最初のGPS座標を中心に、ズームレベル15で初期化）
                     map = L.map('map').setView([currentLat, currentLng], 15);
 
-                    // OpenStreetMapの地図タイル（背景）を読み込んで追加
                     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
                         attribution: '© OpenStreetMap contributors'
                     }).addTo(map);
 
-                    // 現在地マーカーを設置
                     currentMarker = L.marker([currentLat, currentLng]).addTo(map).bindPopup('現在地').openPopup();
 
-                    // 登録されている「風景翻訳スポット」の範囲も地図上に円（サークル）で表示してみる（おまけ機能）
                     translationPoints.forEach(point => {
                         L.circle([point.lat, point.lng], {
                             color: '#ff0000',
@@ -342,37 +336,41 @@
 
                     isMapInitialized = true;
                 } else {
-                    // 2回目以降のGPS更新時は、地図の中心とピンの位置を現在地に移動させる
                     map.setView([currentLat, currentLng]);
                     currentMarker.setLatLng([currentLat, currentLng]);
                 }
 
-                let matchedText = defaultText;
-                let matchedSpots = defaultSpots;
+                let matchedPoint = null;
 
-                // 登録地点のチェック
                 for (const point of translationPoints) {
                     const distance = getDistance(currentLat, currentLng, point.lat, point.lng);
-                    
                     if (distance <= point.radius) {
-                        matchedText = point.text;
-                        matchedSpots = point.spots;
+                        matchedPoint = point;
                         break;
                     }
                 }
 
-                // 画面への出力反映
-                document.getElementById('translationText').textContent = matchedText;
-                updateSpotsCarousel(matchedSpots);
+                if (matchedPoint) {
+                    if (lastTriggeredPoint !== matchedPoint.name) {
+                        lastTriggeredPoint = matchedPoint.name;
+                        updateSpotsCarousel(matchedPoint.spots);
+                        // Python APIを呼んでRAGで生成したテキストを反映
+                        fetchRAGTranslation(matchedPoint);
+                    }
+                } else {
+                    if (lastTriggeredPoint !== null) {
+                        lastTriggeredPoint = null;
+                        document.getElementById('translationText').textContent = defaultText;
+                        updateSpotsCarousel(defaultSpots);
+                    }
+                }
             }
 
-            // エラーハンドリング
             function handleError(error) {
                 console.error("GPSエラー:", error);
-                document.getElementById('translationText').textContent = "GPSの取得に失敗しました。位置情報サービスが許可されているか確認してください。";
+                document.getElementById('translationText').textContent = "GPSの取得に失敗しました。";
             }
 
-            // ページ読み込み時の初期化
             window.onload = function() {
                 updateSpotsCarousel(defaultSpots);
 
@@ -383,7 +381,7 @@
                         timeout: 5000
                     });
                 } else {
-                    alert("このブラウザは位置情報（GPS）に対応していません。");
+                    alert("GPSに対応していません。");
                 }
             };
         </script>
