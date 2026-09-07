@@ -26,6 +26,34 @@ app.add_middleware(
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
 # --------------------------------------------------
+# 逆ジオコーディング（緯度経度から住所を取得）
+# --------------------------------------------------
+def reverse_geocode(lat: float, lng: float) -> str:
+    """OpenStreetMapのNominatim APIを使って緯度経度から住所名・ランドマーク名を取得する"""
+    try:
+        url = f"https://nominatim.openstreetmap.org/reverse?format=json&lat={lat}&lon={lng}&zoom=18&addressdetails=1"
+        headers = {"User-Agent": "LandscapeTranslationApp/1.0"}
+        res = requests.get(url, headers=headers, timeout=3)
+        if res.status_code == 200:
+            data = res.json()
+            display_name = data.get("display_name", "")
+            address = data.get("address", {})
+            
+            # 都道府県、市区町村、町名などを抽出
+            province = address.get("province", address.get("state", ""))
+            city = address.get("city", address.get("town", address.get("village", address.get("suburb", ""))))
+            suburb = address.get("suburb", address.get("neighbourhood", ""))
+            road = address.get("road", "")
+            amenity = address.get("amenity", address.get("building", ""))
+
+            location_str = f"{province}{city}{suburb}{road} {amenity}".strip()
+            print(f"[Reverse Geocode] 緯度:{lat}, 経度:{lng} -> {location_str}")
+            return location_str if location_str else display_name
+    except Exception as e:
+        print(f"逆ジオコーディング失敗: {e}")
+    return f"緯度 {lat}, 経度 {lng}"
+
+# --------------------------------------------------
 # 階層構造対応のWebクローラー処理
 # --------------------------------------------------
 RAG_DIR = Path(__file__).parent / "rag_files"
@@ -54,18 +82,15 @@ def crawl_and_extract_text(start_url: str, max_depth: int = 1) -> str:
                 res.encoding = res.apparent_encoding
                 soup = BeautifulSoup(res.text, "html.parser")
 
-                # 不要要素（ヘッダー、フッター、ナビ等）の削除
                 for element in soup(["script", "style", "header", "footer", "nav", "aside", "iframe"]):
                     element.extract()
 
-                # メインコンテンツの抽出
                 main_content = soup.find("main") or soup.find("article") or soup.body
                 if main_content:
                     text = main_content.get_text(separator="\n")
                     clean_text = re.sub(r'\n\s*\n', '\n', text)
                     all_pages_text.append(f"--- SOURCE URL: {url} ---\n{clean_text}\n")
 
-                # 下層ページのリンクを収集
                 if depth < max_depth:
                     for a_tag in soup.find_all("a", href=True):
                         link = urljoin(url, a_tag["href"])
@@ -96,7 +121,6 @@ if URLS_FILE.exists():
             with open(downloaded_file_path, "w", encoding="utf-8") as out:
                 out.write(site_corpus)
 
-            # Gemini APIへアップロード（オブジェクト自体をリストに追加）
             ref = client.files.upload(file=str(downloaded_file_path))
             uploaded_files.append(ref)
             print(f"RAGアップロード完了: {url} -> {ref.name}")
@@ -115,19 +139,25 @@ for file_path in RAG_DIR.glob("*.*"):
 # API リクエスト受け取り処理
 # --------------------------------------------------
 class LocationRequest(BaseModel):
-    spot_name: str
     lat: float
     lng: float
 
 @app.post("/api/translate-landscape")
 def get_landscape_translation(req: LocationRequest):
+    # 1. 緯度経度からリアルタイムな住所名を取得
+    location_name = reverse_geocode(req.lat, req.lng)
+
+    # 2. 厳格なプロンプトを作成して現在地のみの解説を行わせる
     prompt = (
-        f"現在地は「{req.spot_name}」（緯度: {req.lat}, 経度: {req.lng}）付近です。\n"
-        f"この場所の歴史、文化、または見どころについて添付された資料を参照し、"
-        f"ドライブ中の人に語りかけるような150文字程度のわかりやすく魅力的な解説文を作ってください。"
+        f"【現在地情報】: 「{location_name}」（座標: 緯度 {req.lat}, 経度 {req.lng}）\n\n"
+        f"【指示】:\n"
+        f"1. 対象地点は「{location_name}」のピンポイントな現在地周辺（目視できる範囲）です。\n"
+        f"2. 【厳禁】: 「{location_name}」と直接関係のない遠くの地域の話題は絶対に一切出さないでください。\n"
+        f"3. 添付された資料から「{location_name}」またはその直近の地域に関連する歴史、文化、地形、見どころの情報を抽出してください。\n"
+        f"4. 資料に直接の記述がない場合でも、現在地の地理・地域特性をもとに、ドライブ中の人に車窓の風景を語りかけるような100〜150文字程度の魅力的で自然な解説文を作成してください。"
+        f"5.本システムは1人でドライブしているときに使用することを想定しているため、ドライブ中の人に語りかけるときには、皆さんなどの複数の人に語りかける表現は避けてください。"
     )
 
-    # アップロードしたファイル群とプロンプトを一緒にcontentsに渡す
     contents = [*uploaded_files, prompt]
 
     response = client.models.generate_content(
