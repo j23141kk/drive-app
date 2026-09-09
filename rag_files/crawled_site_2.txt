@@ -163,13 +163,6 @@ detail_10071.html
 千葉市
 ＋
 detail_10105.html
-BOTANICA MUSEUM
-一輪の花から、世界は静かになる
-花の育て方、飾り方、楽しみ方という「花のある暮らし」を提案してきた花の美術館。この度のリニューアルで、これまでの美術館に芸術性が加わり、新たな気付きを得られる施設【BOTANICA MUSEUM】と生まれ変わりました。 無駄を許さない自然界での生命維持の厳し…
-ベイエリア
-千葉市
-＋
-detail_10572.html
 千葉ポートタワー
 デートや観光スポットとしても人気の千葉港のシンボル
 日本最大の広さを誇る国際貿易港・千葉港のシンボルとして、1986年にオープンした展望施設です。2階「ロイヤルブルーフロア」から望む、キラキラと光り輝く千葉市街や工場の夜景が2人の特別な時間をロマンチックに演出します。また、最上階の展望フロアからは東京湾を…
@@ -177,6 +170,13 @@ detail_10572.html
 千葉市
 ＋
 detail_10116.html
+BOTANICA MUSEUM
+一輪の花から、世界は静かになる
+花の育て方、飾り方、楽しみ方という「花のある暮らし」を提案してきた花の美術館。この度のリニューアルで、これまでの美術館に芸術性が加わり、新たな気付きを得られる施設【BOTANICA MUSEUM】と生まれ変わりました。 無駄を許さない自然界での生命維持の厳し…
+ベイエリア
+千葉市
+＋
+detail_10572.html
 市川市動植物園
 キュートな動物たちに癒されよう！植物園も隣接する緑豊かな空間
 レッサーパンダやオランウータンをはじめカピバラ、ミーアキャット、マイクロブタなど40種以上の動物たちのいる人気の動物園。なかよし広場ではヤギやモルモットなど親しみやすい動物たちを間近で見ることができます。家畜舎では牛や馬などのほか、モフモフ感に癒され…
@@ -191,20 +191,6 @@ detail_10054.html
 千葉市
 ＋
 detail_10100.html
-千葉県立幕張海浜公園 見浜園
-高層ビルに囲まれた美しい庭園。数寄屋造りの茶室でお抹茶はいかが？
-幕張海浜公園内にある落ち着いた雰囲気の日本庭園。池泉回遊式（ちせんかいゆうしき）の庭は中央に池があり、山・川・海・林などが表現されています。池や水の流れ、松の植栽といった自然美をゆったりと楽しめるのが魅力。池には鯉が優雅に泳ぎ、エサやりをすることも…
-ベイエリア
-千葉市
-＋
-detail_10609.html
-千葉港めぐり（ケーズハーバー）
-クルーズやグルメ、ダイビングまで！楽しみ方満載の複合施設
-JR京葉線・千葉モノレール千葉みなと駅から徒歩7分ほどの場所にある「ケーズハーバー」。旅客船ターミナルに加え、レストランやカフェ、ダイビングショップ、フィットネスジムなどが一体となった複合施設です。建物内にある高さ8.5mの大型水槽は必見！シーフードレス…
-ベイエリア
-千葉市
-＋
-detail_10115.html
 千葉市動物公園
 躍動感あふれる生き物の姿に元気がもらえる動物園
 レッサーパンダの風太で話題となり、ゴリラやハシビロコウなど約100種の動物がいる魅力いっぱいの動物公園です。2025年4月には開園40周年を迎えました。数ある見どころの中でも、獲物を捕食するようにとびかかるライオンのミートキャッチャーは迫力満点！疑似餌を追っ…
@@ -212,13 +198,13 @@ detail_10115.html
 千葉市
 ＋
 detail_10104.html
-昭和の森
-キャンプ場やアスレチック、スポーツ施設充実！花々あふれる総合公園
-東京ドームの約23個分という広大な敷地は千葉市最大の規模を誇り、日本の都市公園100選に選ばれています。春には梅や桜、初夏にはスイレンや紫陽花が美しく咲き、野鳥や昆虫なども多く生息します。長さ約109ｍのローラーすべり台をはじめ、アスレチックコースのあるレ…
+千葉港めぐり（ケーズハーバー）
+クルーズやグルメ、ダイビングまで！楽しみ方満載の複合施設
+JR京葉線・千葉モノレール千葉みなと駅から徒歩7分ほどの場所にある「ケーズハーバー」。旅客船ターミナルに加え、レストランやカフェ、ダイビングショップ、フィットネスジムなどが一体となった複合施設です。建物内にある高さ8.5mの大型水槽は必見！シーフードレス…
 ベイエリア
 千葉市
 ＋
-detail_10118.html
+detail_10115.html
 ZOZOマリンスタジアム
 白熱プレーに感動！千葉ロッテマリーンズの本拠地
 「千葉ロッテマリーンズ」のホームスタジアムであるZOZOマリンスタジアムは、約30,000人の観客を収容できる球場です。意識しているのは観客と選手の心地よさ。従来の野球場の定番だった照明塔に代わり、サークルラインと呼ばれるひさしの先端に取り付けられた照明は、…
@@ -226,20 +212,13 @@ ZOZOマリンスタジアム
 千葉市
 ＋
 detail_10111.html
-アイ・リンクタウン展望施設
-地上150mから360度の眺望が見渡せる無料の展望施設
-アイ・リンクタウン展望施設は、市内最高地点（地上150m）から素晴らしい360度の眺望を楽しめるスポット。天候が良い日には、江戸川を渡る風を感じ、夜には美しい夜景を鑑賞することもできます。運が良ければ東京スカイツリーと富士山のツーショットが見られることも…
+昭和の森
+キャンプ場やアスレチック、スポーツ施設充実！花々あふれる総合公園
+東京ドームの約23個分という広大な敷地は千葉市最大の規模を誇り、日本の都市公園100選に選ばれています。春には梅や桜、初夏にはスイレンや紫陽花が美しく咲き、野鳥や昆虫なども多く生息します。長さ約109ｍのローラーすべり台をはじめ、アスレチックコースのあるレ…
 ベイエリア
-市川市
+千葉市
 ＋
-detail_10055.html
-日蓮宗大本山　中山法華経寺
-鎌倉時代に創建された日蓮宗大本山の由緒ある寺院
-京成中山駅から北へ延びる石畳の参道を歩いて約5分。広大な敷地内には約31ｍの高さを誇る朱色の五重塔やさまざまな堂宇が建ち並びます。長い歴史を感じさせる荘厳な雰囲気のなか、祖師堂（そしどう）や法華堂などの国指定重要文化財が数多く残る名刹です。日蓮聖人を…
-ベイエリア
-市川市
-＋
-detail_10053.html
+detail_10118.html
 幕張メッセ
 多彩なイベントで利用できる本格的な複合コンベンション施設
 1989年にオープンした日本初の複合コンベンション施設です。21万平方mの敷地には7万2千平方mの展示面積を誇る「国際展示場」、4つの同時通訳ブースを持つ「国際会議場」、約9,000人を収容できる「幕張イベントホール」の3施設を備えています。催す規模や内容に合わせ…
@@ -247,27 +226,13 @@ detail_10053.html
 千葉市
 ＋
 detail_10112.html
-フォレストアドベンチャー・千葉
-自然を生かした冒険の森を楽しもう
-フォレストアドベンチャー・千葉は、豊かな自然の風景が楽しめる公園です。コンセプトは「森林をそのまま活用したパークづくり」。大規模な開発をすることなく、自然環境を生かした楽しみ方を追求しています。ありのままの自然を残すことで「自分の安全は自分で守る」…
+アイ・リンクタウン展望施設
+地上150mから360度の眺望が見渡せる無料の展望施設
+アイ・リンクタウン展望施設は、市内最高地点（地上150m）から素晴らしい360度の眺望を楽しめるスポット。天候が良い日には、江戸川を渡る風を感じ、夜には美しい夜景を鑑賞することもできます。運が良ければ東京スカイツリーと富士山のツーショットが見られることも…
 ベイエリア
-千葉市
+市川市
 ＋
-detail_10097.html
-ホキ美術館
-ゆったりとした空間の中で写実絵画を鑑賞できる癒やしの美術館
-2010年に開館した世界でもまれな写実絵画専門美術館です。画家が時間をかけて1枚の絵と向き合い、綿密につくりあげた写実絵画。地上1階、地下2階の3層で構成された計500mにわたる回廊型ギャラリーでは、日本最大の森本草介コレクションをはじめ、野田弘志、中山忠彦な…
-ベイエリア
-千葉市
-＋
-detail_10114.html
-船橋大神宮（意富比神社）
-1900年以上の歴史を重ねる古社　灯明台は船橋のシンボルのひとつ
-正式名は「意富比神社（おおひじんじゃ）」といい、日本の総氏神・天照皇大神を祀る船橋地方最古、市内最大級の神社。通称「船橋大神宮」として、今もなお船橋市民に親しまれています。境内には1880（明治13）年に建てられた高さ約12mの灯明台を有します。和洋折衷の…
-ベイエリア
-船橋市
-＋
-detail_10076.html
+detail_10055.html
 浦安市郷土博物館
 昭和の浦安漁師町を再現！竹馬などの昔遊び体験も
 浦安市郷土博物館は、「すべてに開かれた博物館」をモットーに、郷土浦安に関するさまざまな情報を提供しています。いつ来ても新しい発見がある、生涯にわたって学習できる施設です。屋外展示場「浦安のまち」では漁師町として最も活気に満ちていた当時の浦安の町を再…
@@ -275,192 +240,41 @@ detail_10076.html
 浦安市
 ＋
 detail_10046.html
-
-
-
---- SOURCE URL: https://maruchiba.jp/spot/detail_10053.html ---
-
+千葉神社
+厄除開運・八方除の妙見様のご本宮
+かつて房総一帯の地を納めていた千葉氏一族は妙見様という星の神様を守護神としていました。その妙見菩薩を本尊とする寺として建立されたのが千葉神社の始まりと言われています。江戸時代は寺院として人々の信仰を集め、そののち明治の神仏分離令により神社となりまし…
+ベイエリア
+千葉市
+＋
+detail_10123.html
+さつきが丘名店街
+ロケ地としても人気！緑豊かな団地の中にある商店街
+お買物広場「さつきが丘名店街」は、東京のベッドタウンとして発展したさつきが丘団地のほぼ中央にある名物商店街。入口では商店街には珍しい狛犬が出迎えてくれます。昭和レトロなアーケードをくぐると、約250mの歩行者専用道路の両側に青果店や和菓子店、カフェなど…
+ベイエリア
+千葉市
+＋
+detail_10490.html
+ホキ美術館
+ゆったりとした空間の中で写実絵画を鑑賞できる癒やしの美術館
+2010年に開館した世界でもまれな写実絵画専門美術館です。画家が時間をかけて1枚の絵と向き合い、綿密につくりあげた写実絵画。地上1階、地下2階の3層で構成された計500mにわたる回廊型ギャラリーでは、日本最大の森本草介コレクションをはじめ、野田弘志、中山忠彦な…
+ベイエリア
+千葉市
+＋
+detail_10114.html
+日蓮宗大本山　中山法華経寺
 鎌倉時代に創建された日蓮宗大本山の由緒ある寺院
-京成中山駅から北へ延びる石畳の参道を歩いて約5分。広大な敷地内には約31ｍの高さを誇る朱色の五重塔やさまざまな堂宇が建ち並びます。長い歴史を感じさせる荘厳な雰囲気のなか、祖師堂（そしどう）や法華堂などの国指定重要文化財が数多く残る名刹です。日蓮聖人を難儀から救ったとされる「鬼子母神」が守護神で、天下泰平、所願成就、子育ての神様として今もなお篤く信仰されています。
-新年には新春祈祷会や鬼子母神大祭が行われ、2月の節分会では各界の著名人が豆まきをする姿は広く知られています。また、4月の千部会（せんぶえ）、11月の御会式（おえしき）の期間中には骨董市が開催され多くの参拝客でにぎわいます。
-毎年11月1日～2月10日までの百日間、全国から集まった僧侶による「大荒行」と呼ばれる寒中の厳しい修行が行われます。
-修行開始の儀式が11月1日の「大荒行入(だいあらぎょうにゅう)行会(ぎょうえ)」、終了は2月10日の「大荒行(だいあらぎょう)成(じょう)満会(まんえ)」です。
-エリア
+京成中山駅から北へ延びる石畳の参道を歩いて約5分。広大な敷地内には約31ｍの高さを誇る朱色の五重塔やさまざまな堂宇が建ち並びます。長い歴史を感じさせる荘厳な雰囲気のなか、祖師堂（そしどう）や法華堂などの国指定重要文化財が数多く残る名刹です。日蓮聖人を…
 ベイエリア
 市川市
-カテゴリー
-歴史・文化・社寺仏閣
-ちば文化資産
-お気に入りリストに追加
-Share
-Twitter
-Facebook
-Line
-節分会
-豆まきの際の掛け声は「福は内、福は内」のみとなっています。鬼子母神を祀っているお寺のため、決して「鬼は外」と言わないのが風習となっています。
-春の骨董市
-年間で最も大事な行事として、春の千部会（せんぶえ）、秋の御会式（おえしき）があります。千部会では一千部に及ぶお経を唱えることからそう呼ばれています。その期間中、境内では、檀家や信徒のほか一般の方も楽しめるよう骨董市が開催されます。
-関連する特集
-千葉の初詣スポット2026
-https://maruchiba.jp/feature/detail_17.html
-千葉の神社・お寺特集！有名な神社やパワースポットもたっぷり72か所ご紹介
-https://maruchiba.jp/feature/detail_252.html
-関連するモデルコース
-初心者におすすめ！レンタサイクルで巡る市川市日帰りモデルコース
-https://maruchiba.jp/course/detail_98.html
-基本情報
-住所
-千葉県市川市中山2-10-1
-電話番号
-047-334-3433
-営業時間
-9:00～16:00（受付は15：30迄・年中無休）
-アクセス（車）
-・京葉道路 原木ICから約15分
-・京葉道路 京葉市川ICから約15分
-アクセス（鉄道）
-・JR総武線 下総中山駅から徒歩約10分
-・京成線 中山駅から徒歩約10分
-駐車場（乗用車／台数）
-100台
-駐車場（大型バス／台数）
-あり（駐車場の事前予約が必要。）
-（参道を登れない為）
-駐車場（有料／無料）
-無料
-関連リンク
-ラブちばに投稿された写真を見る
-日蓮宗大本山　中山法華経寺
-日蓮宗 寺院ページ
-※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
-おすすめ特集報
-春に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
-https://maruchiba.jp/feature/detail_23.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-まるで黄色い絨毯♪菜の花畑を見に行こう！
-https://maruchiba.jp/feature/detail_42.html
-春の訪れを教えてくれる、梅が咲くスポット
-https://maruchiba.jp/feature/detail_43.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-夏に読みたい！おすすめ特集
-千葉の潮干狩り2026
-https://maruchiba.jp/feature/detail_14.html
-千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
-https://maruchiba.jp/feature/detail_27.html
-千葉のプール・ウォーターレジャー2026
-https://maruchiba.jp/feature/detail_50.html
-千葉の花火大会・打ち上げ花火2026
-https://maruchiba.jp/feature/detail_53.html
-日帰りで楽しめる海のアクティビティ（体験）特集
-https://maruchiba.jp/feature/detail_62.html
-千葉のひまわり畑を歩こう！2026
-https://maruchiba.jp/feature/detail_64.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-ちばの祭り -山車・神輿・獅子舞-
-https://maruchiba.jp/feature/detail_88.html
-秋に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
-https://maruchiba.jp/feature/detail_28.html
-千葉の味覚狩り
-https://maruchiba.jp/feature/detail_33.html
-秋風にゆれるコスモス畑を歩こう！
-https://maruchiba.jp/feature/detail_34.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-落花生掘りといえば千葉！おすすめのスポットを紹介します。
-https://maruchiba.jp/feature/detail_63.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-冬に読みたい！おすすめ特集
-千葉の初詣スポット2026
-https://maruchiba.jp/feature/detail_17.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-千葉の初日の出スポット2026
-https://maruchiba.jp/feature/detail_69.html
-東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
-https://maruchiba.jp/feature/detail_169.html
-千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
-https://maruchiba.jp/feature/detail_177.html
-千葉の展望台＆灯台特集～個性豊かな絶景を望む～
-https://maruchiba.jp/feature/detail_178.html
-JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
-https://maruchiba.jp/feature/detail_197.html
-関連情報
-周辺にある観光スポット
-市川市東山魁夷記念館
-https://maruchiba.jp/spot/detail_10451.html
-屋形四社神社
-https://maruchiba.jp/spot/detail_10241.html
-中山競馬場
-https://maruchiba.jp/spot/detail_10467.html
-千葉県立現代産業科学館
-https://maruchiba.jp/spot/detail_10051.html
-葛飾八幡宮
-https://maruchiba.jp/spot/detail_10062.html
-農産物直売所 ふなっこ畑
-https://maruchiba.jp/spot/detail_10075.html
-白幡天神社
-https://maruchiba.jp/spot/detail_10059.html
-飛ノ台史跡公園博物館
-https://maruchiba.jp/spot/detail_10436.html
-万葉植物園
-https://maruchiba.jp/spot/detail_10610.html
-道の駅　いちかわ
-https://maruchiba.jp/spot/detail_10056.html
-周辺にあるグルメスポット
-2 5 6 n i c o m
-https://maruchiba.jp/gourmet/spot/detail_15847.html
-串焼き 小野田
-https://maruchiba.jp/gourmet/spot/detail_15152.html
-鮨と肴おどる魚
-https://maruchiba.jp/gourmet/spot/detail_11981.html
-発酵×スパイス食堂 　Yajikko KITCHEN
-https://maruchiba.jp/gourmet/spot/detail_13972.html
-おいもや 壺
-https://maruchiba.jp/gourmet/spot/detail_14057.html
-魚ばる 澤
-https://maruchiba.jp/gourmet/spot/detail_11070.html
-菓子工房アントレ
-https://maruchiba.jp/gourmet/spot/detail_11840.html
-ピーターパン 石窯パン工房店
-https://maruchiba.jp/gourmet/spot/detail_11126.html
-峰月堂
-https://maruchiba.jp/gourmet/spot/detail_13044.html
-コンパーレ コマーレ
-https://maruchiba.jp/gourmet/spot/detail_11075.html
+＋
+detail_10053.html
+千葉市美術館
+多彩な企画展と浮世絵をはじめとする所蔵作品が楽しめる美術館
+1995年、中央区役所に併設される形で開館した千葉市美術館。2020年のリニューアルを機に、11階建ての建物すべてが美術館として生まれ変わりました。美術館の中には千葉市内に残る数少ない戦前の建物である旧川崎銀行千葉支店が包み込むように保存され、その建築も見ど…
+ベイエリア
+千葉市
+＋
+detail_10106.html
 
 
 
@@ -711,306 +525,58 @@ https://maruchiba.jp/gourmet/spot/detail_13383.html
 
 
 
---- SOURCE URL: https://maruchiba.jp/spot/detail_10364.html ---
+--- SOURCE URL: https://maruchiba.jp/spot/detail_10114.html ---
 
-見ごたえたっぷり！日本一の磨崖仏とスリル満点の絶景
-鋭い岩肌が連なる標高329mの鋸山は、その名の通り稜線がノコギリの歯のような形をしています。県指定の名勝として知られている鋸山の南斜面に日本寺はあります。
-約1300年前、聖武天皇の勅詔を受けた行基菩薩によって、725年に開山された関東最古の勅願所です。10万坪余りの広大な境内には、日本最大の磨崖仏（薬師瑠璃光如来）や、百尺観音像、千五百羅漢像など、数多くの見どころが点在。なかでも見逃せないのが、山頂エリアの「地獄のぞき」。突き出た岩の先端まで行くと、まるで空中に浮いているかのよう。房総半島や遠く富士山や三浦半島までの絶景が望めますが、ふと下を見るとスリル満点！まさに地獄を覗き込むよう。
-ロープウェイや登山自動車道を利用すれば山頂まで簡単に行くことができます。登山道もあるので、季節の花々を愛でながらハイキングをかねて歩くのもおすすめです。
-エリア
-南房総
-鋸南町
-カテゴリー
-ハイキング・登山
-朝日・夕日
-その他ビュースポット
-ビュースポット
-歴史・文化・社寺仏閣
-ちば文化資産
-旅のテーマ
-秋の定番
-自然体験・アクティビティ
-愛犬とお出かけ
-春の定番
-夏の定番
-絶景！千葉の海沿いスポット
-冬の定番
-お気に入りリストに追加
-Share
-Twitter
-Facebook
-Line
-あじさい（季節の花々）
-大仏広場を中心に、境内の参道沿いには約20,000株のアジサイが咲き誇ります。同じ頃、アブラギリの花も白い花を咲かせ、クチナシは甘い香りを漂わせます。他にも広い境内では、水仙、桜、シャガ、彼岸花など四季折々の花々が咲き、鋸山を彩ります。
-関連する特集
-千葉の初詣スポット2026
-https://maruchiba.jp/feature/detail_17.html
-WEB会議・壁紙に！ちばのバーチャル背景特集
-https://maruchiba.jp/feature/detail_18.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-インスタ映え抜群！千葉でおすすめの絶景スポット特集20選！
-https://maruchiba.jp/feature/detail_74.html
-チーバくんプラザへようこそ！千葉県の観光は旅のコンシェルジュにお任せください
-https://maruchiba.jp/feature/detail_94.html
-カップルで行きたい！千葉県のおすすめデートスポット28選！
-https://maruchiba.jp/feature/detail_100.html
-絶景と歴史が詰まった鋸山！ロープウェーと登山の魅力を徹底解説します
-https://maruchiba.jp/feature/detail_108.html
-道の駅保田小附属ようちえんがオープン！最新情報をお届けします
-https://maruchiba.jp/feature/detail_154.html
-千葉の展望台＆灯台特集～個性豊かな絶景を望む～
-https://maruchiba.jp/feature/detail_178.html
-道の駅 グリーンファーム館山がオープン！最新情報をお届けします！
-https://maruchiba.jp/feature/detail_188.html
-神奈川から房総半島まで、東京湾フェリーに乗って快適な船旅を！乗り方や魅力をわかりやすくレポート！
-https://maruchiba.jp/feature/detail_199.html
-千葉の山！おすすめ6選！～初心者から中上級者まで楽しめます～
-https://maruchiba.jp/feature/detail_251.html
-千葉の神社・お寺特集！有名な神社やパワースポットもたっぷり72か所ご紹介
-https://maruchiba.jp/feature/detail_252.html
-千葉のツーリングスポット14選！～定番から穴場まで幅広くご紹介～
-https://maruchiba.jp/feature/detail_254.html
-千葉のお出かけスポット32選！
-https://maruchiba.jp/feature/detail_300.html
-道の駅 保田小学校を徹底解説！～宿泊・グルメ・お土産情報まで満載！～
-https://maruchiba.jp/feature/detail_338.html
-2025年2月ニューオープンのサウナ！絶景が楽しめるゆうみBeach Saunaを徹底解説！
-https://maruchiba.jp/feature/detail_351.html
-冒険心を刺激！千葉の絶景洞窟＆トンネルスポット15選
-https://maruchiba.jp/feature/detail_402.html
-館山で味わう至福の癒し旅｜グルメと温泉、自然や歴史まで～人気の観光スポットをご紹介！【2026年】
-https://maruchiba.jp/feature/detail_443.html
-鋸南町ってどんなところ？水仙・グルメ・道の駅まで徹底解説！
-https://maruchiba.jp/feature/detail_507.html
-菱川師宣とは？ 代表作の浮世絵『見返り美人図』の魅力と、鋸南町のゆかりの地を徹底解説！
-https://maruchiba.jp/feature/detail_510.html
-関連するモデルコース
-＜ちば文化資産＞驚きと感動の連続！かずさ・臨海エリアの絶景スポットをめぐる
-https://maruchiba.jp/course/detail_45.html
- 公共交通機関で行く！千葉の旅モデルコース（1泊2日）
-https://maruchiba.jp/course/detail_50.html
-千葉の道の駅を巡るおすすめドライブコース（1泊2日）
-https://maruchiba.jp/course/detail_52.html
-南房総の絶景スポットを巡る1泊2日のドライブコース
-https://maruchiba.jp/course/detail_66.html
-房総半島ツーリング　秋の房総は走りも紅葉もグルメも楽しめるツーリングスポット
-https://maruchiba.jp/course/detail_96.html
-基本情報
-住所
-千葉県安房郡鋸南町鋸山
-電話番号
-0470-55-1103
-営業時間
-9:00～16:00（最終入場 15:00）
-料金
-一般／大人700円　小人（4～12歳）400円
-※障害者割引・・・証明書の提示により半額に減免（介助員は一人まで半額に減免）
-※団体、学生団体料金あり。詳しくは公式サイトをご確認ください。
-アクセス（車）
-・薬師本殿、大仏まで：鋸山観光道路利用、東口管理事務所まで
-・山頂展望台（地獄のぞき）、百尺観音まで：登山自動車道（有料道路）利用、西口管理所まで
-※境内入口は全部で5箇所あります。詳しくは鋸山 日本寺公式サイトをご確認ください。
-アクセス（鉄道）
-ロープウェイ山麓駅：「浜金谷」駅下車、国道127号線を館山方向へ徒歩8分
-※境内入口は全部で5箇所あります。詳しくは鋸山 日本寺公式サイトをご確認ください。
-アクセス（その他）
-東京湾フェリー：久里浜～金谷行き、金谷港からロープウェイ山麓駅まで徒歩約12分
-駐車場（乗用車／台数）
-50台（東口）　他、有料道路に駐車場2カ所あり
-駐車場（大型バス／台数）
-5台（東口）
-駐車場（有料／無料）
-無料
-関連リンク
-ラブちばに投稿された写真を見る
-日本寺
-※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
-おすすめ特集報
-春に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
-https://maruchiba.jp/feature/detail_23.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-まるで黄色い絨毯♪菜の花畑を見に行こう！
-https://maruchiba.jp/feature/detail_42.html
-春の訪れを教えてくれる、梅が咲くスポット
-https://maruchiba.jp/feature/detail_43.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-夏に読みたい！おすすめ特集
-千葉の潮干狩り2026
-https://maruchiba.jp/feature/detail_14.html
-千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
-https://maruchiba.jp/feature/detail_27.html
-千葉のプール・ウォーターレジャー2026
-https://maruchiba.jp/feature/detail_50.html
-千葉の花火大会・打ち上げ花火2026
-https://maruchiba.jp/feature/detail_53.html
-日帰りで楽しめる海のアクティビティ（体験）特集
-https://maruchiba.jp/feature/detail_62.html
-千葉のひまわり畑を歩こう！2026
-https://maruchiba.jp/feature/detail_64.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-ちばの祭り -山車・神輿・獅子舞-
-https://maruchiba.jp/feature/detail_88.html
-秋に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
-https://maruchiba.jp/feature/detail_28.html
-千葉の味覚狩り
-https://maruchiba.jp/feature/detail_33.html
-秋風にゆれるコスモス畑を歩こう！
-https://maruchiba.jp/feature/detail_34.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-落花生掘りといえば千葉！おすすめのスポットを紹介します。
-https://maruchiba.jp/feature/detail_63.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-冬に読みたい！おすすめ特集
-千葉の初詣スポット2026
-https://maruchiba.jp/feature/detail_17.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-千葉の初日の出スポット2026
-https://maruchiba.jp/feature/detail_69.html
-東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
-https://maruchiba.jp/feature/detail_169.html
-千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
-https://maruchiba.jp/feature/detail_177.html
-千葉の展望台＆灯台特集～個性豊かな絶景を望む～
-https://maruchiba.jp/feature/detail_178.html
-JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
-https://maruchiba.jp/feature/detail_197.html
-関連情報
-周辺にある観光スポット
-元名海水浴場
-https://maruchiba.jp/spot/detail_10693.html
-鋸山ロープウェー
-https://maruchiba.jp/spot/detail_10330.html
-音楽と珈琲の店　岬
-https://maruchiba.jp/spot/detail_10486.html
-BASE1901
-https://maruchiba.jp/spot/detail_11283.html
-BAYSIDE KANAYA（ベイサイド金谷）
-https://maruchiba.jp/spot/detail_11268.html
-保田海水浴場
-https://maruchiba.jp/spot/detail_10368.html
-ザ・フィッシュ
-https://maruchiba.jp/spot/detail_10333.html
-都市交流施設・道の駅保田小附属ようちえん
-https://maruchiba.jp/spot/detail_12572.html
-鋸山美術館
-https://maruchiba.jp/spot/detail_10332.html
-都市交流施設・道の駅 保田小学校
-https://maruchiba.jp/spot/detail_10365.html
-周辺にあるグルメスポット
-漁師めしはまべ
-https://maruchiba.jp/gourmet/spot/detail_11130.html
-Pizza GONZO
-https://maruchiba.jp/gourmet/spot/detail_11052.html
-さすけ食堂
-https://maruchiba.jp/gourmet/spot/detail_11131.html
-ベイサイド金谷 LA MER BLEUE
-https://maruchiba.jp/gourmet/spot/detail_13381.html
-SOTOCHIKU＆89unLtd. パクチー銀行
-https://maruchiba.jp/gourmet/spot/detail_13509.html
-ばんや本館
-https://maruchiba.jp/spot/detail_10371.html
-鋸南麦酒
-https://maruchiba.jp/spot/detail_10509.html
-漁師料理 かなや
-https://maruchiba.jp/gourmet/spot/detail_11306.html
-
-
-
---- SOURCE URL: https://maruchiba.jp/spot/detail_10112.html ---
-
-多彩なイベントで利用できる本格的な複合コンベンション施設
-1989年にオープンした日本初の複合コンベンション施設です。21万平方mの敷地には7万2千平方mの展示面積を誇る「国際展示場」、4つの同時通訳ブースを持つ「国際会議場」、約9,000人を収容できる「幕張イベントホール」の3施設を備えています。催す規模や内容に合わせて複合施設を連携したイベントも可能で、施設間の移動をスムーズに行えるのが特徴。アイドルのライブから企業の展示会まで、一年を通してさまざまなイベントが開催されています。
-また、ドラマや映画のロケ地にもなっている施設周辺には、関東最大級のショッピングセンターや有名ホテルのほか、「千葉マリンスタジアム」「日本庭園見浜園」など、お楽しみスポットも盛りだくさん。夏の子ども向けイベントに参加したり、野球観戦やデートのスケジュールと合わせながら、幕張メッセを満喫してみてはいかがでしょうか。
+ゆったりとした空間の中で写実絵画を鑑賞できる癒やしの美術館
+2010年に開館した世界でもまれな写実絵画専門美術館です。画家が時間をかけて1枚の絵と向き合い、綿密につくりあげた写実絵画。地上1階、地下2階の3層で構成された計500mにわたる回廊型ギャラリーでは、日本最大の森本草介コレクションをはじめ、野田弘志、中山忠彦など、約60人の現代作家による写実の名品約120点を常時展示しています。
+建物の一部は鉄骨造によって空中に浮かせた特徴のある建築となっており、先端からは隣接する昭和の森が見渡せるでしょう。また、地下2階では美術館のための描き下ろしを中心とした100号以上の大作「私の代表作」がご覧いただけます。ゆったりとした空間の中で写実絵画の名品をぜひご鑑賞ください。
+当日中は入場券を受付にご提示いただければ何度でも出入りが自由。隣接する昭和の森を散策したり、イタリアンレストランやカフェでおいしいひとときを楽しみながら、のんびり作品と向き合ってみませんか。
 エリア
 ベイエリア
 千葉市
 カテゴリー
-その他レジャー
-レジャースポット
+ミュージアム・ギャラリー
 お気に入りリストに追加
 Share
 Twitter
 Facebook
 Line
 関連する特集
-千葉県のアウトレット情報まとめ
-幕張/木更津/酒々井アウトレットを比べてみました。	
-https://maruchiba.jp/feature/detail_55.html
+千葉の美術館・博物館特集！アートや文化に触れる、ミュージアムをご紹介します		
+https://maruchiba.jp/feature/detail_106.html
 千葉都市モノレールで空中さんぽ！ギネス認定の乗り物でお出かけしよう
 https://maruchiba.jp/feature/detail_145.html
-千葉県内のトップ・プロスポーツチーム特集
-https://maruchiba.jp/feature/detail_166.html
-X Games（Xゲームズ） Chiba 2026の魅力を徹底解説！～アクセス・チケット情報についてもご紹介します～
-https://maruchiba.jp/feature/detail_284.html
+初開催のトリエンナーレに注目！定番から穴場まで、千葉市の最新アートスポット5選
+https://maruchiba.jp/feature/detail_425.html
 基本情報
 住所
-〒261-0023　千葉県千葉市美浜区中瀬2-1
+千葉県千葉市緑区あすみが丘東3－15
 電話番号
-043-296-0001
+043-205-1500
 営業時間
-開催イベントによる
+10:00〜17:30（入館は17:00まで）
 定休日
-不定休
+火曜日（その他臨時休館あり）
 料金
-イベントによる
+一般2,100円、65歳以上・高校生・大学生1,600円、
+中学生1,000円、小学生以下800円（保護者1人につき2人まで無料）
+障害者割引あり、団体割引あり
 アクセス（車）
-・東京都心・羽田空港から約40分
-・成田空港から約30分
-・東関東自動車道湾岸習志野ICから約5分
-・京葉道路幕張ICから約5分
-・東関東自動車道湾岸千葉ICから約5分
+・茂原北ICから約10分
+・大網白里スマートICから約5分（ETC専用）
+・中野ICから約15分
+・板倉ICから約8分
 アクセス（鉄道）
-・JR海浜幕張駅から徒歩約5分
-・JR幕張豊砂駅から徒歩約20分
-・JR幕張本郷駅から幕張メッセ中央行きバスで約17分
+東京駅から最寄り駅 JR土気駅まで約70分。JR土気駅からバスで約5分
 駐車場（乗用車／台数）
-5,500台
+40台
 駐車場（大型バス／台数）
-120台
+1台（要事前連絡）
 駐車場（有料／無料）
-普通・準中型 1,000円／1日／1回
-大型・中型 4,100円／1日／1回
-自動二輪車 200円／1日／1回
+乗用車用　無料、大型バス　1台1,000円
 関連リンク
 ラブちばに投稿された写真を見る
-幕張メッセ
+ホキ美術館
 ※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
 おすすめ特集報
 春に読みたい！おすすめ特集
@@ -1099,103 +665,76 @@ JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒
 https://maruchiba.jp/feature/detail_197.html
 関連情報
 周辺にある観光スポット
-メッセモール
-https://maruchiba.jp/spot/detail_10489.html
-ZOZOマリンスタジアム
-https://maruchiba.jp/spot/detail_10111.html
-千葉県立幕張海浜公園 見浜園
-https://maruchiba.jp/spot/detail_10609.html
-ホテルスプリングス幕張
-https://maruchiba.jp/spot/detail_10487.html
-山縣飛行士殉空之地碑
-https://maruchiba.jp/spot/detail_10444.html
-パサール幕張（上り）
-https://maruchiba.jp/spot/detail_10605.html
-パサール幕張（下り）
-https://maruchiba.jp/spot/detail_10606.html
-千葉県国際総合水泳場
-https://maruchiba.jp/spot/detail_10595.html
-鈴木大地記念碑
-https://maruchiba.jp/spot/detail_10443.html
-検見川神社
-https://maruchiba.jp/spot/detail_10636.html
-周辺にあるグルメスポット
-MAKUHARI BREWERY
-https://maruchiba.jp/gourmet/spot/detail_11069.html
-yukishirushi 0°（ユキシルシ ゼロド）
-https://maruchiba.jp/gourmet/spot/detail_15849.html
-Le Cafe de Pomme
-https://maruchiba.jp/gourmet/spot/detail_11035.html
+季節の花「あじさい・睡蓮」／昭和の森
+https://maruchiba.jp/spot/detail_13798.html
+季節の花「ツツジ」／昭和の森
+https://maruchiba.jp/spot/detail_13746.html
+昭和の森
+https://maruchiba.jp/spot/detail_10118.html
+小中池公園
+https://maruchiba.jp/spot/detail_10258.html
+縣神社
+https://maruchiba.jp/spot/detail_10263.html
+宮谷八幡神社
+https://maruchiba.jp/spot/detail_10262.html
+本國寺（宮谷県庁跡）
+https://maruchiba.jp/spot/detail_10260.html
+橘樹神社
+https://maruchiba.jp/spot/detail_10667.html
+農産物直売所 旬の里ねぎぼうず
+https://maruchiba.jp/spot/detail_10521.html
+Sport & Do Resort リソルの森
+https://maruchiba.jp/spot/detail_10600.html
 
 
 
---- SOURCE URL: https://maruchiba.jp/spot/detail_10111.html ---
+--- SOURCE URL: https://maruchiba.jp/spot/detail_10080.html ---
 
-白熱プレーに感動！千葉ロッテマリーンズの本拠地
-「千葉ロッテマリーンズ」のホームスタジアムであるZOZOマリンスタジアムは、約30,000人の観客を収容できる球場です。意識しているのは観客と選手の心地よさ。従来の野球場の定番だった照明塔に代わり、サークルラインと呼ばれるひさしの先端に取り付けられた照明は、目にやさしい自然な明るさを実現しました。2018年からは最先端技術を採用した天然芝に近い人工芝を取り入れ、選手の積極的なプレーを後押し、試合を盛り上げます。
-ファンサービスも充実！ホームゲームが開催される日は悪天候でない限り花火が打ち上げられ、試合の高揚感を高めます。ダイナミックなプレーをより間近に感じたい観客の要望に応えるため、グラウンドレベルの観客席も用意。赤ちゃんを含め、幅広い年齢層の方が快適に過ごせる環境を提供しているのも魅力です。
+まるで真っ赤な絨毯！八千代市内唯一の彼岸花の群生地
+京成電鉄勝田台駅から車で10分ほどの場所に位置する緑豊かな森林の中の公園。木製遊具やすべり台のあるワイワイ広場や芝生広場があり、子どもたちはもとより、森林浴を楽しむ人など多くの市民の憩いの場となっています。春になると桜の名所としても知られています。
+秋の訪れとともに木立の中にたくさんの彼岸花が咲き、緩やかな斜面を赤い花で覆い尽くします。見頃は9月中旬～10月上旬で、期間中には「やちよ彼岸花まつり」を開催。広い敷地を彼岸花が真っ赤に染め上げる美しい光景を一目見ようと多くの人でにぎわいます。
 エリア
 ベイエリア
-千葉市
+八千代市
 カテゴリー
 公園・スポーツ施設
 レジャースポット
+花・紅葉
 お気に入りリストに追加
 Share
 Twitter
 Facebook
 Line
+さくら
+3月下旬～4月上旬には約200本のソメイヨシノが小高い丘をピンク色に染め上げます。八千代市で屈指の桜の名所として知られています。暖かな春の陽気に誘われながら心地よい散策にでかけませんか？
 関連する特集
-千葉県のアウトレット情報まとめ
-幕張/木更津/酒々井アウトレットを比べてみました。	
-https://maruchiba.jp/feature/detail_55.html
-千葉都市モノレールで空中さんぽ！ギネス認定の乗り物でお出かけしよう
-https://maruchiba.jp/feature/detail_145.html
+千葉の桜の名所・お花見情報｜開花時期やおすすめスポット情報まで一挙紹介
+https://maruchiba.jp/feature/detail_117.html
+千葉の公園・パーク・庭園特集！人気スポットをたっぷり93か所ご紹介します
+https://maruchiba.jp/feature/detail_266.html
+関連するモデルコース
+秋の定番！八千代市で、千葉県有数のバラと彼岸花のフラワースポットを巡ろう
+https://maruchiba.jp/course/detail_83.html
 基本情報
 住所
-千葉県千葉市美浜区美浜1
+千葉県八千代市村上901-2
 電話番号
-0570-026-226（マリーンズ・インフォメーションセンター（一般））
+047-421-6777（八千代市公園緑地課）
 その他連絡先
-・マリーンズ・インフォメーションセンター
-03-5682-6329（TEAM26会員）
- 043-296-1189（その他情報） 
-・球場への忘れ物、草野球等の一般利用
-043-296-1227（㈱千葉マリンスタジアム）
-営業時間
-平日およびZOZOマリン デーゲーム開催日：10:00～17:00
-ZOZOマリン ナイターゲーム開催日：10:00～20:00
-定休日
-月により異なるため、公式サイトお問い合わせページを参照してください
-料金
-チケット価格は購入するタイミングにより変動するダイナミックプライシング
+047-458-6446（やちよ彼岸花まつり実行委員会）
+（公益財団法人　八千代市地域振興財団　緑化推進事務所内）
 アクセス（車）
-・東関東自動車道湾岸習志野ICから約5分
-・京葉道路幕張ICから約5分
-・東関東自動車道湾岸千葉ICから約5分
+国道16号線の村上団地交差点を村上団地方面に曲がり、4つめの信号を左折、道なりに1.3kmほど進んだ右側
 アクセス（鉄道）
-・JR京葉線海浜幕張駅から徒歩約15分、バスで約6分
-・JR総武線幕張本郷駅からバスで約20分
-・京成千葉線幕張本郷駅からバスで約20分
-・JR総武線幕張駅からバスで約15分
-・JR総武線稲毛駅からバスで約30分
-・JR京葉線幕張豊砂駅から徒歩約30分
-※バスはいずれも「ZOZOマリンスタジアム行」
+・東葉高速鉄道 村上駅から徒歩約18分
+・東葉高速鉄道 東葉勝田台駅から東洋バス 村上団地行きで村上団地第一バス停下車すぐ
+・京成線 勝田台駅から東洋バス 村上団地行きで村上団地第一バス停下車すぐ
 駐車場（乗用車／台数）
-・スタジアム海側駐車場　313台　※毎年12月～2月は休業
-・幕張海浜公園駐車場
-Aブロック　63台
-Bブロック　92台
-Cブロック　46台（うち1台は障がい者スペース）
-駐車場（大型バス／台数）
-なし
-駐車場（有料／無料）
-有料（料金等は関連リンクを参照）
+54台
 関連リンク
 ラブちばに投稿された写真を見る
-千葉ロッテマリーンズ公式サイト
-スタジアム海側駐車場
-幕張海浜公園駐車場
+八千代市公式ホームページ（村上緑地公園の概要）
+ココシルやちよ（村上緑地公園紹介ページ）
 ※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
 おすすめ特集報
 春に読みたい！おすすめ特集
@@ -1284,31 +823,35 @@ JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒
 https://maruchiba.jp/feature/detail_197.html
 関連情報
 周辺にある観光スポット
-幕張メッセ
-https://maruchiba.jp/spot/detail_10112.html
-メッセモール
-https://maruchiba.jp/spot/detail_10489.html
-千葉県立幕張海浜公園 見浜園
-https://maruchiba.jp/spot/detail_10609.html
-ホテルスプリングス幕張
-https://maruchiba.jp/spot/detail_10487.html
-山縣飛行士殉空之地碑
-https://maruchiba.jp/spot/detail_10444.html
-千葉県国際総合水泳場
-https://maruchiba.jp/spot/detail_10595.html
-鈴木大地記念碑
-https://maruchiba.jp/spot/detail_10443.html
-茜浜緑地（関東富士見百景）
-https://maruchiba.jp/spot/detail_10439.html
-パサール幕張（上り）
-https://maruchiba.jp/spot/detail_10605.html
-パサール幕張（下り）
-https://maruchiba.jp/spot/detail_10606.html
+八千代市立郷土博物館
+https://maruchiba.jp/spot/detail_10083.html
+正覚院（毘沙門天）
+https://maruchiba.jp/spot/detail_10084.html
+長福寺（寿老人）
+https://maruchiba.jp/spot/detail_10091.html
+長福寺（弁財天）
+https://maruchiba.jp/spot/detail_10085.html
+㈱山万ユーカリファーム
+https://maruchiba.jp/spot/detail_11228.html
+農産物直売所　樫の木　南ユーカリが丘店
+https://maruchiba.jp/spot/detail_11242.html
+山万ユーカリファーム 　農産物直売所 樫の木　本店
+https://maruchiba.jp/spot/detail_13215.html
+ファーマーズマーケット「よったいよ」
+https://maruchiba.jp/spot/detail_10082.html
+萱田地区公園
+https://maruchiba.jp/spot/detail_10081.html
+山万ユーカリが丘線
+https://maruchiba.jp/spot/detail_11320.html
 周辺にあるグルメスポット
-MAKUHARI BREWERY
-https://maruchiba.jp/gourmet/spot/detail_11069.html
-yukishirushi 0°（ユキシルシ ゼロド）
-https://maruchiba.jp/gourmet/spot/detail_15849.html
+中華レストラン みろべー
+https://maruchiba.jp/gourmet/spot/detail_11844.html
+レストラン＆バー　ディネット
+https://maruchiba.jp/gourmet/spot/detail_12574.html
+【当面の間、休業中】入母屋珈琲 ユーカリが丘本店
+https://maruchiba.jp/gourmet/spot/detail_11056.html
+京成バラ園
+https://maruchiba.jp/spot/detail_10078.html
 
 
 
@@ -1429,54 +972,54 @@ https://maruchiba.jp/spot/detail_10423.html
 全画面表示
 急上昇ランキング
 すべて
-雨の日でも楽しめる千葉のおでかけスポット21選！
-https://maruchiba.jp/feature/detail_38.html
+千葉の日帰り温泉33選！スーパー銭湯やスパ、日帰りできる温泉旅館をご紹介
+https://maruchiba.jp/feature/detail_60.html
 特集
-城山みのり園
-https://maruchiba.jp/spot/detail_13184.html
-観光スポット
-千葉こどもの国 キッズダム徹底ガイド｜人気アトラクション・料金・楽しみ方を紹介
-https://maruchiba.jp/feature/detail_537.html
+絶景と歴史が詰まった鋸山！ロープウェーと登山の魅力を徹底解説します
+https://maruchiba.jp/feature/detail_108.html
 特集
-壮大な九十九里・銚子の絶景を堪能！海辺を走る日帰りドライブコース
-https://maruchiba.jp/course/detail_69.html
+空港だけではもったいない！成田空港周辺で遊べるスポットをご紹介！飛行機を間近に見られるビューポイントから、ちょっとマニアックな資料館・注目の観光スポットまで
+https://maruchiba.jp/feature/detail_360.html
+特集
+千葉のお土産といえばこれ！地元民がおススメするお土産31選
+https://maruchiba.jp/feature/detail_103.html
+特集
+波の伊八の作品を巡るモデルコース（1泊2日）
+https://maruchiba.jp/course/detail_51.html
 モデルコース
-ちばモノレール祭り2026／千葉都市モノレール車両基地
-https://maruchiba.jp/event/detail_11188.html
-観光スポット
 特集
-雨の日でも楽しめる千葉のおでかけスポット21選！
-https://maruchiba.jp/feature/detail_38.html
-千葉こどもの国 キッズダム徹底ガイド｜人気アトラクション・料金・楽しみ方を紹介
-https://maruchiba.jp/feature/detail_537.html
-伊能忠敬の知られざる生涯 〜実は日本地図が作りたいわけではなかった!?
-https://maruchiba.jp/feature/detail_286.html
-試飲や試食も♪千葉県の工場見学スポット6選＆周辺おでかけスポット！
-https://maruchiba.jp/feature/detail_279.html
-千葉のグランピング施設特集
-https://maruchiba.jp/feature/detail_77.html
+千葉の日帰り温泉33選！スーパー銭湯やスパ、日帰りできる温泉旅館をご紹介
+https://maruchiba.jp/feature/detail_60.html
+絶景と歴史が詰まった鋸山！ロープウェーと登山の魅力を徹底解説します
+https://maruchiba.jp/feature/detail_108.html
+空港だけではもったいない！成田空港周辺で遊べるスポットをご紹介！飛行機を間近に見られるビューポイントから、ちょっとマニアックな資料館・注目の観光スポットまで
+https://maruchiba.jp/feature/detail_360.html
+千葉のお土産といえばこれ！地元民がおススメするお土産31選
+https://maruchiba.jp/feature/detail_103.html
+千葉県の「道の駅」特集！ドライブや観光の際に訪れたくなる魅力をお教えします
+https://maruchiba.jp/feature/detail_113.html
 モデルコース
-壮大な九十九里・銚子の絶景を堪能！海辺を走る日帰りドライブコース
-https://maruchiba.jp/course/detail_69.html
-絶景・グルメ・癒しを満喫！銚子モデルコース（日帰り）
-https://maruchiba.jp/course/detail_22.html
+波の伊八の作品を巡るモデルコース（1泊2日）
+https://maruchiba.jp/course/detail_51.html
+雄大な太平洋を感じる！九十九里モデルコース（日帰り）
+https://maruchiba.jp/course/detail_16.html
+成田空港発、公共交通で行く佐原モデルコース（半日）
+https://maruchiba.jp/course/detail_104.html
 千葉で歴史を堪能する！香取神宮・佐原の1泊2日町歩きコース
 https://maruchiba.jp/course/detail_65.html
-館山市の定番モデルコース！グルメも歴史も海岸沿いのドライブも楽しめます
-https://maruchiba.jp/course/detail_87.html
-勝浦市の定番モデルコース！グルメも絶景も海岸沿いのドライブも楽しめます
-https://maruchiba.jp/course/detail_121.html
+東京湾フェリーで鋸山周辺の観光を楽しむモデルコース（日帰り）
+https://maruchiba.jp/course/detail_112.html
 観光スポット
-城山みのり園
-https://maruchiba.jp/spot/detail_13184.html
-ちばモノレール祭り2026／千葉都市モノレール車両基地
-https://maruchiba.jp/event/detail_11188.html
-小谷流の里 ドギーズアイランド
-https://maruchiba.jp/spot/detail_10614.html
-秋のまつり／千葉県立房総のむら
-https://maruchiba.jp/event/detail_13239.html
-第17回 千葉県ジャンボかぼちゃ大会／里のMUJIみんなみの里
-https://maruchiba.jp/event/detail_13150.html
+伊能忠敬旧宅
+https://maruchiba.jp/spot/detail_10179.html
+大山千枚田
+https://maruchiba.jp/spot/detail_10374.html
+マザー牧場
+https://maruchiba.jp/spot/detail_10327.html
+市原湖畔美術館
+https://maruchiba.jp/spot/detail_10270.html
+鵜原海岸（白い鳥居）
+https://maruchiba.jp/spot/detail_10388.html
 今週の人気ランキング
 すべて
 雨の日でも楽しめる千葉のおでかけスポット21選！
@@ -1485,26 +1028,26 @@ https://maruchiba.jp/feature/detail_38.html
 今年も発売！サンキューちばフリーパスで旅しよう♪
 https://maruchiba.jp/feature/39pass.html
 特集
-千葉のお土産といえばこれ！地元民がおススメするお土産31選
-https://maruchiba.jp/feature/detail_103.html
-特集
 千葉の日帰り温泉33選！スーパー銭湯やスパ、日帰りできる温泉旅館をご紹介
 https://maruchiba.jp/feature/detail_60.html
 特集
-木更津の定番・有名・穴場・おすすめ観光スポット44選！【2026年】
-https://maruchiba.jp/feature/detail_374.html
+千葉のお土産といえばこれ！地元民がおススメするお土産31選
+https://maruchiba.jp/feature/detail_103.html
+特集
+絶景と歴史が詰まった鋸山！ロープウェーと登山の魅力を徹底解説します
+https://maruchiba.jp/feature/detail_108.html
 特集
 特集
 雨の日でも楽しめる千葉のおでかけスポット21選！
 https://maruchiba.jp/feature/detail_38.html
 今年も発売！サンキューちばフリーパスで旅しよう♪
 https://maruchiba.jp/feature/39pass.html
-千葉のお土産といえばこれ！地元民がおススメするお土産31選
-https://maruchiba.jp/feature/detail_103.html
 千葉の日帰り温泉33選！スーパー銭湯やスパ、日帰りできる温泉旅館をご紹介
 https://maruchiba.jp/feature/detail_60.html
-木更津の定番・有名・穴場・おすすめ観光スポット44選！【2026年】
-https://maruchiba.jp/feature/detail_374.html
+千葉のお土産といえばこれ！地元民がおススメするお土産31選
+https://maruchiba.jp/feature/detail_103.html
+絶景と歴史が詰まった鋸山！ロープウェーと登山の魅力を徹底解説します
+https://maruchiba.jp/feature/detail_108.html
 モデルコース
 勝浦市の定番モデルコース！グルメも絶景も海岸沿いのドライブも楽しめます
 https://maruchiba.jp/course/detail_121.html
@@ -1521,12 +1064,12 @@ https://maruchiba.jp/course/detail_104.html
 https://maruchiba.jp/event/detail_13119.html
 岡本桟橋（原岡桟橋）	
 https://maruchiba.jp/spot/detail_10409.html
-第9回 2026いすみイセエビまつり／大原漁港
-https://maruchiba.jp/event/detail_13145.html
 鋸山 日本寺（地獄のぞき）
 https://maruchiba.jp/spot/detail_10364.html
-さんばしまつり2026／さんばしひろば
-https://maruchiba.jp/event/detail_13131.html
+養老渓谷
+https://maruchiba.jp/spot/detail_10271.html
+第9回 2026いすみイセエビまつり／大原漁港
+https://maruchiba.jp/event/detail_13145.html
 テーマから探す
 秋の定番
 https://maruchiba.jp/theme/detail_1________25.html
@@ -1581,386 +1124,6 @@ check
 お知らせ
 https://maruchiba.jp/feature/detail_540.html
 新着情報をもっと見る
-
-
-
---- SOURCE URL: https://maruchiba.jp/spot/detail_10609.html ---
-
-高層ビルに囲まれた美しい庭園。数寄屋造りの茶室でお抹茶はいかが？
-幕張海浜公園内にある落ち着いた雰囲気の日本庭園。池泉回遊式（ちせんかいゆうしき）の庭は中央に池があり、山・川・海・林などが表現されています。池や水の流れ、松の植栽といった自然美をゆったりと楽しめるのが魅力。池には鯉が優雅に泳ぎ、エサやりをすることもできます。春は桜、夏は花菖蒲やオオガハス、秋は紅葉、冬は雪吊りなど、季節で移ろう景観はどこをとっても美しく、高層ビルが借景になる現代的な風景がまた新鮮です。
-池の北側には、数寄屋造りの本格的な茶室「松籟亭（しょうらいてい）」も。散策の途中で立ち寄り、抹茶と和菓子をいただきながら、少しだけ贅沢な時間を過ごしましょう。
-そのほか、お箏の演奏会や庭園・茶室のガイドなど、日本文化にふれられるイベントが不定期で開催されています。
-エリア
-ベイエリア
-千葉市
-カテゴリー
-水族館・動物園・植物園・牧場
-レジャースポット
-ミュージアム・ギャラリー
-お気に入りリストに追加
-Share
-Twitter
-Facebook
-Line
-関連する特集
-千葉県内のトップ・プロスポーツチーム特集
-https://maruchiba.jp/feature/detail_166.html
-千葉の公園・パーク・庭園特集！人気スポットをたっぷり93か所ご紹介します
-https://maruchiba.jp/feature/detail_266.html
-X Games（Xゲームズ） Chiba 2026の魅力を徹底解説！～アクセス・チケット情報についてもご紹介します～
-https://maruchiba.jp/feature/detail_284.html
-三代目の南極観測船 SHIRASE5002 徹底解剖！ 船内見学ツアー体験記
-https://maruchiba.jp/feature/detail_364.html
-千葉市・船橋市のおすすめ日帰り温泉・スーパー銭湯5選！
-https://maruchiba.jp/feature/detail_372.html
-関連するモデルコース
-幕張メッセの帰りにはここに寄ろう！イベント終わりに千葉を堪能する。1泊2日のモデルコース
-https://maruchiba.jp/course/detail_56.html
-基本情報
-住所
-〒261-0021　千葉県千葉市美浜区ひび野2-116
-電話番号
-043-296-0126（県立海浜幕張公園）
-営業時間
-・見浜園：9:00～17:00
-・抹茶営業：9:00～16:30
-※共に券売は30分前まで
-定休日
-・毎週月曜日（月曜日が祝日の場合は翌火曜日）
-・年末年始（12月29日～1月3日）
-※催し物の開催時には、休園日や時間を変更する場合があります。詳しい日程については公式サイトをご確認ください。
-料金
-【入園料】
-・大人：100円
-・小中高校生：50円
-※年齢65歳以上の方、障がい者の方及びその介護者の方は、入園料無料。
-【抹茶（和菓子付）】
-・1杯：900円
-アクセス（車）
-・東関東自動車道湾岸習志野ICを出て国道357号を直進し中瀬交差点を右折、メッセ交差点を左折
-・東関東自動車道湾岸千葉ICを出て国道357号を直進し若葉交差点を左折、ひび野二丁目交差点を右折
-アクセス（鉄道）
-JR京葉線海浜幕張駅公園改札から徒歩約8分、南口から徒歩約10分
-駐車場（乗用車／台数）
-最寄りCブロック　46台（うち1台は障がい者用）
-駐車場（大型バス／台数）
-なし
-駐車場（有料／無料）
-8時間以内：600円
-（以後1時間に100円加算）
-※機械式料金徴収
-※大型車およびバイクの入庫はできません。バイクは幕張海浜公園指定の駐輪場をご利用ください。
-※障がい者の方は、障がい者手帳またはミライロIDの提示により駐車料金が無料となります。
-関連リンク
-ラブちばに投稿された写真を見る
-千葉県立幕張海浜公園（A・B・Cブロック）
-千葉市観光ガイド
-※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
-おすすめ特集報
-春に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
-https://maruchiba.jp/feature/detail_23.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-まるで黄色い絨毯♪菜の花畑を見に行こう！
-https://maruchiba.jp/feature/detail_42.html
-春の訪れを教えてくれる、梅が咲くスポット
-https://maruchiba.jp/feature/detail_43.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-夏に読みたい！おすすめ特集
-千葉の潮干狩り2026
-https://maruchiba.jp/feature/detail_14.html
-千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
-https://maruchiba.jp/feature/detail_27.html
-千葉のプール・ウォーターレジャー2026
-https://maruchiba.jp/feature/detail_50.html
-千葉の花火大会・打ち上げ花火2026
-https://maruchiba.jp/feature/detail_53.html
-日帰りで楽しめる海のアクティビティ（体験）特集
-https://maruchiba.jp/feature/detail_62.html
-千葉のひまわり畑を歩こう！2026
-https://maruchiba.jp/feature/detail_64.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-ちばの祭り -山車・神輿・獅子舞-
-https://maruchiba.jp/feature/detail_88.html
-秋に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
-https://maruchiba.jp/feature/detail_28.html
-千葉の味覚狩り
-https://maruchiba.jp/feature/detail_33.html
-秋風にゆれるコスモス畑を歩こう！
-https://maruchiba.jp/feature/detail_34.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-落花生掘りといえば千葉！おすすめのスポットを紹介します。
-https://maruchiba.jp/feature/detail_63.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-冬に読みたい！おすすめ特集
-千葉の初詣スポット2026
-https://maruchiba.jp/feature/detail_17.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-千葉の初日の出スポット2026
-https://maruchiba.jp/feature/detail_69.html
-東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
-https://maruchiba.jp/feature/detail_169.html
-千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
-https://maruchiba.jp/feature/detail_177.html
-千葉の展望台＆灯台特集～個性豊かな絶景を望む～
-https://maruchiba.jp/feature/detail_178.html
-JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
-https://maruchiba.jp/feature/detail_197.html
-関連情報
-周辺にある観光スポット
-幕張メッセ
-https://maruchiba.jp/spot/detail_10112.html
-メッセモール
-https://maruchiba.jp/spot/detail_10489.html
-ホテルスプリングス幕張
-https://maruchiba.jp/spot/detail_10487.html
-ZOZOマリンスタジアム
-https://maruchiba.jp/spot/detail_10111.html
-検見川神社
-https://maruchiba.jp/spot/detail_10636.html
-山縣飛行士殉空之地碑
-https://maruchiba.jp/spot/detail_10444.html
-パサール幕張（上り）
-https://maruchiba.jp/spot/detail_10605.html
-稲毛記念館
-https://maruchiba.jp/spot/detail_10571.html
-パサール幕張（下り）
-https://maruchiba.jp/spot/detail_10606.html
-SUNSET BEACH PARK INAGE（稲毛海浜公園）
-https://maruchiba.jp/spot/detail_10117.html
-周辺にあるグルメスポット
-MAKUHARI BREWERY
-https://maruchiba.jp/gourmet/spot/detail_11069.html
-yukishirushi 0°（ユキシルシ ゼロド）
-https://maruchiba.jp/gourmet/spot/detail_15849.html
-
-
-
---- SOURCE URL: https://maruchiba.jp/spot/detail_10104.html ---
-
-躍動感あふれる生き物の姿に元気がもらえる動物園
-レッサーパンダの風太で話題となり、ゴリラやハシビロコウなど約100種の動物がいる魅力いっぱいの動物公園です。
-2025年4月には開園40周年を迎えました。
-数ある見どころの中でも、獲物を捕食するようにとびかかるライオンのミートキャッチャーは迫力満点！疑似餌を追って疾走するチーターランを見ると、チーターの身体能力の高さが実感できます。（夏の間は休止しています）
-大型類人猿のニシゴリラ、チンパンジーをはじめ、マーモセットなどの小型ザル、世界で最も美しいサルと言われているブラッザグエノンなど、国内屈指の多種多様なサル20種を飼育しており、身体の特徴の違いを比較できるのも魅力の１つとなっています。
-また、2024年11月には「登録博物館」に登録されました。
-2025年3月には、動物科学館が熱帯雨林を体験しながら学べる施設「生命の森 熱帯雨林」としてリニューアルオープンしました。　
-エリア
-ベイエリア
-千葉市
-カテゴリー
-水族館・動物園・植物園・牧場
-レジャースポット
-旅のテーマ
-秋の定番
-春の定番
-夏の定番
-冬の定番
-お気に入りリストに追加
-Share
-Twitter
-Facebook
-Line
-関連する特集
-カップルで行きたい！千葉県のおすすめデートスポット28選！
-https://maruchiba.jp/feature/detail_100.html
-千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
-https://maruchiba.jp/feature/detail_177.html
-JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
-https://maruchiba.jp/feature/detail_197.html
-千葉のGW（ゴールデンウィーク）を満喫！おすすめの観光スポット・イベントをご紹介！【2026年】
-https://maruchiba.jp/feature/detail_234.html
-千葉の夏休みを満喫！おすすめの観光スポット・イベントをご紹介！
-https://maruchiba.jp/feature/detail_257.html
-試飲や試食も♪千葉県の工場見学スポット6選＆周辺おでかけスポット！
-https://maruchiba.jp/feature/detail_279.html
-千葉のお出かけスポット32選！
-https://maruchiba.jp/feature/detail_300.html
-千葉市・船橋市のおすすめ日帰り温泉・スーパー銭湯5選！
-https://maruchiba.jp/feature/detail_372.html
-基本情報
-住所
-千葉県千葉市若葉区源町280
-電話番号
-043-252-1111
-営業時間
-9:30〜16:30（入園は16:00まで）
-定休日
-毎週水曜日（水曜日が休日にあたる時は翌日）、年末年始（12月29日から1月1日）
-料金
-大人（高校生以上）  800円、中学生以下  無料
-年間パスポート（大人） 3,000円
-アクセス（車）
-・東京方面からは京葉道路穴川ICから市街方面に約3km
-・市原方面からは京葉道路穴川東ICから市街方面に2km
-・成田方面からは東関東自動車道路千葉北ICから千葉方面へ約7km 
-アクセス（鉄道）
-・千葉都市モノレール動物公園駅下車 徒歩約1分
-・西千葉駅から千葉内陸バスで千葉市動物公園駅下車 徒歩約1分
-・千葉駅から千葉内陸バス千で葉市動物公園駅下車 徒歩約1分
-駐車場（乗用車／台数）
-1,569台
-駐車場（大型バス／台数）
-49台
-駐車場（有料／無料）
-・普通車 800円
-・大型車（マイクロバスを含む） 3,200円
-・自転車、オートバイ 無料
-関連リンク
-ラブちばに投稿された写真を見る
-千葉市動物公園
-※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
-おすすめ特集報
-春に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
-https://maruchiba.jp/feature/detail_23.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-まるで黄色い絨毯♪菜の花畑を見に行こう！
-https://maruchiba.jp/feature/detail_42.html
-春の訪れを教えてくれる、梅が咲くスポット
-https://maruchiba.jp/feature/detail_43.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-夏に読みたい！おすすめ特集
-千葉の潮干狩り2026
-https://maruchiba.jp/feature/detail_14.html
-千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
-https://maruchiba.jp/feature/detail_27.html
-千葉のプール・ウォーターレジャー2026
-https://maruchiba.jp/feature/detail_50.html
-千葉の花火大会・打ち上げ花火2026
-https://maruchiba.jp/feature/detail_53.html
-日帰りで楽しめる海のアクティビティ（体験）特集
-https://maruchiba.jp/feature/detail_62.html
-千葉のひまわり畑を歩こう！2026
-https://maruchiba.jp/feature/detail_64.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-ちばの祭り -山車・神輿・獅子舞-
-https://maruchiba.jp/feature/detail_88.html
-秋に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
-https://maruchiba.jp/feature/detail_28.html
-千葉の味覚狩り
-https://maruchiba.jp/feature/detail_33.html
-秋風にゆれるコスモス畑を歩こう！
-https://maruchiba.jp/feature/detail_34.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-落花生掘りといえば千葉！おすすめのスポットを紹介します。
-https://maruchiba.jp/feature/detail_63.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-冬に読みたい！おすすめ特集
-千葉の初詣スポット2026
-https://maruchiba.jp/feature/detail_17.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-千葉の初日の出スポット2026
-https://maruchiba.jp/feature/detail_69.html
-東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
-https://maruchiba.jp/feature/detail_169.html
-千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
-https://maruchiba.jp/feature/detail_177.html
-千葉の展望台＆灯台特集～個性豊かな絶景を望む～
-https://maruchiba.jp/feature/detail_178.html
-JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
-https://maruchiba.jp/feature/detail_197.html
-関連情報
-周辺にある観光スポット
-千葉都市モノレール
-https://maruchiba.jp/spot/detail_11303.html
-TIPSTAR DOME CHIBA
-https://maruchiba.jp/spot/detail_10109.html
-千葉公園
-https://maruchiba.jp/spot/detail_10108.html
-椿森コムナ
-https://maruchiba.jp/spot/detail_12649.html
-the RECORDS
-https://maruchiba.jp/spot/detail_12722.html
-こてはし温水プール
-https://maruchiba.jp/spot/detail_10570.html
-千葉神社
-https://maruchiba.jp/spot/detail_10123.html
-日本酒プレミアムラウンジ⼀献⾵⽉ by PERIE CHIBA
-https://maruchiba.jp/spot/detail_12678.html
-ハーブちくら 海辺のハーブガーデン
-https://maruchiba.jp/spot/detail_15074.html
-流山市農産物直売所「新鮮食味」
-https://maruchiba.jp/spot/detail_14099.html
-周辺にあるグルメスポット
-ほっこり芋　宮野木店
-https://maruchiba.jp/gourmet/spot/detail_11061.html
-タンジョウ ファーム キッチン
-https://maruchiba.jp/gourmet/spot/detail_11841.html
-醸しダイニング　KOKORO
-https://maruchiba.jp/gourmet/spot/detail_13971.html
-さんが・郷土料理 こっから
-https://maruchiba.jp/gourmet/spot/detail_11129.html
 
 
 
@@ -2153,853 +1316,67 @@ https://maruchiba.jp/gourmet/spot/detail_13180.html
 
 
 
---- SOURCE URL: https://maruchiba.jp/spot/detail_10302.html ---
+--- SOURCE URL: https://maruchiba.jp/spot/detail_10123.html ---
 
-森に囲まれた大岩の上に建つお堂が圧巻のパワースポット！
-山頂の巨大な岩の上に建つお堂と下から支える何十本もの柱が見せる壮麗な姿。この笠森寺観音堂は、後一条天皇の勅願により1028年に建立された日本で唯一の「四方縣造」として知られ、国指定の重要文化財となっています。
-木造の階段を登りたどりつく回廊は、まるで空中に浮かんでいるかのよう。南房総の山々の素晴らしい眺望が見渡せ、眼下には国指定天然記念物である笠森寺自然林の豊かな森が広がります。
-マイナスイオンたっぷりの参道の両脇には巨木が見られ、「子授楠」や「三本杉」などの名木があります。春には境内に植えられたソメイヨシノや枝垂桜、周囲の森の山桜などが次々と花を咲かせます。
-十一面観音像が本尊であることから「笠森観音」と呼ばれ親しまれている笠森寺。784年に最澄上人が開基されたと伝わり、坂東三十三観音霊場の第三十一番札所として古くから巡礼の霊場となっています。また、御来光の道「レイライン」上にあり、神秘のパワーに満ちた注目のパワースポットです。
-4月初旬には、「花まつり（お釈迦様の誕生日を祝う行事）」が開催され、甘茶の接待があり、花桃の観賞することができます。
-見頃：３月下旬～4月上旬
+厄除開運・八方除の妙見様のご本宮
+かつて房総一帯の地を納めていた千葉氏一族は妙見様という星の神様を守護神としていました。その妙見菩薩を本尊とする寺として建立されたのが千葉神社の始まりと言われています。江戸時代は寺院として人々の信仰を集め、そののち明治の神仏分離令により神社となりました。
+上下に二つの拝殿を有する朱塗りの重層社殿は、古い歴史と由緒を持つ神社にふさわしい荘厳な佇まい。境内には学問の神様・菅原道真公を御祭神とする千葉天神も鎮座しており、毎年合格祈願をする多くの受験生が訪れます。
+夏の例祭「妙見大祭（みょうけんたいさい）」は平安時代後期から現在まで1度も途切れることなく続けられている最も大きなお祭り。そのほか年間を通じて季節ごとのお祭りや行事が行われ、千葉の守護神として今もなお広く崇敬を集めています。
 エリア
-九十九里
-長南町
+ベイエリア
+千葉市
 カテゴリー
 歴史・文化・社寺仏閣
 ちば文化資産
-旅のテーマ
-穴場観光
-レトロな街並み
 お気に入りリストに追加
 Share
 Twitter
 Facebook
 Line
-春の花（梅・桜）
-春になると境内に植えられた梅や桜、周囲の森の山桜が次々と可憐な花を咲かせ、笠森観音を彩ります。
-【規模】約120本（境内に約20本、観音山に約100本）
-【品種】（梅）枝垂れ梅、蠟梅、紅梅 等　（桜）河津桜、ソメイヨシノ、ヤマザクラ、枝垂れ桜、ギョイコウ 等
+節分祭
+旧暦の大晦日にあたる夜、厄や疫病の象徴であった鬼を追い払い、新しい年の一陽来復・厄除開運・病魔退散を願って行われます。神楽舞が奉納され、福豆や福銭などの縁起物が撒かれるなど、毎年多くの参拝客でにぎわう祭典です。
 関連する特集
 千葉の初詣スポット2026
 https://maruchiba.jp/feature/detail_17.html
-WEB会議・壁紙に！ちばのバーチャル背景特集
-https://maruchiba.jp/feature/detail_18.html
 女子旅におすすめ！千葉県の人気スポット21選
 https://maruchiba.jp/feature/detail_96.html
-千葉の桜の名所・お花見情報｜開花時期やおすすめスポット情報まで一挙紹介
-https://maruchiba.jp/feature/detail_117.html
+千葉県内のトップ・プロスポーツチーム特集
+https://maruchiba.jp/feature/detail_166.html
+JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
+https://maruchiba.jp/feature/detail_197.html
 千葉の神社・お寺特集！有名な神社やパワースポットもたっぷり72か所ご紹介
 https://maruchiba.jp/feature/detail_252.html
-試飲や試食も♪千葉県の工場見学スポット6選＆周辺おでかけスポット！
-https://maruchiba.jp/feature/detail_279.html
-九十九里エリアの定番・有名・穴場・おすすめ観光スポット62選【2026年】
-https://maruchiba.jp/feature/detail_316.html
-【2026年版】エリア別！千葉のゴルフ場17選～観光もグルメも楽しむ欲張りゴルフ旅ガイド～
-https://maruchiba.jp/feature/detail_478.html
-関連するモデルコース
-＜ちば文化資産＞九十九里が誇る日本唯一の建築様式のお寺や歴史の痕跡をたどる
-https://maruchiba.jp/course/detail_43.html
-基本情報
-住所
-千葉県長生郡長南町笠森302
-電話番号
-0475-46-0536
-営業時間
-4月～9月　8:00～16:30
-10月～3月　8:00～16:00
-料金
-大人300円・小人100円
-御堂や山林の維持のため拝観料にご協力下さい
-アクセス（車）
-圏央道茂原長南ICから5km　約7分
-アクセス（鉄道）
-・JR外房線茂原駅下車、小湊バス上総牛久駅行　笠森下車、徒歩約5分
-・小湊鉄道上総牛久駅下車、小湊バス茂原駅行　笠森下車、徒歩約5分
-アクセス（その他）
-高速バス／横浜駅、羽田空港から茂原駅行き　長南駐車場下車約4km、タクシーで約5分
-・小湊鐵道バス　0475-46-3581
-・長南タクシー　0475-46-0003
-駐車場（乗用車／台数）
-50台
-駐車場（大型バス／台数）
-3台
-駐車場（有料／無料）
-無料
-関連リンク
-ラブちばに投稿された写真を見る
-笠森観音
-長南町公式サイト
-千葉県公式サイト
-※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
-おすすめ特集報
-春に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
-https://maruchiba.jp/feature/detail_23.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-まるで黄色い絨毯♪菜の花畑を見に行こう！
-https://maruchiba.jp/feature/detail_42.html
-春の訪れを教えてくれる、梅が咲くスポット
-https://maruchiba.jp/feature/detail_43.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-夏に読みたい！おすすめ特集
-千葉の潮干狩り2026
-https://maruchiba.jp/feature/detail_14.html
-千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
-https://maruchiba.jp/feature/detail_27.html
-千葉のプール・ウォーターレジャー2026
-https://maruchiba.jp/feature/detail_50.html
-千葉の花火大会・打ち上げ花火2026
-https://maruchiba.jp/feature/detail_53.html
-日帰りで楽しめる海のアクティビティ（体験）特集
-https://maruchiba.jp/feature/detail_62.html
-千葉のひまわり畑を歩こう！2026
-https://maruchiba.jp/feature/detail_64.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-ちばの祭り -山車・神輿・獅子舞-
-https://maruchiba.jp/feature/detail_88.html
-秋に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
-https://maruchiba.jp/feature/detail_28.html
-千葉の味覚狩り
-https://maruchiba.jp/feature/detail_33.html
-秋風にゆれるコスモス畑を歩こう！
-https://maruchiba.jp/feature/detail_34.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-落花生掘りといえば千葉！おすすめのスポットを紹介します。
-https://maruchiba.jp/feature/detail_63.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-冬に読みたい！おすすめ特集
-千葉の初詣スポット2026
-https://maruchiba.jp/feature/detail_17.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-千葉の初日の出スポット2026
-https://maruchiba.jp/feature/detail_69.html
-東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
-https://maruchiba.jp/feature/detail_169.html
-千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
-https://maruchiba.jp/feature/detail_177.html
-千葉の展望台＆灯台特集～個性豊かな絶景を望む～
-https://maruchiba.jp/feature/detail_178.html
-JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
-https://maruchiba.jp/feature/detail_197.html
-関連情報
-周辺にある観光スポット
-関東ふれあいの道（首都圏自然歩道）
-https://maruchiba.jp/spot/detail_15794.html
-大田中将顕彰碑
-https://maruchiba.jp/spot/detail_10287.html
-町営キャンプ場（野営場)
-https://maruchiba.jp/spot/detail_15800.html
-金運アップのお寺 長福寿寺
-https://maruchiba.jp/spot/detail_12529.html
-野見金公園
-https://maruchiba.jp/spot/detail_10300.html
-The Bamboo Forest
-https://maruchiba.jp/spot/detail_10627.html
-小湊鐵道　上総久保駅
-https://maruchiba.jp/spot/detail_10643.html
-高滝湖グランピングリゾート
-https://maruchiba.jp/spot/detail_10511.html
-
-
-
---- SOURCE URL: https://maruchiba.jp/spot/detail_10116.html ---
-
-デートや観光スポットとしても人気の千葉港のシンボル
-日本最大の広さを誇る国際貿易港・千葉港のシンボルとして、1986年にオープンした展望施設です。
-2階「ロイヤルブルーフロア」から望む、キラキラと光り輝く千葉市街や工場の夜景が2人の特別な時間をロマンチックに演出します。また、最上階の展望フロアからは東京湾を一望。西側の展望から望む夕日に染まる富士山は、一日の中で最も美しい瞬間の1つです。クリスマスにはタワー全体がクリスマスツリーに大変身！元旦には初日の出を見ながら新しい年を迎えましょう。
-周辺には千葉県立美術館や千葉港めぐり観光船のりばもあり、家族連れなど多くの人々が楽しめる観光スポットとしておすすめです。
-タワー1階の「Ｙショップ・千葉のお土産コーナー」では、千葉県の特産品を豊富に取り揃えています。ぜひおみやげにご利用ください。
-エリア
-ベイエリア
-千葉市
-カテゴリー
-展望台・灯台・タワー
-ビュースポット
-ちば文化資産
-旅のテーマ
-秋の定番
-夜観光
-春の定番
-夏の定番
-冬の定番
-お気に入りリストに追加
-Share
-Twitter
-Facebook
-Line
-関連する特集
-インスタ映え抜群！千葉でおすすめの絶景スポット特集20選！
-https://maruchiba.jp/feature/detail_74.html
-カップルで行きたい！千葉県のおすすめデートスポット28選！
-https://maruchiba.jp/feature/detail_100.html
-千葉県内のトップ・プロスポーツチーム特集
-https://maruchiba.jp/feature/detail_166.html
-千葉の展望台＆灯台特集～個性豊かな絶景を望む～
-https://maruchiba.jp/feature/detail_178.html
-JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
-https://maruchiba.jp/feature/detail_197.html
-ロマンチックな千葉の夜景11選！～デートやドライブにもおすすめ～
-https://maruchiba.jp/feature/detail_247.html
-X Games（Xゲームズ） Chiba 2026の魅力を徹底解説！～アクセス・チケット情報についてもご紹介します～
-https://maruchiba.jp/feature/detail_284.html
-千葉のお出かけスポット32選！
-https://maruchiba.jp/feature/detail_300.html
-千葉市・船橋市のおすすめ日帰り温泉・スーパー銭湯5選！
-https://maruchiba.jp/feature/detail_372.html
-関連するモデルコース
-＜ちば文化資産＞千葉都市モノレールで行く「ちば文化資産」めぐり
-https://maruchiba.jp/course/detail_40.html
-【ベイエリア】千葉市周辺をファミリーで楽しむ！日帰りコース
-https://maruchiba.jp/course/detail_122.html
-基本情報
-住所
-〒260-0024　千葉県千葉市中央区中央港1
-電話番号
-043-241-0125
-営業時間
-6月～9月：毎日9:00～21:00
-10月～5月：月曜日～金曜日9:00～19:00／土日祝日9:00～20:00
-※最終入館は閉館時間の30分前
-定休日
-休館日
-偶数月の第4月曜日、12月28日～12月31日
-※安全上において、強風等により臨時休業する場合があります
-※毎年変動
-料金
-大人420円、小・中学生200円、小学生未満無料
-団体割引あり
-アクセス（車）
-・湾岸習志野ICから約20分
-・幕張ICから約20分
-・湾岸千葉ICから約15分
-・松ヶ丘ICから約15分
-・千葉東ICから約15分
-アクセス（鉄道）
-JR千葉みなと駅から徒歩約12分
-駐車場（乗用車／台数）
-243台
-駐車場（大型バス／台数）
-11台
-駐車場（有料／無料）
-無料
-関連リンク
-ラブちばに投稿された写真を見る
-千葉ポートタワー
-※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
-おすすめ特集報
-春に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
-https://maruchiba.jp/feature/detail_23.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-まるで黄色い絨毯♪菜の花畑を見に行こう！
-https://maruchiba.jp/feature/detail_42.html
-春の訪れを教えてくれる、梅が咲くスポット
-https://maruchiba.jp/feature/detail_43.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-夏に読みたい！おすすめ特集
-千葉の潮干狩り2026
-https://maruchiba.jp/feature/detail_14.html
-千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
-https://maruchiba.jp/feature/detail_27.html
-千葉のプール・ウォーターレジャー2026
-https://maruchiba.jp/feature/detail_50.html
-千葉の花火大会・打ち上げ花火2026
-https://maruchiba.jp/feature/detail_53.html
-日帰りで楽しめる海のアクティビティ（体験）特集
-https://maruchiba.jp/feature/detail_62.html
-千葉のひまわり畑を歩こう！2026
-https://maruchiba.jp/feature/detail_64.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-ちばの祭り -山車・神輿・獅子舞-
-https://maruchiba.jp/feature/detail_88.html
-秋に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
-https://maruchiba.jp/feature/detail_28.html
-千葉の味覚狩り
-https://maruchiba.jp/feature/detail_33.html
-秋風にゆれるコスモス畑を歩こう！
-https://maruchiba.jp/feature/detail_34.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-落花生掘りといえば千葉！おすすめのスポットを紹介します。
-https://maruchiba.jp/feature/detail_63.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-冬に読みたい！おすすめ特集
-千葉の初詣スポット2026
-https://maruchiba.jp/feature/detail_17.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-千葉の初日の出スポット2026
-https://maruchiba.jp/feature/detail_69.html
-東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
-https://maruchiba.jp/feature/detail_169.html
-千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
-https://maruchiba.jp/feature/detail_177.html
-千葉の展望台＆灯台特集～個性豊かな絶景を望む～
-https://maruchiba.jp/feature/detail_178.html
-JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
-https://maruchiba.jp/feature/detail_197.html
-関連情報
-周辺にある観光スポット
-千葉ポートパーク
-https://maruchiba.jp/spot/detail_10647.html
-千葉県立美術館
-https://maruchiba.jp/spot/detail_10107.html
-千葉港めぐり（ケーズハーバー）
-https://maruchiba.jp/spot/detail_10115.html
-幕張ビーチフェスタ　花火鑑賞クルーズ／千葉港
-https://maruchiba.jp/spot/detail_13005.html
-千葉県漁連海産物直売所「海市場」
-https://maruchiba.jp/spot/detail_11239.html
-日本酒プレミアムラウンジ⼀献⾵⽉ by PERIE CHIBA
-https://maruchiba.jp/spot/detail_12678.html
-ハーブちくら 海辺のハーブガーデン
-https://maruchiba.jp/spot/detail_15074.html
-流山市農産物直売所「新鮮食味」
-https://maruchiba.jp/spot/detail_14099.html
-大栄産直センター
-https://maruchiba.jp/spot/detail_14089.html
-千葉県酒造組合	
-https://maruchiba.jp/spot/detail_10121.html
-周辺にあるグルメスポット
-さんが・郷土料理 こっから
-https://maruchiba.jp/gourmet/spot/detail_11129.html
-醸しダイニング　KOKORO
-https://maruchiba.jp/gourmet/spot/detail_13971.html
-
-
-
---- SOURCE URL: https://maruchiba.jp/spot/detail_10118.html ---
-
-キャンプ場やアスレチック、スポーツ施設充実！花々あふれる総合公園
-東京ドームの約23個分という広大な敷地は千葉市最大の規模を誇り、日本の都市公園100選に選ばれています。春には梅や桜、初夏にはスイレンや紫陽花が美しく咲き、野鳥や昆虫なども多く生息します。
-長さ約109ｍのローラーすべり台をはじめ、アスレチックコースのあるレクリエーションゾーンは子ども達に大人気！ツツジが咲く4月中旬からは、お弁当を広げる家族連れや学校遠足の児童でにぎわいます。標高約101ｍの展望台からは九十九里平野を一望。千葉市で唯一太平洋が眺望でき、日の出が美しいスポットとしても知られています。
-園内にある「昭和の森フォレストビレッジ」は、キャンプサイトやバーベキュー場など設備が充実。家族やグループでアウトドアライフを楽しめます。テニスコートのほか野球やサッカーができる球技場もあり、多くのスポーツ団やゼミ合宿などにも利用される総合公園です。
-エリア
-ベイエリア
-千葉市
-カテゴリー
-公園・スポーツ施設
-バーベキュー・キャンプ・グランピング
-レジャースポット
-お気に入りリストに追加
-Share
-Twitter
-Facebook
-Line
-園内に咲く季節の花々（梅・さくら）
-2月上旬から下旬には園内の約220本の梅が見ごろになります。
-3月下旬から4月上旬にかけては、ソメイヨシノ、ヤマザクラ、サトザクラなど約600本の桜が咲き誇ります。梅や桜の見ごろに合わせて観賞会を開催予定。ガイドによる解説などが行われます。
-園内に咲く季節の花々（ツツジ）
-4月中旬には、赤や白、ピンクなど約5万株のツツジが園内を彩り、5月上旬まで楽しめます。
-関連する特集
-春の訪れを教えてくれる、梅が咲くスポット
-https://maruchiba.jp/feature/detail_43.html
-子連れ旅行に最適！千葉で子供が喜ぶスポット＆遊び場19選
-https://maruchiba.jp/feature/detail_51.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-子どもが喜ぶ千葉の公園25選！
-アスレチックや大型遊具などが充実したスポットを厳選しました
-https://maruchiba.jp/feature/detail_72.html
-千葉の桜の名所・お花見情報｜開花時期やおすすめスポット情報まで一挙紹介
-https://maruchiba.jp/feature/detail_117.html
-家族で楽しもう！千葉のキャンプ場特集
-https://maruchiba.jp/feature/detail_176.html
-千葉のGW（ゴールデンウィーク）を満喫！おすすめの観光スポット・イベントをご紹介！【2026年】
-https://maruchiba.jp/feature/detail_234.html
-千葉の夏休みを満喫！おすすめの観光スポット・イベントをご紹介！
-https://maruchiba.jp/feature/detail_257.html
-千葉のアスレチック12選！～子供から大人まで幅広く楽しめます～
-https://maruchiba.jp/feature/detail_261.html
-千葉市・市川市・船橋市・浦安市・市原市の公園15選！～子供から大人まで幅広く楽しめます～
-https://maruchiba.jp/feature/detail_265.html
-千葉の公園・パーク・庭園特集！人気スポットをたっぷり93か所ご紹介します
-https://maruchiba.jp/feature/detail_266.html
-千葉のお出かけスポット32選！
-https://maruchiba.jp/feature/detail_300.html
-千葉のホタル観賞スポット特集【2026年】
-https://maruchiba.jp/feature/detail_387.html
-基本情報
-住所
-〒267-0061　千葉県千葉市緑区土気町22
-電話番号
-043-294-3845（昭和の森　管理事務所）
-定休日
-無休
-料金
-野球場（サッカー場）1面2時間／1,290円
-テニスコート1面2時間／630円
-貸自転車／200円
-※小中高校生は割引料金あり。詳細は公式サイトでご確認ください。
-※野球場、テニスコート利用については昭和の森スポーツ施設（043-205-1171）に問い合わせください。
-アクセス（車）
-・千葉東金道路 中野ICから約15分
-・首都圏中央連絡自動車道 大網白里スマートICから約5分
-アクセス（鉄道）
-・JR外房線 土気（とけ）駅南口から徒歩約30分
-・JR外房線 土気駅南口から千葉中央バスあすみが丘ブランニューモール行で昭和の森西下車、徒歩約5分
-駐車場（乗用車／台数）
-826台
-駐車場（大型バス／台数）
-10台
-駐車場（有料／無料）
-有料
-備考
-ペット同伴可、トイレ設備あり
-関連リンク
-ラブちばに投稿された写真を見る
-千葉市　昭和の森
-公式Instagram
-昭和の森フォレストビレッジ
-※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
-おすすめ特集報
-春に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
-https://maruchiba.jp/feature/detail_23.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-まるで黄色い絨毯♪菜の花畑を見に行こう！
-https://maruchiba.jp/feature/detail_42.html
-春の訪れを教えてくれる、梅が咲くスポット
-https://maruchiba.jp/feature/detail_43.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-夏に読みたい！おすすめ特集
-千葉の潮干狩り2026
-https://maruchiba.jp/feature/detail_14.html
-千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
-https://maruchiba.jp/feature/detail_27.html
-千葉のプール・ウォーターレジャー2026
-https://maruchiba.jp/feature/detail_50.html
-千葉の花火大会・打ち上げ花火2026
-https://maruchiba.jp/feature/detail_53.html
-日帰りで楽しめる海のアクティビティ（体験）特集
-https://maruchiba.jp/feature/detail_62.html
-千葉のひまわり畑を歩こう！2026
-https://maruchiba.jp/feature/detail_64.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-ちばの祭り -山車・神輿・獅子舞-
-https://maruchiba.jp/feature/detail_88.html
-秋に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
-https://maruchiba.jp/feature/detail_28.html
-千葉の味覚狩り
-https://maruchiba.jp/feature/detail_33.html
-秋風にゆれるコスモス畑を歩こう！
-https://maruchiba.jp/feature/detail_34.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-落花生掘りといえば千葉！おすすめのスポットを紹介します。
-https://maruchiba.jp/feature/detail_63.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-冬に読みたい！おすすめ特集
-千葉の初詣スポット2026
-https://maruchiba.jp/feature/detail_17.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-千葉の初日の出スポット2026
-https://maruchiba.jp/feature/detail_69.html
-東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
-https://maruchiba.jp/feature/detail_169.html
-千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
-https://maruchiba.jp/feature/detail_177.html
-千葉の展望台＆灯台特集～個性豊かな絶景を望む～
-https://maruchiba.jp/feature/detail_178.html
-JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
-https://maruchiba.jp/feature/detail_197.html
-関連情報
-周辺にある観光スポット
-季節の花「あじさい・睡蓮」／昭和の森
-https://maruchiba.jp/spot/detail_13798.html
-季節の花「ツツジ」／昭和の森
-https://maruchiba.jp/spot/detail_13746.html
-ホキ美術館
-https://maruchiba.jp/spot/detail_10114.html
-小中池公園
-https://maruchiba.jp/spot/detail_10258.html
-縣神社
-https://maruchiba.jp/spot/detail_10263.html
-宮谷八幡神社
-https://maruchiba.jp/spot/detail_10262.html
-本國寺（宮谷県庁跡）
-https://maruchiba.jp/spot/detail_10260.html
-橘樹神社
-https://maruchiba.jp/spot/detail_10667.html
-山武緑の風　大網店
-https://maruchiba.jp/spot/detail_10546.html
-農産物直売所 旬の里ねぎぼうず
-https://maruchiba.jp/spot/detail_10521.html
-
-
-
---- SOURCE URL: https://maruchiba.jp/spot/detail_10572.html ---
-
-一輪の花から、世界は静かになる
-花の育て方、飾り方、楽しみ方という「花のある暮らし」を提案してきた花の美術館。
-この度のリニューアルで、これまでの美術館に芸術性が加わり、新たな気付きを得られる施設【BOTANICA MUSEUM】と生まれ変わりました。 
-無駄を許さない自然界での生命維持の厳しさは、生物たちに試練と進化をもたらした。
-そして生物たちは、ため息が出るほどの美しいフォルムと生命機能を形作ってきた。
-その途方もなく、絶え間ない努力の結晶は「自然の奇跡」と形容するに他ならない。
-BOTANICA MUSEUMはフラワーアーティスト「HIKARU　SEINO」の全面プロデュ－スによる感性を基に、自然の奇跡の中から「植物」という分野に焦点を当て
-私たち人間の生活や心を豊かにするヒントを皆さんと考えるミュージアムです。
-2026年4月にはフルオープンを迎え、アート作品および温室エリアの照明演出を大幅に強化。
-昼間とはまったく異なる幻想的な表情を創り出します。
-光とアートが融合する、これまでにない夜のBOTANICA MUSEUMをぜひご体験ください。
-花や植物が本来持つ美しさと力を、五感で感じていただける特別な空間です。
-エリア
-ベイエリア
-千葉市
-カテゴリー
-水族館・動物園・植物園・牧場
-ミュージアム・ギャラリー
-花・紅葉
-旅のテーマ
-穴場観光
-季節のお花めぐり
-お気に入りリストに追加
-Share
-Twitter
-Facebook
-Line
-関連する特集
-千葉の美術館・博物館特集！アートや文化に触れる、ミュージアムをご紹介します		
-https://maruchiba.jp/feature/detail_106.html
-千葉都市モノレールで空中さんぽ！ギネス認定の乗り物でお出かけしよう
-https://maruchiba.jp/feature/detail_145.html
-X Games（Xゲームズ） Chiba 2026の魅力を徹底解説！～アクセス・チケット情報についてもご紹介します～
-https://maruchiba.jp/feature/detail_284.html
-初開催のトリエンナーレに注目！定番から穴場まで、千葉市の最新アートスポット5選
-https://maruchiba.jp/feature/detail_425.html
-基本情報
-住所
-〒261-0003　千葉県千葉市美浜区高浜7-2-4
-電話番号
-050-1792-5706（株式会社ワールドパーク）
-営業時間
-（本館営業時間） 4月～9月
-(昼)10:00～17:00(最終入館16:30)
-(夜)18:00～22:00(最終入館21:30)
-   （本館営業時間）10月～3月
-(昼)10:00～16:00(最終入館15:30)
-(夜)17:00～22:00(最終入館21:30)
-定休日
-毎週月曜日（月曜日が祝日の場合は翌平日が休み）
-料金
-（昼）大人(中学生以上) ￥1,000
-　　　子供(4歳~小学生) ￥500
-　　　3歳以下　無料
-（夜）大人(中学生以上) ￥2,000
-　　　子供(4歳~小学生) ￥1,000
-         3歳以下　無料
-※有料入館者の合計20名以上で入館料に1割引が適用されます。
-アクセス（車）
-国道14号・357号浅間神社交差点を海側へ曲がり、約2km直進し、海浜大通りを左折し約1km
-アクセス（鉄道）
-・JR総武線　稲毛駅西口2番線バス乗り場から、京成バス千葉セントラル（旧千葉海浜交通）海浜公園プール行きで、花の美術館下車、又は高浜車庫行で終点下車、徒歩約5分
-・JR京葉線　稲毛海岸駅南口2番線バス乗り場から、京成バス千葉セントラル（旧千葉海浜交通）海浜公園入口行で終点下車、徒歩約5分
-駐車場（乗用車／台数）
-あり
-駐車場（大型バス／台数）
-乗用車用の駐車スペースに駐車可
-駐車場（有料／無料）
-第１駐車場 (06:00 – 23:00)
-〒261-0003 千葉県千葉市美浜区高浜7-1-1
-・普通車：３時間まで400円
-　以降30分ごとに100円（一日(入庫から24h)最大1000円）
-・大型車：1回2,000円(入庫から24h)
-夏季期間料金
-・普通車：1回 1,000円 / 大型車：1回2,000円
-関連リンク
-BOTANICA MUSEUM（ボタニカ ミュージアム）｜千葉市稲毛海浜公園
-X公式アカウント（BOTANICA MUSEUM @sbp_smfm）
-Insatgram公式アカウント（botanica_museum）
-※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
-おすすめ特集報
-春に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
-https://maruchiba.jp/feature/detail_23.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-まるで黄色い絨毯♪菜の花畑を見に行こう！
-https://maruchiba.jp/feature/detail_42.html
-春の訪れを教えてくれる、梅が咲くスポット
-https://maruchiba.jp/feature/detail_43.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-夏に読みたい！おすすめ特集
-千葉の潮干狩り2026
-https://maruchiba.jp/feature/detail_14.html
-千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
-https://maruchiba.jp/feature/detail_27.html
-千葉のプール・ウォーターレジャー2026
-https://maruchiba.jp/feature/detail_50.html
-千葉の花火大会・打ち上げ花火2026
-https://maruchiba.jp/feature/detail_53.html
-日帰りで楽しめる海のアクティビティ（体験）特集
-https://maruchiba.jp/feature/detail_62.html
-千葉のひまわり畑を歩こう！2026
-https://maruchiba.jp/feature/detail_64.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-ちばの祭り -山車・神輿・獅子舞-
-https://maruchiba.jp/feature/detail_88.html
-秋に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
-https://maruchiba.jp/feature/detail_28.html
-千葉の味覚狩り
-https://maruchiba.jp/feature/detail_33.html
-秋風にゆれるコスモス畑を歩こう！
-https://maruchiba.jp/feature/detail_34.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-落花生掘りといえば千葉！おすすめのスポットを紹介します。
-https://maruchiba.jp/feature/detail_63.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-冬に読みたい！おすすめ特集
-千葉の初詣スポット2026
-https://maruchiba.jp/feature/detail_17.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-千葉の初日の出スポット2026
-https://maruchiba.jp/feature/detail_69.html
-東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
-https://maruchiba.jp/feature/detail_169.html
-千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
-https://maruchiba.jp/feature/detail_177.html
-千葉の展望台＆灯台特集～個性豊かな絶景を望む～
-https://maruchiba.jp/feature/detail_178.html
-JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
-https://maruchiba.jp/feature/detail_197.html
-関連情報
-周辺にある観光スポット
-SUNSET BEACH PARK INAGE（稲毛海浜公園）
-https://maruchiba.jp/spot/detail_10117.html
-small planet CAMP & GRILL
-https://maruchiba.jp/spot/detail_10630.html
-稲毛記念館
-https://maruchiba.jp/spot/detail_10571.html
-アクアリンクちば
-https://maruchiba.jp/spot/detail_10113.html
-千葉市民ギャラリー・いなげ
-https://maruchiba.jp/spot/detail_10607.html
-千葉市ゆかりの家・いなげ
-https://maruchiba.jp/spot/detail_10120.html
-旧神谷傳兵衛稲毛別荘
-https://maruchiba.jp/spot/detail_10119.html
-検見川神社
-https://maruchiba.jp/spot/detail_10636.html
-千葉県立幕張海浜公園 見浜園
-https://maruchiba.jp/spot/detail_10609.html
-ホテルスプリングス幕張
-https://maruchiba.jp/spot/detail_10487.html
-周辺にあるグルメスポット
-MAKUHARI BREWERY
-https://maruchiba.jp/gourmet/spot/detail_11069.html
-
-
-
---- SOURCE URL: https://maruchiba.jp/spot/detail_10105.html ---
-
-「わくわくする体験」～日常の身近なところから科学へ～
-日常の視点で科学を捉え子どもから大人まで楽しめる、人から人へのコミュニケーションを大切にした「人が主役」となる参加体験型科学館。
-150もの体験展示がある常設展示は、ふとした日々の疑問や何気なく見過ごしている現象を科学と結びつけて紹介し、来館者と気づきを共有することを目指している。週末を中心にワークショップなどのイベントも開催。
-複合施設きぼーるの巨大な球体内部には県内最大のプラネタリウムがある。天の川の構造も再現できる１億個の高精細な星空を映し、全天に投影されるデジタル映像を交えた多彩な番組が充実。
-エリア
-ベイエリア
-千葉市
-カテゴリー
-ミュージアム・ギャラリー
-お気に入りリストに追加
-Share
-Twitter
-Facebook
-Line
-関連する特集
-雨の日でも楽しめる千葉のおでかけスポット21選！
-https://maruchiba.jp/feature/detail_38.html
-チーバくんプラザへようこそ！千葉県の観光は旅のコンシェルジュにお任せください
-https://maruchiba.jp/feature/detail_94.html
-千葉の美術館・博物館特集！アートや文化に触れる、ミュージアムをご紹介します		
-https://maruchiba.jp/feature/detail_106.html
-千葉県内のトップ・プロスポーツチーム特集
-https://maruchiba.jp/feature/detail_166.html
-JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
-https://maruchiba.jp/feature/detail_197.html
-千葉のGW（ゴールデンウィーク）を満喫！おすすめの観光スポット・イベントをご紹介！【2026年】
-https://maruchiba.jp/feature/detail_234.html
-千葉の夏休みを満喫！おすすめの観光スポット・イベントをご紹介！
-https://maruchiba.jp/feature/detail_257.html
 千葉公園（芝庭エリア）の魅力を徹底解説～駐車場やアクセスについてもご紹介します～
 https://maruchiba.jp/feature/detail_280.html
-千葉のお出かけスポット32選！
-https://maruchiba.jp/feature/detail_300.html
 関連するモデルコース
+寺社仏閣めぐりの旅！ベイエリアモデルコース（日帰り）
+https://maruchiba.jp/course/detail_18.html
+市川・船橋・千葉の神社仏閣めぐり
+https://maruchiba.jp/course/detail_25.html
 千葉市で楽しむ子連れおでかけモデルコース｜博物館＆公園で1日満喫プラン
 https://maruchiba.jp/course/detail_165.html
 基本情報
 住所
-千葉県千葉市中央区中央4-5-1
+千葉県千葉市中央区院内1-16-1
 電話番号
-043-308-0511
+043-224-2211（受付／9:00～17:00）
 営業時間
-・展示エリア 9:00〜19:00
-・プラネタリウム 9:00〜20:00※投影時間は日によって変動あり
+開門時間／6:00～18:00
 定休日
-年末年始（12月29日～翌年1月1日）
-不定休　※詳細は公式サイトでご確認ください
-料金
-・常設展示 
-大人 600円、高校生 300円、小中学生 100円
-・プラネタリウム 
-大人 600円、高校生 300円、小中学生 100円
-・セット券 （常設展示＋プラネタリウム）
-大人 1,000円、高校生 490円、小中学生 160円
+無休
 アクセス（車）
-・穴川ICから126号に入り、本町2丁目交差点を右折（右角が京葉銀行）、京成千葉中央駅に向かって中央大通りを中程まで進んだ左側
-・京成千葉中央駅から東に延びる中央大通りを直進、中央三丁目交差点を過ぎた右側角に位置
+京葉道路 穴川ICから約10分
 アクセス（鉄道）
-・JR総武線千葉駅東口から徒歩約15分
-・京成千葉中央駅から徒歩約6分
-・千葉都市モノレール葭川公園駅から徒歩約5分
+JR千葉駅、東千葉駅、京成電鉄千葉中央駅、京成電鉄千葉駅から徒歩約10分
 駐車場（乗用車／台数）
-なし※複合施設Qiball（きぼーる）有料駐車場
+なし
 駐車場（大型バス／台数）
-要団体予約（15名以上から受付）　※詳細は公式サイトでご確認ください
+なし
 駐車場（有料／無料）
-複合施設Qiball（きぼーる）有料駐車場料金
-・8:00～22:00　20分100円
-・22:00～8:00　60分100円
+周辺に有料駐車場あり
 関連リンク
 ラブちばに投稿された写真を見る
-千葉市科学館
+妙見本宮　千葉神社
 ※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
 おすすめ特集報
 春に読みたい！おすすめ特集
@@ -3088,31 +1465,217 @@ JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒
 https://maruchiba.jp/feature/detail_197.html
 関連情報
 周辺にある観光スポット
-千葉県酒造組合	
-https://maruchiba.jp/spot/detail_10121.html
 千葉市美術館
 https://maruchiba.jp/spot/detail_10106.html
-千葉神社
-https://maruchiba.jp/spot/detail_10123.html
-千葉市立郷土博物館
-https://maruchiba.jp/spot/detail_10099.html
-亥鼻公園
-https://maruchiba.jp/spot/detail_10646.html
-千葉県漁連海産物直売所「海市場」
-https://maruchiba.jp/spot/detail_11239.html
+千葉市科学館
+https://maruchiba.jp/spot/detail_10105.html
+千葉県酒造組合	
+https://maruchiba.jp/spot/detail_10121.html
 ハーブちくら 海辺のハーブガーデン
 https://maruchiba.jp/spot/detail_15074.html
 流山市農産物直売所「新鮮食味」
 https://maruchiba.jp/spot/detail_14099.html
 大栄産直センター
 https://maruchiba.jp/spot/detail_14089.html
-日本酒プレミアムラウンジ⼀献⾵⽉ by PERIE CHIBA
-https://maruchiba.jp/spot/detail_12678.html
+椿森コムナ
+https://maruchiba.jp/spot/detail_12649.html
+千葉市立郷土博物館
+https://maruchiba.jp/spot/detail_10099.html
+亥鼻公園
+https://maruchiba.jp/spot/detail_10646.html
+the RECORDS
+https://maruchiba.jp/spot/detail_12722.html
 周辺にあるグルメスポット
 醸しダイニング　KOKORO
 https://maruchiba.jp/gourmet/spot/detail_13971.html
 さんが・郷土料理 こっから
 https://maruchiba.jp/gourmet/spot/detail_11129.html
+
+
+
+--- SOURCE URL: https://maruchiba.jp/spot/detail_10053.html ---
+
+鎌倉時代に創建された日蓮宗大本山の由緒ある寺院
+京成中山駅から北へ延びる石畳の参道を歩いて約5分。広大な敷地内には約31ｍの高さを誇る朱色の五重塔やさまざまな堂宇が建ち並びます。長い歴史を感じさせる荘厳な雰囲気のなか、祖師堂（そしどう）や法華堂などの国指定重要文化財が数多く残る名刹です。日蓮聖人を難儀から救ったとされる「鬼子母神」が守護神で、天下泰平、所願成就、子育ての神様として今もなお篤く信仰されています。
+新年には新春祈祷会や鬼子母神大祭が行われ、2月の節分会では各界の著名人が豆まきをする姿は広く知られています。また、4月の千部会（せんぶえ）、11月の御会式（おえしき）の期間中には骨董市が開催され多くの参拝客でにぎわいます。
+毎年11月1日～2月10日までの百日間、全国から集まった僧侶による「大荒行」と呼ばれる寒中の厳しい修行が行われます。
+修行開始の儀式が11月1日の「大荒行入(だいあらぎょうにゅう)行会(ぎょうえ)」、終了は2月10日の「大荒行(だいあらぎょう)成(じょう)満会(まんえ)」です。
+エリア
+ベイエリア
+市川市
+カテゴリー
+歴史・文化・社寺仏閣
+ちば文化資産
+お気に入りリストに追加
+Share
+Twitter
+Facebook
+Line
+節分会
+豆まきの際の掛け声は「福は内、福は内」のみとなっています。鬼子母神を祀っているお寺のため、決して「鬼は外」と言わないのが風習となっています。
+春の骨董市
+年間で最も大事な行事として、春の千部会（せんぶえ）、秋の御会式（おえしき）があります。千部会では一千部に及ぶお経を唱えることからそう呼ばれています。その期間中、境内では、檀家や信徒のほか一般の方も楽しめるよう骨董市が開催されます。
+関連する特集
+千葉の初詣スポット2026
+https://maruchiba.jp/feature/detail_17.html
+千葉の神社・お寺特集！有名な神社やパワースポットもたっぷり72か所ご紹介
+https://maruchiba.jp/feature/detail_252.html
+関連するモデルコース
+初心者におすすめ！レンタサイクルで巡る市川市日帰りモデルコース
+https://maruchiba.jp/course/detail_98.html
+基本情報
+住所
+千葉県市川市中山2-10-1
+電話番号
+047-334-3433
+営業時間
+9:00～16:00（受付は15：30迄・年中無休）
+アクセス（車）
+・京葉道路 原木ICから約15分
+・京葉道路 京葉市川ICから約15分
+アクセス（鉄道）
+・JR総武線 下総中山駅から徒歩約10分
+・京成線 中山駅から徒歩約10分
+駐車場（乗用車／台数）
+100台
+駐車場（大型バス／台数）
+あり（駐車場の事前予約が必要。）
+（参道を登れない為）
+駐車場（有料／無料）
+無料
+関連リンク
+ラブちばに投稿された写真を見る
+日蓮宗大本山　中山法華経寺
+日蓮宗 寺院ページ
+※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
+おすすめ特集報
+春に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
+https://maruchiba.jp/feature/detail_23.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+まるで黄色い絨毯♪菜の花畑を見に行こう！
+https://maruchiba.jp/feature/detail_42.html
+春の訪れを教えてくれる、梅が咲くスポット
+https://maruchiba.jp/feature/detail_43.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+夏に読みたい！おすすめ特集
+千葉の潮干狩り2026
+https://maruchiba.jp/feature/detail_14.html
+千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
+https://maruchiba.jp/feature/detail_27.html
+千葉のプール・ウォーターレジャー2026
+https://maruchiba.jp/feature/detail_50.html
+千葉の花火大会・打ち上げ花火2026
+https://maruchiba.jp/feature/detail_53.html
+日帰りで楽しめる海のアクティビティ（体験）特集
+https://maruchiba.jp/feature/detail_62.html
+千葉のひまわり畑を歩こう！2026
+https://maruchiba.jp/feature/detail_64.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+ちばの祭り -山車・神輿・獅子舞-
+https://maruchiba.jp/feature/detail_88.html
+秋に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
+https://maruchiba.jp/feature/detail_28.html
+千葉の味覚狩り
+https://maruchiba.jp/feature/detail_33.html
+秋風にゆれるコスモス畑を歩こう！
+https://maruchiba.jp/feature/detail_34.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+落花生掘りといえば千葉！おすすめのスポットを紹介します。
+https://maruchiba.jp/feature/detail_63.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+冬に読みたい！おすすめ特集
+千葉の初詣スポット2026
+https://maruchiba.jp/feature/detail_17.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+千葉の初日の出スポット2026
+https://maruchiba.jp/feature/detail_69.html
+東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
+https://maruchiba.jp/feature/detail_169.html
+千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
+https://maruchiba.jp/feature/detail_177.html
+千葉の展望台＆灯台特集～個性豊かな絶景を望む～
+https://maruchiba.jp/feature/detail_178.html
+JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
+https://maruchiba.jp/feature/detail_197.html
+関連情報
+周辺にある観光スポット
+市川市東山魁夷記念館
+https://maruchiba.jp/spot/detail_10451.html
+屋形四社神社
+https://maruchiba.jp/spot/detail_10241.html
+中山競馬場
+https://maruchiba.jp/spot/detail_10467.html
+千葉県立現代産業科学館
+https://maruchiba.jp/spot/detail_10051.html
+葛飾八幡宮
+https://maruchiba.jp/spot/detail_10062.html
+農産物直売所 ふなっこ畑
+https://maruchiba.jp/spot/detail_10075.html
+白幡天神社
+https://maruchiba.jp/spot/detail_10059.html
+飛ノ台史跡公園博物館
+https://maruchiba.jp/spot/detail_10436.html
+万葉植物園
+https://maruchiba.jp/spot/detail_10610.html
+道の駅　いちかわ
+https://maruchiba.jp/spot/detail_10056.html
+周辺にあるグルメスポット
+2 5 6 n i c o m
+https://maruchiba.jp/gourmet/spot/detail_15847.html
+串焼き 小野田
+https://maruchiba.jp/gourmet/spot/detail_15152.html
+鮨と肴おどる魚
+https://maruchiba.jp/gourmet/spot/detail_11981.html
+発酵×スパイス食堂 　Yajikko KITCHEN
+https://maruchiba.jp/gourmet/spot/detail_13972.html
+おいもや 壺
+https://maruchiba.jp/gourmet/spot/detail_14057.html
+魚ばる 澤
+https://maruchiba.jp/gourmet/spot/detail_11070.html
+菓子工房アントレ
+https://maruchiba.jp/gourmet/spot/detail_11840.html
+ピーターパン 石窯パン工房店
+https://maruchiba.jp/gourmet/spot/detail_11126.html
+峰月堂
+https://maruchiba.jp/gourmet/spot/detail_13044.html
+コンパーレ コマーレ
+https://maruchiba.jp/gourmet/spot/detail_11075.html
 
 
 
@@ -3488,239 +2051,79 @@ https://maruchiba.jp/gourmet/spot/detail_11071.html
 
 
 
---- SOURCE URL: https://maruchiba.jp/spot/detail_10080.html ---
+--- SOURCE URL: https://maruchiba.jp/spot/detail_10104.html ---
 
-まるで真っ赤な絨毯！八千代市内唯一の彼岸花の群生地
-京成電鉄勝田台駅から車で10分ほどの場所に位置する緑豊かな森林の中の公園。木製遊具やすべり台のあるワイワイ広場や芝生広場があり、子どもたちはもとより、森林浴を楽しむ人など多くの市民の憩いの場となっています。春になると桜の名所としても知られています。
-秋の訪れとともに木立の中にたくさんの彼岸花が咲き、緩やかな斜面を赤い花で覆い尽くします。見頃は9月中旬～10月上旬で、期間中には「やちよ彼岸花まつり」を開催。広い敷地を彼岸花が真っ赤に染め上げる美しい光景を一目見ようと多くの人でにぎわいます。
-エリア
-ベイエリア
-八千代市
-カテゴリー
-公園・スポーツ施設
-レジャースポット
-花・紅葉
-お気に入りリストに追加
-Share
-Twitter
-Facebook
-Line
-さくら
-3月下旬～4月上旬には約200本のソメイヨシノが小高い丘をピンク色に染め上げます。八千代市で屈指の桜の名所として知られています。暖かな春の陽気に誘われながら心地よい散策にでかけませんか？
-関連する特集
-千葉の桜の名所・お花見情報｜開花時期やおすすめスポット情報まで一挙紹介
-https://maruchiba.jp/feature/detail_117.html
-千葉の公園・パーク・庭園特集！人気スポットをたっぷり93か所ご紹介します
-https://maruchiba.jp/feature/detail_266.html
-関連するモデルコース
-秋の定番！八千代市で、千葉県有数のバラと彼岸花のフラワースポットを巡ろう
-https://maruchiba.jp/course/detail_83.html
-基本情報
-住所
-千葉県八千代市村上901-2
-電話番号
-047-421-6777（八千代市公園緑地課）
-その他連絡先
-047-458-6446（やちよ彼岸花まつり実行委員会）
-（公益財団法人　八千代市地域振興財団　緑化推進事務所内）
-アクセス（車）
-国道16号線の村上団地交差点を村上団地方面に曲がり、4つめの信号を左折、道なりに1.3kmほど進んだ右側
-アクセス（鉄道）
-・東葉高速鉄道 村上駅から徒歩約18分
-・東葉高速鉄道 東葉勝田台駅から東洋バス 村上団地行きで村上団地第一バス停下車すぐ
-・京成線 勝田台駅から東洋バス 村上団地行きで村上団地第一バス停下車すぐ
-駐車場（乗用車／台数）
-54台
-関連リンク
-ラブちばに投稿された写真を見る
-八千代市公式ホームページ（村上緑地公園の概要）
-ココシルやちよ（村上緑地公園紹介ページ）
-※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
-おすすめ特集報
-春に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
-https://maruchiba.jp/feature/detail_23.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-まるで黄色い絨毯♪菜の花畑を見に行こう！
-https://maruchiba.jp/feature/detail_42.html
-春の訪れを教えてくれる、梅が咲くスポット
-https://maruchiba.jp/feature/detail_43.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-夏に読みたい！おすすめ特集
-千葉の潮干狩り2026
-https://maruchiba.jp/feature/detail_14.html
-千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
-https://maruchiba.jp/feature/detail_27.html
-千葉のプール・ウォーターレジャー2026
-https://maruchiba.jp/feature/detail_50.html
-千葉の花火大会・打ち上げ花火2026
-https://maruchiba.jp/feature/detail_53.html
-日帰りで楽しめる海のアクティビティ（体験）特集
-https://maruchiba.jp/feature/detail_62.html
-千葉のひまわり畑を歩こう！2026
-https://maruchiba.jp/feature/detail_64.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-ちばの祭り -山車・神輿・獅子舞-
-https://maruchiba.jp/feature/detail_88.html
-秋に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
-https://maruchiba.jp/feature/detail_28.html
-千葉の味覚狩り
-https://maruchiba.jp/feature/detail_33.html
-秋風にゆれるコスモス畑を歩こう！
-https://maruchiba.jp/feature/detail_34.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-落花生掘りといえば千葉！おすすめのスポットを紹介します。
-https://maruchiba.jp/feature/detail_63.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-冬に読みたい！おすすめ特集
-千葉の初詣スポット2026
-https://maruchiba.jp/feature/detail_17.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-千葉の初日の出スポット2026
-https://maruchiba.jp/feature/detail_69.html
-東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
-https://maruchiba.jp/feature/detail_169.html
-千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
-https://maruchiba.jp/feature/detail_177.html
-千葉の展望台＆灯台特集～個性豊かな絶景を望む～
-https://maruchiba.jp/feature/detail_178.html
-JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
-https://maruchiba.jp/feature/detail_197.html
-関連情報
-周辺にある観光スポット
-八千代市立郷土博物館
-https://maruchiba.jp/spot/detail_10083.html
-正覚院（毘沙門天）
-https://maruchiba.jp/spot/detail_10084.html
-長福寺（寿老人）
-https://maruchiba.jp/spot/detail_10091.html
-長福寺（弁財天）
-https://maruchiba.jp/spot/detail_10085.html
-㈱山万ユーカリファーム
-https://maruchiba.jp/spot/detail_11228.html
-農産物直売所　樫の木　南ユーカリが丘店
-https://maruchiba.jp/spot/detail_11242.html
-山万ユーカリファーム 　農産物直売所 樫の木　本店
-https://maruchiba.jp/spot/detail_13215.html
-ファーマーズマーケット「よったいよ」
-https://maruchiba.jp/spot/detail_10082.html
-萱田地区公園
-https://maruchiba.jp/spot/detail_10081.html
-山万ユーカリが丘線
-https://maruchiba.jp/spot/detail_11320.html
-周辺にあるグルメスポット
-中華レストラン みろべー
-https://maruchiba.jp/gourmet/spot/detail_11844.html
-レストラン＆バー　ディネット
-https://maruchiba.jp/gourmet/spot/detail_12574.html
-【当面の間、休業中】入母屋珈琲 ユーカリが丘本店
-https://maruchiba.jp/gourmet/spot/detail_11056.html
-京成バラ園
-https://maruchiba.jp/spot/detail_10078.html
-
-
-
---- SOURCE URL: https://maruchiba.jp/spot/detail_10097.html ---
-
-自然を生かした冒険の森を楽しもう
-フォレストアドベンチャー・千葉は、豊かな自然の風景が楽しめる公園です。コンセプトは「森林をそのまま活用したパークづくり」。大規模な開発をすることなく、自然環境を生かした楽しみ方を追求しています。ありのままの自然を残すことで「自分の安全は自分で守る」大切さも実感できます。
-また、起伏に富んだ北総台地をアクティブに遊ぶためのコースや施設が設けられています。コースは年齢や体力などに合わせて２つの難易度に分かれていますが、難易度が高い「アドベンチャーコース」で人気なのがジップスライド。最長120mに渡り、木々の間をすり抜けながらの滑空は、子どもだけでなく大人にとってもスリル満点の体験！難易度を抑えた「キャノピーコース」は、年齢層が異なる家族みんなで楽しめるでしょう。
+躍動感あふれる生き物の姿に元気がもらえる動物園
+レッサーパンダの風太で話題となり、ゴリラやハシビロコウなど約100種の動物がいる魅力いっぱいの動物公園です。
+2025年4月には開園40周年を迎えました。
+数ある見どころの中でも、獲物を捕食するようにとびかかるライオンのミートキャッチャーは迫力満点！疑似餌を追って疾走するチーターランを見ると、チーターの身体能力の高さが実感できます。（夏の間は休止しています）
+大型類人猿のニシゴリラ、チンパンジーをはじめ、マーモセットなどの小型ザル、世界で最も美しいサルと言われているブラッザグエノンなど、国内屈指の多種多様なサル20種を飼育しており、身体の特徴の違いを比較できるのも魅力の１つとなっています。
+また、2024年11月には「登録博物館」に登録されました。
+2025年3月には、動物科学館が熱帯雨林を体験しながら学べる施設「生命の森 熱帯雨林」としてリニューアルオープンしました。　
 エリア
 ベイエリア
 千葉市
 カテゴリー
-公園・スポーツ施設
+水族館・動物園・植物園・牧場
 レジャースポット
 旅のテーマ
-自然体験・アクティビティ
+秋の定番
+春の定番
+夏の定番
+冬の定番
 お気に入りリストに追加
 Share
 Twitter
 Facebook
 Line
 関連する特集
-子どもが喜ぶ千葉の公園25選！
-アスレチックや大型遊具などが充実したスポットを厳選しました
-https://maruchiba.jp/feature/detail_72.html
+カップルで行きたい！千葉県のおすすめデートスポット28選！
+https://maruchiba.jp/feature/detail_100.html
+千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
+https://maruchiba.jp/feature/detail_177.html
+JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
+https://maruchiba.jp/feature/detail_197.html
 千葉のGW（ゴールデンウィーク）を満喫！おすすめの観光スポット・イベントをご紹介！【2026年】
 https://maruchiba.jp/feature/detail_234.html
 千葉の夏休みを満喫！おすすめの観光スポット・イベントをご紹介！
 https://maruchiba.jp/feature/detail_257.html
-千葉のアスレチック12選！～子供から大人まで幅広く楽しめます～
-https://maruchiba.jp/feature/detail_261.html
-千葉市・市川市・船橋市・浦安市・市原市の公園15選！～子供から大人まで幅広く楽しめます～
-https://maruchiba.jp/feature/detail_265.html
-千葉の公園・パーク・庭園特集！人気スポットをたっぷり93か所ご紹介します
-https://maruchiba.jp/feature/detail_266.html
-関連するモデルコース
-東京発！子どもが喜ぶ千葉市巡りドライブモデルコース
-https://maruchiba.jp/course/detail_94.html
-【ベイエリア】千葉市周辺をファミリーで楽しむ！日帰りコース
-https://maruchiba.jp/course/detail_122.html
+試飲や試食も♪千葉県の工場見学スポット6選＆周辺おでかけスポット！
+https://maruchiba.jp/feature/detail_279.html
+千葉のお出かけスポット32選！
+https://maruchiba.jp/feature/detail_300.html
+千葉市・船橋市のおすすめ日帰り温泉・スーパー銭湯5選！
+https://maruchiba.jp/feature/detail_372.html
 基本情報
 住所
-〒265-0053　千葉県千葉市若葉区野呂町108 泉自然公園内
+千葉県千葉市若葉区源町280
 電話番号
-090-5535-1230
+043-252-1111
 営業時間
-9:00〜15:00（季節により変動）
+9:30〜16:30（入園は16:00まで）
 定休日
-不定休（要予約）
+毎週水曜日（水曜日が休日にあたる時は翌日）、年末年始（12月29日から1月1日）
 料金
-・アドベンチャーコース
-4,000円
-・キャノピーコース
-3,000円（80分間の時間制）
+大人（高校生以上）  800円、中学生以下  無料
+年間パスポート（大人） 3,000円
 アクセス（車）
-千葉東金道路高田ICから約3分
+・東京方面からは京葉道路穴川ICから市街方面に約3km
+・市原方面からは京葉道路穴川東ICから市街方面に2km
+・成田方面からは東関東自動車道路千葉北ICから千葉方面へ約7km 
 アクセス（鉄道）
-JR千葉駅東口バスターミナル10番乗場から泉公園入口で下車徒歩約20分
+・千葉都市モノレール動物公園駅下車 徒歩約1分
+・西千葉駅から千葉内陸バスで千葉市動物公園駅下車 徒歩約1分
+・千葉駅から千葉内陸バス千で葉市動物公園駅下車 徒歩約1分
 駐車場（乗用車／台数）
-泉自然公園の駐車場をご利用ください
+1,569台
 駐車場（大型バス／台数）
-泉自然公園の駐車場をご利用ください（3月～4月の桜開花時期は規制あり）
+49台
 駐車場（有料／無料）
-・普通車1台400円
-・マイクロバス1台1,000円
-・大型バス1台1,500円
+・普通車 800円
+・大型車（マイクロバスを含む） 3,200円
+・自転車、オートバイ 無料
 関連リンク
 ラブちばに投稿された写真を見る
-フォレストアドベンチャー・千葉
+千葉市動物公園
 ※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
 おすすめ特集報
 春に読みたい！おすすめ特集
@@ -3809,29 +2212,612 @@ JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒
 https://maruchiba.jp/feature/detail_197.html
 関連情報
 周辺にある観光スポット
-泉自然公園
-https://maruchiba.jp/spot/detail_10573.html
-季節の花「花菖蒲」／泉自然公園
-https://maruchiba.jp/spot/detail_13800.html
-ちはる農園
-https://maruchiba.jp/spot/detail_11225.html
-千葉ウシノヒロバ
-https://maruchiba.jp/spot/detail_10103.html
-季節の花「コスモス」／富田さとにわ耕園
-https://maruchiba.jp/spot/detail_13949.html
-富田さとにわ耕園
-https://maruchiba.jp/spot/detail_10102.html
-千葉御茶屋御殿跡
-https://maruchiba.jp/spot/detail_10122.html
-北谷津温水プール
-https://maruchiba.jp/spot/detail_10608.html
-御成街道跡（風景谷の険）
-https://maruchiba.jp/spot/detail_12812.html
-御成街道跡
-https://maruchiba.jp/spot/detail_12811.html
+千葉都市モノレール
+https://maruchiba.jp/spot/detail_11303.html
+TIPSTAR DOME CHIBA
+https://maruchiba.jp/spot/detail_10109.html
+千葉公園
+https://maruchiba.jp/spot/detail_10108.html
+椿森コムナ
+https://maruchiba.jp/spot/detail_12649.html
+the RECORDS
+https://maruchiba.jp/spot/detail_12722.html
+こてはし温水プール
+https://maruchiba.jp/spot/detail_10570.html
+千葉神社
+https://maruchiba.jp/spot/detail_10123.html
+日本酒プレミアムラウンジ⼀献⾵⽉ by PERIE CHIBA
+https://maruchiba.jp/spot/detail_12678.html
+ハーブちくら 海辺のハーブガーデン
+https://maruchiba.jp/spot/detail_15074.html
+流山市農産物直売所「新鮮食味」
+https://maruchiba.jp/spot/detail_14099.html
 周辺にあるグルメスポット
-さんたファーム
-https://maruchiba.jp/gourmet/spot/detail_11839.html
+ほっこり芋　宮野木店
+https://maruchiba.jp/gourmet/spot/detail_11061.html
+タンジョウ ファーム キッチン
+https://maruchiba.jp/gourmet/spot/detail_11841.html
+醸しダイニング　KOKORO
+https://maruchiba.jp/gourmet/spot/detail_13971.html
+さんが・郷土料理 こっから
+https://maruchiba.jp/gourmet/spot/detail_11129.html
+
+
+
+--- SOURCE URL: https://maruchiba.jp/spot/detail_10364.html ---
+
+見ごたえたっぷり！日本一の磨崖仏とスリル満点の絶景
+鋭い岩肌が連なる標高329mの鋸山は、その名の通り稜線がノコギリの歯のような形をしています。県指定の名勝として知られている鋸山の南斜面に日本寺はあります。
+約1300年前、聖武天皇の勅詔を受けた行基菩薩によって、725年に開山された関東最古の勅願所です。10万坪余りの広大な境内には、日本最大の磨崖仏（薬師瑠璃光如来）や、百尺観音像、千五百羅漢像など、数多くの見どころが点在。なかでも見逃せないのが、山頂エリアの「地獄のぞき」。突き出た岩の先端まで行くと、まるで空中に浮いているかのよう。房総半島や遠く富士山や三浦半島までの絶景が望めますが、ふと下を見るとスリル満点！まさに地獄を覗き込むよう。
+ロープウェイや登山自動車道を利用すれば山頂まで簡単に行くことができます。登山道もあるので、季節の花々を愛でながらハイキングをかねて歩くのもおすすめです。
+エリア
+南房総
+鋸南町
+カテゴリー
+ハイキング・登山
+朝日・夕日
+その他ビュースポット
+ビュースポット
+歴史・文化・社寺仏閣
+ちば文化資産
+旅のテーマ
+秋の定番
+自然体験・アクティビティ
+愛犬とお出かけ
+春の定番
+夏の定番
+絶景！千葉の海沿いスポット
+冬の定番
+お気に入りリストに追加
+Share
+Twitter
+Facebook
+Line
+あじさい（季節の花々）
+大仏広場を中心に、境内の参道沿いには約20,000株のアジサイが咲き誇ります。同じ頃、アブラギリの花も白い花を咲かせ、クチナシは甘い香りを漂わせます。他にも広い境内では、水仙、桜、シャガ、彼岸花など四季折々の花々が咲き、鋸山を彩ります。
+関連する特集
+千葉の初詣スポット2026
+https://maruchiba.jp/feature/detail_17.html
+WEB会議・壁紙に！ちばのバーチャル背景特集
+https://maruchiba.jp/feature/detail_18.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+インスタ映え抜群！千葉でおすすめの絶景スポット特集20選！
+https://maruchiba.jp/feature/detail_74.html
+チーバくんプラザへようこそ！千葉県の観光は旅のコンシェルジュにお任せください
+https://maruchiba.jp/feature/detail_94.html
+カップルで行きたい！千葉県のおすすめデートスポット28選！
+https://maruchiba.jp/feature/detail_100.html
+絶景と歴史が詰まった鋸山！ロープウェーと登山の魅力を徹底解説します
+https://maruchiba.jp/feature/detail_108.html
+道の駅保田小附属ようちえんがオープン！最新情報をお届けします
+https://maruchiba.jp/feature/detail_154.html
+千葉の展望台＆灯台特集～個性豊かな絶景を望む～
+https://maruchiba.jp/feature/detail_178.html
+道の駅 グリーンファーム館山がオープン！最新情報をお届けします！
+https://maruchiba.jp/feature/detail_188.html
+神奈川から房総半島まで、東京湾フェリーに乗って快適な船旅を！乗り方や魅力をわかりやすくレポート！
+https://maruchiba.jp/feature/detail_199.html
+千葉の山！おすすめ6選！～初心者から中上級者まで楽しめます～
+https://maruchiba.jp/feature/detail_251.html
+千葉の神社・お寺特集！有名な神社やパワースポットもたっぷり72か所ご紹介
+https://maruchiba.jp/feature/detail_252.html
+千葉のツーリングスポット14選！～定番から穴場まで幅広くご紹介～
+https://maruchiba.jp/feature/detail_254.html
+千葉のお出かけスポット32選！
+https://maruchiba.jp/feature/detail_300.html
+道の駅 保田小学校を徹底解説！～宿泊・グルメ・お土産情報まで満載！～
+https://maruchiba.jp/feature/detail_338.html
+2025年2月ニューオープンのサウナ！絶景が楽しめるゆうみBeach Saunaを徹底解説！
+https://maruchiba.jp/feature/detail_351.html
+冒険心を刺激！千葉の絶景洞窟＆トンネルスポット15選
+https://maruchiba.jp/feature/detail_402.html
+館山で味わう至福の癒し旅｜グルメと温泉、自然や歴史まで～人気の観光スポットをご紹介！【2026年】
+https://maruchiba.jp/feature/detail_443.html
+鋸南町ってどんなところ？水仙・グルメ・道の駅まで徹底解説！
+https://maruchiba.jp/feature/detail_507.html
+菱川師宣とは？ 代表作の浮世絵『見返り美人図』の魅力と、鋸南町のゆかりの地を徹底解説！
+https://maruchiba.jp/feature/detail_510.html
+関連するモデルコース
+＜ちば文化資産＞驚きと感動の連続！かずさ・臨海エリアの絶景スポットをめぐる
+https://maruchiba.jp/course/detail_45.html
+ 公共交通機関で行く！千葉の旅モデルコース（1泊2日）
+https://maruchiba.jp/course/detail_50.html
+千葉の道の駅を巡るおすすめドライブコース（1泊2日）
+https://maruchiba.jp/course/detail_52.html
+南房総の絶景スポットを巡る1泊2日のドライブコース
+https://maruchiba.jp/course/detail_66.html
+房総半島ツーリング　秋の房総は走りも紅葉もグルメも楽しめるツーリングスポット
+https://maruchiba.jp/course/detail_96.html
+基本情報
+住所
+千葉県安房郡鋸南町鋸山
+電話番号
+0470-55-1103
+営業時間
+9:00～16:00（最終入場 15:00）
+料金
+一般／大人700円　小人（4～12歳）400円
+※障害者割引・・・証明書の提示により半額に減免（介助員は一人まで半額に減免）
+※団体、学生団体料金あり。詳しくは公式サイトをご確認ください。
+アクセス（車）
+・薬師本殿、大仏まで：鋸山観光道路利用、東口管理事務所まで
+・山頂展望台（地獄のぞき）、百尺観音まで：登山自動車道（有料道路）利用、西口管理所まで
+※境内入口は全部で5箇所あります。詳しくは鋸山 日本寺公式サイトをご確認ください。
+アクセス（鉄道）
+ロープウェイ山麓駅：「浜金谷」駅下車、国道127号線を館山方向へ徒歩8分
+※境内入口は全部で5箇所あります。詳しくは鋸山 日本寺公式サイトをご確認ください。
+アクセス（その他）
+東京湾フェリー：久里浜～金谷行き、金谷港からロープウェイ山麓駅まで徒歩約12分
+駐車場（乗用車／台数）
+50台（東口）　他、有料道路に駐車場2カ所あり
+駐車場（大型バス／台数）
+5台（東口）
+駐車場（有料／無料）
+無料
+関連リンク
+ラブちばに投稿された写真を見る
+日本寺
+※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
+おすすめ特集報
+春に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
+https://maruchiba.jp/feature/detail_23.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+まるで黄色い絨毯♪菜の花畑を見に行こう！
+https://maruchiba.jp/feature/detail_42.html
+春の訪れを教えてくれる、梅が咲くスポット
+https://maruchiba.jp/feature/detail_43.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+夏に読みたい！おすすめ特集
+千葉の潮干狩り2026
+https://maruchiba.jp/feature/detail_14.html
+千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
+https://maruchiba.jp/feature/detail_27.html
+千葉のプール・ウォーターレジャー2026
+https://maruchiba.jp/feature/detail_50.html
+千葉の花火大会・打ち上げ花火2026
+https://maruchiba.jp/feature/detail_53.html
+日帰りで楽しめる海のアクティビティ（体験）特集
+https://maruchiba.jp/feature/detail_62.html
+千葉のひまわり畑を歩こう！2026
+https://maruchiba.jp/feature/detail_64.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+ちばの祭り -山車・神輿・獅子舞-
+https://maruchiba.jp/feature/detail_88.html
+秋に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
+https://maruchiba.jp/feature/detail_28.html
+千葉の味覚狩り
+https://maruchiba.jp/feature/detail_33.html
+秋風にゆれるコスモス畑を歩こう！
+https://maruchiba.jp/feature/detail_34.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+落花生掘りといえば千葉！おすすめのスポットを紹介します。
+https://maruchiba.jp/feature/detail_63.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+冬に読みたい！おすすめ特集
+千葉の初詣スポット2026
+https://maruchiba.jp/feature/detail_17.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+千葉の初日の出スポット2026
+https://maruchiba.jp/feature/detail_69.html
+東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
+https://maruchiba.jp/feature/detail_169.html
+千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
+https://maruchiba.jp/feature/detail_177.html
+千葉の展望台＆灯台特集～個性豊かな絶景を望む～
+https://maruchiba.jp/feature/detail_178.html
+JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
+https://maruchiba.jp/feature/detail_197.html
+関連情報
+周辺にある観光スポット
+元名海水浴場
+https://maruchiba.jp/spot/detail_10693.html
+鋸山ロープウェー
+https://maruchiba.jp/spot/detail_10330.html
+音楽と珈琲の店　岬
+https://maruchiba.jp/spot/detail_10486.html
+BASE1901
+https://maruchiba.jp/spot/detail_11283.html
+BAYSIDE KANAYA（ベイサイド金谷）
+https://maruchiba.jp/spot/detail_11268.html
+保田海水浴場
+https://maruchiba.jp/spot/detail_10368.html
+ザ・フィッシュ
+https://maruchiba.jp/spot/detail_10333.html
+都市交流施設・道の駅保田小附属ようちえん
+https://maruchiba.jp/spot/detail_12572.html
+鋸山美術館
+https://maruchiba.jp/spot/detail_10332.html
+都市交流施設・道の駅 保田小学校
+https://maruchiba.jp/spot/detail_10365.html
+周辺にあるグルメスポット
+漁師めしはまべ
+https://maruchiba.jp/gourmet/spot/detail_11130.html
+Pizza GONZO
+https://maruchiba.jp/gourmet/spot/detail_11052.html
+さすけ食堂
+https://maruchiba.jp/gourmet/spot/detail_11131.html
+ベイサイド金谷 LA MER BLEUE
+https://maruchiba.jp/gourmet/spot/detail_13381.html
+SOTOCHIKU＆89unLtd. パクチー銀行
+https://maruchiba.jp/gourmet/spot/detail_13509.html
+ばんや本館
+https://maruchiba.jp/spot/detail_10371.html
+鋸南麦酒
+https://maruchiba.jp/spot/detail_10509.html
+漁師料理 かなや
+https://maruchiba.jp/gourmet/spot/detail_11306.html
+
+
+
+--- SOURCE URL: https://maruchiba.jp/spot/detail_10106.html ---
+
+多彩な企画展と浮世絵をはじめとする所蔵作品が楽しめる美術館
+1995年、中央区役所に併設される形で開館した千葉市美術館。2020年のリニューアルを機に、11階建ての建物すべてが美術館として生まれ変わりました。美術館の中には千葉市内に残る数少ない戦前の建物である旧川崎銀行千葉支店が包み込むように保存され、その建築も見どころの一つです。
+作品は「近世から近代の日本絵画・版画」「1945年以降の現代美術」「千葉市を中心とした房総ゆかりの作品」を中心にして集められ、そのハイライトを常設展で見ることができます。独自の視点がひかる多彩な企画展に加え、訪れる人が美術にふれあえる参加・体験型のプロジェクトや、美術に親しむのに役立つ書籍をそろえた図書室もあります。
+館内にはカフェやレストラン、ちょい呑み処が設けられており、美術鑑賞の余韻を楽しんだり美術談議に花を咲かせることもできるでしょう。
+エリア
+ベイエリア
+千葉市
+カテゴリー
+ミュージアム・ギャラリー
+ちば文化資産
+お気に入りリストに追加
+Share
+Twitter
+Facebook
+Line
+関連する特集
+千葉の美術館・博物館特集！アートや文化に触れる、ミュージアムをご紹介します		
+https://maruchiba.jp/feature/detail_106.html
+千葉県内のトップ・プロスポーツチーム特集
+https://maruchiba.jp/feature/detail_166.html
+JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
+https://maruchiba.jp/feature/detail_197.html
+千葉公園（芝庭エリア）の魅力を徹底解説～駐車場やアクセスについてもご紹介します～
+https://maruchiba.jp/feature/detail_280.html
+千葉市・船橋市のおすすめ日帰り温泉・スーパー銭湯5選！
+https://maruchiba.jp/feature/detail_372.html
+初開催のトリエンナーレに注目！定番から穴場まで、千葉市の最新アートスポット5選
+https://maruchiba.jp/feature/detail_425.html
+関連するモデルコース
+ベイエリアで和洋の近代建築とアートを堪能
+https://maruchiba.jp/course/detail_23.html
+基本情報
+住所
+〒260-0013　千葉県千葉市中央区中央3-10-8
+電話番号
+043-221-2311
+営業時間
+10:00～18:00（金・土曜日は20:00まで）
+定休日
+毎月第1・3月曜日（祝日の場合は翌平日）、年末年始（12月29日〜1月3日）、メンテナンス日
+料金
+・常設展示室
+一般 300円、大学生 220円
+・団体30名以上
+一般 240円、大学生 170円
+・企画展示室
+展覧会毎に異なる
+アクセス（車）
+京葉道路・東関東自動車道で宮野木JCTから木更津方面へ、貝塚IC下車、国道51号を千葉市街方面へ約3km広小路交差点近く
+アクセス（鉄道）
+・JR千葉駅東口から徒歩約15分
+・京成バス 中央3丁目または大和橋下車徒歩約3分
+・千葉都市モノレール県庁前方面行 葭川（よしかわ）公園駅下車徒歩約5分
+・京成千葉中央駅東口から徒歩約10分
+駐車場（乗用車／台数）
+機械式駐車場85台（車高155cm以上）	
+駐車場（大型バス／台数）
+なし
+駐車場（有料／無料）
+無料
+関連リンク
+ラブちばに投稿された写真を見る
+千葉市美術館
+※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
+おすすめ特集報
+春に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
+https://maruchiba.jp/feature/detail_23.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+まるで黄色い絨毯♪菜の花畑を見に行こう！
+https://maruchiba.jp/feature/detail_42.html
+春の訪れを教えてくれる、梅が咲くスポット
+https://maruchiba.jp/feature/detail_43.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+夏に読みたい！おすすめ特集
+千葉の潮干狩り2026
+https://maruchiba.jp/feature/detail_14.html
+千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
+https://maruchiba.jp/feature/detail_27.html
+千葉のプール・ウォーターレジャー2026
+https://maruchiba.jp/feature/detail_50.html
+千葉の花火大会・打ち上げ花火2026
+https://maruchiba.jp/feature/detail_53.html
+日帰りで楽しめる海のアクティビティ（体験）特集
+https://maruchiba.jp/feature/detail_62.html
+千葉のひまわり畑を歩こう！2026
+https://maruchiba.jp/feature/detail_64.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+ちばの祭り -山車・神輿・獅子舞-
+https://maruchiba.jp/feature/detail_88.html
+秋に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
+https://maruchiba.jp/feature/detail_28.html
+千葉の味覚狩り
+https://maruchiba.jp/feature/detail_33.html
+秋風にゆれるコスモス畑を歩こう！
+https://maruchiba.jp/feature/detail_34.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+落花生掘りといえば千葉！おすすめのスポットを紹介します。
+https://maruchiba.jp/feature/detail_63.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+冬に読みたい！おすすめ特集
+千葉の初詣スポット2026
+https://maruchiba.jp/feature/detail_17.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+千葉の初日の出スポット2026
+https://maruchiba.jp/feature/detail_69.html
+東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
+https://maruchiba.jp/feature/detail_169.html
+千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
+https://maruchiba.jp/feature/detail_177.html
+千葉の展望台＆灯台特集～個性豊かな絶景を望む～
+https://maruchiba.jp/feature/detail_178.html
+JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
+https://maruchiba.jp/feature/detail_197.html
+関連情報
+周辺にある観光スポット
+千葉市科学館
+https://maruchiba.jp/spot/detail_10105.html
+千葉神社
+https://maruchiba.jp/spot/detail_10123.html
+千葉県酒造組合	
+https://maruchiba.jp/spot/detail_10121.html
+千葉市立郷土博物館
+https://maruchiba.jp/spot/detail_10099.html
+亥鼻公園
+https://maruchiba.jp/spot/detail_10646.html
+千葉県漁連海産物直売所「海市場」
+https://maruchiba.jp/spot/detail_11239.html
+ハーブちくら 海辺のハーブガーデン
+https://maruchiba.jp/spot/detail_15074.html
+流山市農産物直売所「新鮮食味」
+https://maruchiba.jp/spot/detail_14099.html
+大栄産直センター
+https://maruchiba.jp/spot/detail_14089.html
+椿森コムナ
+https://maruchiba.jp/spot/detail_12649.html
+周辺にあるグルメスポット
+醸しダイニング　KOKORO
+https://maruchiba.jp/gourmet/spot/detail_13971.html
+さんが・郷土料理 こっから
+https://maruchiba.jp/gourmet/spot/detail_11129.html
+
+
+
+--- SOURCE URL: https://maruchiba.jp/spot/detail_10490.html ---
+
+ロケ地としても人気！緑豊かな団地の中にある商店街
+お買物広場「さつきが丘名店街」は、東京のベッドタウンとして発展したさつきが丘団地のほぼ中央にある名物商店街。入口では商店街には珍しい狛犬が出迎えてくれます。昭和レトロなアーケードをくぐると、約250mの歩行者専用道路の両側に青果店や和菓子店、カフェなどの専門店が並びます。
+ドラマなどのロケ地としても多く使われている名所。昔ながらのレトロな雰囲気が残る商店街を訪れてみてはいかがでしょうか。
+エリア
+ベイエリア
+千葉市
+カテゴリー
+ロケ地
+お気に入りリストに追加
+Share
+Twitter
+Facebook
+Line
+ロケ地情報
+ドラマ『アンラッキーガール（2021年）』ロケ地。
+商店街に主人公たち働く宝くじ売り場を設置して、撮影が行われました。
+通りがかった方から「新しく宝くじ屋さんができたの！？」と聞かれる場面も。
+撮影で使われることが多く、もしかしたら撮影隊に遭遇するかも！？
+ロケ風景
+基本情報
+住所
+千葉県千葉市花見川区さつきが丘2-11-13
+電話番号
+043-257-5450（さつきが丘名店街協同組合）
+営業時間
+店舗により異なる
+定休日
+店舗により異なる
+アクセス（鉄道）
+・JR新検見川駅から徒歩約40分
+・JR新検見川駅（北口）からさつきが丘団地行きバスで「さつきが丘第二バス停」下車
+関連リンク
+ラブちばに投稿された写真を見る
+千葉県フィルムコミッション
+※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
+おすすめ特集報
+春に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
+https://maruchiba.jp/feature/detail_23.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+まるで黄色い絨毯♪菜の花畑を見に行こう！
+https://maruchiba.jp/feature/detail_42.html
+春の訪れを教えてくれる、梅が咲くスポット
+https://maruchiba.jp/feature/detail_43.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+夏に読みたい！おすすめ特集
+千葉の潮干狩り2026
+https://maruchiba.jp/feature/detail_14.html
+千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
+https://maruchiba.jp/feature/detail_27.html
+千葉のプール・ウォーターレジャー2026
+https://maruchiba.jp/feature/detail_50.html
+千葉の花火大会・打ち上げ花火2026
+https://maruchiba.jp/feature/detail_53.html
+日帰りで楽しめる海のアクティビティ（体験）特集
+https://maruchiba.jp/feature/detail_62.html
+千葉のひまわり畑を歩こう！2026
+https://maruchiba.jp/feature/detail_64.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+ちばの祭り -山車・神輿・獅子舞-
+https://maruchiba.jp/feature/detail_88.html
+秋に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
+https://maruchiba.jp/feature/detail_28.html
+千葉の味覚狩り
+https://maruchiba.jp/feature/detail_33.html
+秋風にゆれるコスモス畑を歩こう！
+https://maruchiba.jp/feature/detail_34.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+落花生掘りといえば千葉！おすすめのスポットを紹介します。
+https://maruchiba.jp/feature/detail_63.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+冬に読みたい！おすすめ特集
+千葉の初詣スポット2026
+https://maruchiba.jp/feature/detail_17.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+千葉の初日の出スポット2026
+https://maruchiba.jp/feature/detail_69.html
+東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
+https://maruchiba.jp/feature/detail_169.html
+千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
+https://maruchiba.jp/feature/detail_177.html
+千葉の展望台＆灯台特集～個性豊かな絶景を望む～
+https://maruchiba.jp/feature/detail_178.html
+JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
+https://maruchiba.jp/feature/detail_197.html
+関連情報
+周辺にある観光スポット
+こてはし温水プール
+https://maruchiba.jp/spot/detail_10570.html
+ＪＡ千葉みらい農産物直売所 しょいか～ご　習志野店
+https://maruchiba.jp/spot/detail_11294.html
+検見川神社
+https://maruchiba.jp/spot/detail_10636.html
+ドイツ捕虜オーケストラの碑
+https://maruchiba.jp/spot/detail_10445.html
+千葉市ゆかりの家・いなげ
+https://maruchiba.jp/spot/detail_10120.html
+旧神谷傳兵衛稲毛別荘
+https://maruchiba.jp/spot/detail_10119.html
+千葉市民ギャラリー・いなげ
+https://maruchiba.jp/spot/detail_10607.html
+旧鴇田家住宅
+https://maruchiba.jp/spot/detail_10440.html
+千葉市動物公園
+https://maruchiba.jp/spot/detail_10104.html
+有森裕子記念碑
+https://maruchiba.jp/spot/detail_10442.html
+周辺にあるグルメスポット
+ほっこり芋　宮野木店
+https://maruchiba.jp/gourmet/spot/detail_11061.html
+タンジョウ ファーム キッチン
+https://maruchiba.jp/gourmet/spot/detail_11841.html
+MAKUHARI BREWERY
+https://maruchiba.jp/gourmet/spot/detail_11069.html
 
 
 
@@ -4024,6 +3010,1337 @@ https://maruchiba.jp/gourmet/spot/detail_13044.html
 https://maruchiba.jp/gourmet/spot/detail_11042.html
 魚ばる 澤
 https://maruchiba.jp/gourmet/spot/detail_11070.html
+
+
+
+--- SOURCE URL: https://maruchiba.jp/spot/detail_10105.html ---
+
+「わくわくする体験」～日常の身近なところから科学へ～
+日常の視点で科学を捉え子どもから大人まで楽しめる、人から人へのコミュニケーションを大切にした「人が主役」となる参加体験型科学館。
+150もの体験展示がある常設展示は、ふとした日々の疑問や何気なく見過ごしている現象を科学と結びつけて紹介し、来館者と気づきを共有することを目指している。週末を中心にワークショップなどのイベントも開催。
+複合施設きぼーるの巨大な球体内部には県内最大のプラネタリウムがある。天の川の構造も再現できる１億個の高精細な星空を映し、全天に投影されるデジタル映像を交えた多彩な番組が充実。
+エリア
+ベイエリア
+千葉市
+カテゴリー
+ミュージアム・ギャラリー
+お気に入りリストに追加
+Share
+Twitter
+Facebook
+Line
+関連する特集
+雨の日でも楽しめる千葉のおでかけスポット21選！
+https://maruchiba.jp/feature/detail_38.html
+チーバくんプラザへようこそ！千葉県の観光は旅のコンシェルジュにお任せください
+https://maruchiba.jp/feature/detail_94.html
+千葉の美術館・博物館特集！アートや文化に触れる、ミュージアムをご紹介します		
+https://maruchiba.jp/feature/detail_106.html
+千葉県内のトップ・プロスポーツチーム特集
+https://maruchiba.jp/feature/detail_166.html
+JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
+https://maruchiba.jp/feature/detail_197.html
+千葉のGW（ゴールデンウィーク）を満喫！おすすめの観光スポット・イベントをご紹介！【2026年】
+https://maruchiba.jp/feature/detail_234.html
+千葉の夏休みを満喫！おすすめの観光スポット・イベントをご紹介！
+https://maruchiba.jp/feature/detail_257.html
+千葉公園（芝庭エリア）の魅力を徹底解説～駐車場やアクセスについてもご紹介します～
+https://maruchiba.jp/feature/detail_280.html
+千葉のお出かけスポット32選！
+https://maruchiba.jp/feature/detail_300.html
+関連するモデルコース
+千葉市で楽しむ子連れおでかけモデルコース｜博物館＆公園で1日満喫プラン
+https://maruchiba.jp/course/detail_165.html
+基本情報
+住所
+千葉県千葉市中央区中央4-5-1
+電話番号
+043-308-0511
+営業時間
+・展示エリア 9:00〜19:00
+・プラネタリウム 9:00〜20:00※投影時間は日によって変動あり
+定休日
+年末年始（12月29日～翌年1月1日）
+不定休　※詳細は公式サイトでご確認ください
+料金
+・常設展示 
+大人 600円、高校生 300円、小中学生 100円
+・プラネタリウム 
+大人 600円、高校生 300円、小中学生 100円
+・セット券 （常設展示＋プラネタリウム）
+大人 1,000円、高校生 490円、小中学生 160円
+アクセス（車）
+・穴川ICから126号に入り、本町2丁目交差点を右折（右角が京葉銀行）、京成千葉中央駅に向かって中央大通りを中程まで進んだ左側
+・京成千葉中央駅から東に延びる中央大通りを直進、中央三丁目交差点を過ぎた右側角に位置
+アクセス（鉄道）
+・JR総武線千葉駅東口から徒歩約15分
+・京成千葉中央駅から徒歩約6分
+・千葉都市モノレール葭川公園駅から徒歩約5分
+駐車場（乗用車／台数）
+なし※複合施設Qiball（きぼーる）有料駐車場
+駐車場（大型バス／台数）
+要団体予約（15名以上から受付）　※詳細は公式サイトでご確認ください
+駐車場（有料／無料）
+複合施設Qiball（きぼーる）有料駐車場料金
+・8:00～22:00　20分100円
+・22:00～8:00　60分100円
+関連リンク
+ラブちばに投稿された写真を見る
+千葉市科学館
+※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
+おすすめ特集報
+春に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
+https://maruchiba.jp/feature/detail_23.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+まるで黄色い絨毯♪菜の花畑を見に行こう！
+https://maruchiba.jp/feature/detail_42.html
+春の訪れを教えてくれる、梅が咲くスポット
+https://maruchiba.jp/feature/detail_43.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+夏に読みたい！おすすめ特集
+千葉の潮干狩り2026
+https://maruchiba.jp/feature/detail_14.html
+千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
+https://maruchiba.jp/feature/detail_27.html
+千葉のプール・ウォーターレジャー2026
+https://maruchiba.jp/feature/detail_50.html
+千葉の花火大会・打ち上げ花火2026
+https://maruchiba.jp/feature/detail_53.html
+日帰りで楽しめる海のアクティビティ（体験）特集
+https://maruchiba.jp/feature/detail_62.html
+千葉のひまわり畑を歩こう！2026
+https://maruchiba.jp/feature/detail_64.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+ちばの祭り -山車・神輿・獅子舞-
+https://maruchiba.jp/feature/detail_88.html
+秋に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
+https://maruchiba.jp/feature/detail_28.html
+千葉の味覚狩り
+https://maruchiba.jp/feature/detail_33.html
+秋風にゆれるコスモス畑を歩こう！
+https://maruchiba.jp/feature/detail_34.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+落花生掘りといえば千葉！おすすめのスポットを紹介します。
+https://maruchiba.jp/feature/detail_63.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+冬に読みたい！おすすめ特集
+千葉の初詣スポット2026
+https://maruchiba.jp/feature/detail_17.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+千葉の初日の出スポット2026
+https://maruchiba.jp/feature/detail_69.html
+東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
+https://maruchiba.jp/feature/detail_169.html
+千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
+https://maruchiba.jp/feature/detail_177.html
+千葉の展望台＆灯台特集～個性豊かな絶景を望む～
+https://maruchiba.jp/feature/detail_178.html
+JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
+https://maruchiba.jp/feature/detail_197.html
+関連情報
+周辺にある観光スポット
+千葉県酒造組合	
+https://maruchiba.jp/spot/detail_10121.html
+千葉市美術館
+https://maruchiba.jp/spot/detail_10106.html
+千葉神社
+https://maruchiba.jp/spot/detail_10123.html
+千葉市立郷土博物館
+https://maruchiba.jp/spot/detail_10099.html
+亥鼻公園
+https://maruchiba.jp/spot/detail_10646.html
+千葉県漁連海産物直売所「海市場」
+https://maruchiba.jp/spot/detail_11239.html
+ハーブちくら 海辺のハーブガーデン
+https://maruchiba.jp/spot/detail_15074.html
+流山市農産物直売所「新鮮食味」
+https://maruchiba.jp/spot/detail_14099.html
+大栄産直センター
+https://maruchiba.jp/spot/detail_14089.html
+日本酒プレミアムラウンジ⼀献⾵⽉ by PERIE CHIBA
+https://maruchiba.jp/spot/detail_12678.html
+周辺にあるグルメスポット
+醸しダイニング　KOKORO
+https://maruchiba.jp/gourmet/spot/detail_13971.html
+さんが・郷土料理 こっから
+https://maruchiba.jp/gourmet/spot/detail_11129.html
+
+
+
+--- SOURCE URL: https://maruchiba.jp/spot/detail_10572.html ---
+
+一輪の花から、世界は静かになる
+花の育て方、飾り方、楽しみ方という「花のある暮らし」を提案してきた花の美術館。
+この度のリニューアルで、これまでの美術館に芸術性が加わり、新たな気付きを得られる施設【BOTANICA MUSEUM】と生まれ変わりました。 
+無駄を許さない自然界での生命維持の厳しさは、生物たちに試練と進化をもたらした。
+そして生物たちは、ため息が出るほどの美しいフォルムと生命機能を形作ってきた。
+その途方もなく、絶え間ない努力の結晶は「自然の奇跡」と形容するに他ならない。
+BOTANICA MUSEUMはフラワーアーティスト「HIKARU　SEINO」の全面プロデュ－スによる感性を基に、自然の奇跡の中から「植物」という分野に焦点を当て
+私たち人間の生活や心を豊かにするヒントを皆さんと考えるミュージアムです。
+2026年4月にはフルオープンを迎え、アート作品および温室エリアの照明演出を大幅に強化。
+昼間とはまったく異なる幻想的な表情を創り出します。
+光とアートが融合する、これまでにない夜のBOTANICA MUSEUMをぜひご体験ください。
+花や植物が本来持つ美しさと力を、五感で感じていただける特別な空間です。
+エリア
+ベイエリア
+千葉市
+カテゴリー
+水族館・動物園・植物園・牧場
+ミュージアム・ギャラリー
+花・紅葉
+旅のテーマ
+穴場観光
+季節のお花めぐり
+お気に入りリストに追加
+Share
+Twitter
+Facebook
+Line
+関連する特集
+千葉の美術館・博物館特集！アートや文化に触れる、ミュージアムをご紹介します		
+https://maruchiba.jp/feature/detail_106.html
+千葉都市モノレールで空中さんぽ！ギネス認定の乗り物でお出かけしよう
+https://maruchiba.jp/feature/detail_145.html
+X Games（Xゲームズ） Chiba 2026の魅力を徹底解説！～アクセス・チケット情報についてもご紹介します～
+https://maruchiba.jp/feature/detail_284.html
+初開催のトリエンナーレに注目！定番から穴場まで、千葉市の最新アートスポット5選
+https://maruchiba.jp/feature/detail_425.html
+基本情報
+住所
+〒261-0003　千葉県千葉市美浜区高浜7-2-4
+電話番号
+050-1792-5706（株式会社ワールドパーク）
+営業時間
+（本館営業時間） 4月～9月
+(昼)10:00～17:00(最終入館16:30)
+(夜)18:00～22:00(最終入館21:30)
+   （本館営業時間）10月～3月
+(昼)10:00～16:00(最終入館15:30)
+(夜)17:00～22:00(最終入館21:30)
+定休日
+毎週月曜日（月曜日が祝日の場合は翌平日が休み）
+料金
+（昼）大人(中学生以上) ￥1,000
+　　　子供(4歳~小学生) ￥500
+　　　3歳以下　無料
+（夜）大人(中学生以上) ￥2,000
+　　　子供(4歳~小学生) ￥1,000
+         3歳以下　無料
+※有料入館者の合計20名以上で入館料に1割引が適用されます。
+アクセス（車）
+国道14号・357号浅間神社交差点を海側へ曲がり、約2km直進し、海浜大通りを左折し約1km
+アクセス（鉄道）
+・JR総武線　稲毛駅西口2番線バス乗り場から、京成バス千葉セントラル（旧千葉海浜交通）海浜公園プール行きで、花の美術館下車、又は高浜車庫行で終点下車、徒歩約5分
+・JR京葉線　稲毛海岸駅南口2番線バス乗り場から、京成バス千葉セントラル（旧千葉海浜交通）海浜公園入口行で終点下車、徒歩約5分
+駐車場（乗用車／台数）
+あり
+駐車場（大型バス／台数）
+乗用車用の駐車スペースに駐車可
+駐車場（有料／無料）
+第１駐車場 (06:00 – 23:00)
+〒261-0003 千葉県千葉市美浜区高浜7-1-1
+・普通車：３時間まで400円
+　以降30分ごとに100円（一日(入庫から24h)最大1000円）
+・大型車：1回2,000円(入庫から24h)
+夏季期間料金
+・普通車：1回 1,000円 / 大型車：1回2,000円
+関連リンク
+BOTANICA MUSEUM（ボタニカ ミュージアム）｜千葉市稲毛海浜公園
+X公式アカウント（BOTANICA MUSEUM @sbp_smfm）
+Insatgram公式アカウント（botanica_museum）
+※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
+おすすめ特集報
+春に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
+https://maruchiba.jp/feature/detail_23.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+まるで黄色い絨毯♪菜の花畑を見に行こう！
+https://maruchiba.jp/feature/detail_42.html
+春の訪れを教えてくれる、梅が咲くスポット
+https://maruchiba.jp/feature/detail_43.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+夏に読みたい！おすすめ特集
+千葉の潮干狩り2026
+https://maruchiba.jp/feature/detail_14.html
+千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
+https://maruchiba.jp/feature/detail_27.html
+千葉のプール・ウォーターレジャー2026
+https://maruchiba.jp/feature/detail_50.html
+千葉の花火大会・打ち上げ花火2026
+https://maruchiba.jp/feature/detail_53.html
+日帰りで楽しめる海のアクティビティ（体験）特集
+https://maruchiba.jp/feature/detail_62.html
+千葉のひまわり畑を歩こう！2026
+https://maruchiba.jp/feature/detail_64.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+ちばの祭り -山車・神輿・獅子舞-
+https://maruchiba.jp/feature/detail_88.html
+秋に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
+https://maruchiba.jp/feature/detail_28.html
+千葉の味覚狩り
+https://maruchiba.jp/feature/detail_33.html
+秋風にゆれるコスモス畑を歩こう！
+https://maruchiba.jp/feature/detail_34.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+落花生掘りといえば千葉！おすすめのスポットを紹介します。
+https://maruchiba.jp/feature/detail_63.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+冬に読みたい！おすすめ特集
+千葉の初詣スポット2026
+https://maruchiba.jp/feature/detail_17.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+千葉の初日の出スポット2026
+https://maruchiba.jp/feature/detail_69.html
+東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
+https://maruchiba.jp/feature/detail_169.html
+千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
+https://maruchiba.jp/feature/detail_177.html
+千葉の展望台＆灯台特集～個性豊かな絶景を望む～
+https://maruchiba.jp/feature/detail_178.html
+JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
+https://maruchiba.jp/feature/detail_197.html
+関連情報
+周辺にある観光スポット
+SUNSET BEACH PARK INAGE（稲毛海浜公園）
+https://maruchiba.jp/spot/detail_10117.html
+small planet CAMP & GRILL
+https://maruchiba.jp/spot/detail_10630.html
+稲毛記念館
+https://maruchiba.jp/spot/detail_10571.html
+アクアリンクちば
+https://maruchiba.jp/spot/detail_10113.html
+千葉市民ギャラリー・いなげ
+https://maruchiba.jp/spot/detail_10607.html
+千葉市ゆかりの家・いなげ
+https://maruchiba.jp/spot/detail_10120.html
+旧神谷傳兵衛稲毛別荘
+https://maruchiba.jp/spot/detail_10119.html
+検見川神社
+https://maruchiba.jp/spot/detail_10636.html
+千葉県立幕張海浜公園 見浜園
+https://maruchiba.jp/spot/detail_10609.html
+ホテルスプリングス幕張
+https://maruchiba.jp/spot/detail_10487.html
+周辺にあるグルメスポット
+MAKUHARI BREWERY
+https://maruchiba.jp/gourmet/spot/detail_11069.html
+
+
+
+--- SOURCE URL: https://maruchiba.jp/spot/detail_10116.html ---
+
+デートや観光スポットとしても人気の千葉港のシンボル
+日本最大の広さを誇る国際貿易港・千葉港のシンボルとして、1986年にオープンした展望施設です。
+2階「ロイヤルブルーフロア」から望む、キラキラと光り輝く千葉市街や工場の夜景が2人の特別な時間をロマンチックに演出します。また、最上階の展望フロアからは東京湾を一望。西側の展望から望む夕日に染まる富士山は、一日の中で最も美しい瞬間の1つです。クリスマスにはタワー全体がクリスマスツリーに大変身！元旦には初日の出を見ながら新しい年を迎えましょう。
+周辺には千葉県立美術館や千葉港めぐり観光船のりばもあり、家族連れなど多くの人々が楽しめる観光スポットとしておすすめです。
+タワー1階の「Ｙショップ・千葉のお土産コーナー」では、千葉県の特産品を豊富に取り揃えています。ぜひおみやげにご利用ください。
+エリア
+ベイエリア
+千葉市
+カテゴリー
+展望台・灯台・タワー
+ビュースポット
+ちば文化資産
+旅のテーマ
+秋の定番
+夜観光
+春の定番
+夏の定番
+冬の定番
+お気に入りリストに追加
+Share
+Twitter
+Facebook
+Line
+関連する特集
+インスタ映え抜群！千葉でおすすめの絶景スポット特集20選！
+https://maruchiba.jp/feature/detail_74.html
+カップルで行きたい！千葉県のおすすめデートスポット28選！
+https://maruchiba.jp/feature/detail_100.html
+千葉県内のトップ・プロスポーツチーム特集
+https://maruchiba.jp/feature/detail_166.html
+千葉の展望台＆灯台特集～個性豊かな絶景を望む～
+https://maruchiba.jp/feature/detail_178.html
+JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
+https://maruchiba.jp/feature/detail_197.html
+ロマンチックな千葉の夜景11選！～デートやドライブにもおすすめ～
+https://maruchiba.jp/feature/detail_247.html
+X Games（Xゲームズ） Chiba 2026の魅力を徹底解説！～アクセス・チケット情報についてもご紹介します～
+https://maruchiba.jp/feature/detail_284.html
+千葉のお出かけスポット32選！
+https://maruchiba.jp/feature/detail_300.html
+千葉市・船橋市のおすすめ日帰り温泉・スーパー銭湯5選！
+https://maruchiba.jp/feature/detail_372.html
+関連するモデルコース
+＜ちば文化資産＞千葉都市モノレールで行く「ちば文化資産」めぐり
+https://maruchiba.jp/course/detail_40.html
+【ベイエリア】千葉市周辺をファミリーで楽しむ！日帰りコース
+https://maruchiba.jp/course/detail_122.html
+基本情報
+住所
+〒260-0024　千葉県千葉市中央区中央港1
+電話番号
+043-241-0125
+営業時間
+6月～9月：毎日9:00～21:00
+10月～5月：月曜日～金曜日9:00～19:00／土日祝日9:00～20:00
+※最終入館は閉館時間の30分前
+定休日
+休館日
+偶数月の第4月曜日、12月28日～12月31日
+※安全上において、強風等により臨時休業する場合があります
+※毎年変動
+料金
+大人420円、小・中学生200円、小学生未満無料
+団体割引あり
+アクセス（車）
+・湾岸習志野ICから約20分
+・幕張ICから約20分
+・湾岸千葉ICから約15分
+・松ヶ丘ICから約15分
+・千葉東ICから約15分
+アクセス（鉄道）
+JR千葉みなと駅から徒歩約12分
+駐車場（乗用車／台数）
+243台
+駐車場（大型バス／台数）
+11台
+駐車場（有料／無料）
+無料
+関連リンク
+ラブちばに投稿された写真を見る
+千葉ポートタワー
+※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
+おすすめ特集報
+春に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
+https://maruchiba.jp/feature/detail_23.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+まるで黄色い絨毯♪菜の花畑を見に行こう！
+https://maruchiba.jp/feature/detail_42.html
+春の訪れを教えてくれる、梅が咲くスポット
+https://maruchiba.jp/feature/detail_43.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+夏に読みたい！おすすめ特集
+千葉の潮干狩り2026
+https://maruchiba.jp/feature/detail_14.html
+千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
+https://maruchiba.jp/feature/detail_27.html
+千葉のプール・ウォーターレジャー2026
+https://maruchiba.jp/feature/detail_50.html
+千葉の花火大会・打ち上げ花火2026
+https://maruchiba.jp/feature/detail_53.html
+日帰りで楽しめる海のアクティビティ（体験）特集
+https://maruchiba.jp/feature/detail_62.html
+千葉のひまわり畑を歩こう！2026
+https://maruchiba.jp/feature/detail_64.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+ちばの祭り -山車・神輿・獅子舞-
+https://maruchiba.jp/feature/detail_88.html
+秋に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
+https://maruchiba.jp/feature/detail_28.html
+千葉の味覚狩り
+https://maruchiba.jp/feature/detail_33.html
+秋風にゆれるコスモス畑を歩こう！
+https://maruchiba.jp/feature/detail_34.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+落花生掘りといえば千葉！おすすめのスポットを紹介します。
+https://maruchiba.jp/feature/detail_63.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+冬に読みたい！おすすめ特集
+千葉の初詣スポット2026
+https://maruchiba.jp/feature/detail_17.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+千葉の初日の出スポット2026
+https://maruchiba.jp/feature/detail_69.html
+東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
+https://maruchiba.jp/feature/detail_169.html
+千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
+https://maruchiba.jp/feature/detail_177.html
+千葉の展望台＆灯台特集～個性豊かな絶景を望む～
+https://maruchiba.jp/feature/detail_178.html
+JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
+https://maruchiba.jp/feature/detail_197.html
+関連情報
+周辺にある観光スポット
+千葉ポートパーク
+https://maruchiba.jp/spot/detail_10647.html
+千葉県立美術館
+https://maruchiba.jp/spot/detail_10107.html
+千葉港めぐり（ケーズハーバー）
+https://maruchiba.jp/spot/detail_10115.html
+幕張ビーチフェスタ　花火鑑賞クルーズ／千葉港
+https://maruchiba.jp/spot/detail_13005.html
+千葉県漁連海産物直売所「海市場」
+https://maruchiba.jp/spot/detail_11239.html
+日本酒プレミアムラウンジ⼀献⾵⽉ by PERIE CHIBA
+https://maruchiba.jp/spot/detail_12678.html
+ハーブちくら 海辺のハーブガーデン
+https://maruchiba.jp/spot/detail_15074.html
+流山市農産物直売所「新鮮食味」
+https://maruchiba.jp/spot/detail_14099.html
+大栄産直センター
+https://maruchiba.jp/spot/detail_14089.html
+千葉県酒造組合	
+https://maruchiba.jp/spot/detail_10121.html
+周辺にあるグルメスポット
+さんが・郷土料理 こっから
+https://maruchiba.jp/gourmet/spot/detail_11129.html
+醸しダイニング　KOKORO
+https://maruchiba.jp/gourmet/spot/detail_13971.html
+
+
+
+--- SOURCE URL: https://maruchiba.jp/spot/detail_10111.html ---
+
+白熱プレーに感動！千葉ロッテマリーンズの本拠地
+「千葉ロッテマリーンズ」のホームスタジアムであるZOZOマリンスタジアムは、約30,000人の観客を収容できる球場です。意識しているのは観客と選手の心地よさ。従来の野球場の定番だった照明塔に代わり、サークルラインと呼ばれるひさしの先端に取り付けられた照明は、目にやさしい自然な明るさを実現しました。2018年からは最先端技術を採用した天然芝に近い人工芝を取り入れ、選手の積極的なプレーを後押し、試合を盛り上げます。
+ファンサービスも充実！ホームゲームが開催される日は悪天候でない限り花火が打ち上げられ、試合の高揚感を高めます。ダイナミックなプレーをより間近に感じたい観客の要望に応えるため、グラウンドレベルの観客席も用意。赤ちゃんを含め、幅広い年齢層の方が快適に過ごせる環境を提供しているのも魅力です。
+エリア
+ベイエリア
+千葉市
+カテゴリー
+公園・スポーツ施設
+レジャースポット
+お気に入りリストに追加
+Share
+Twitter
+Facebook
+Line
+関連する特集
+千葉県のアウトレット情報まとめ
+幕張/木更津/酒々井アウトレットを比べてみました。	
+https://maruchiba.jp/feature/detail_55.html
+千葉都市モノレールで空中さんぽ！ギネス認定の乗り物でお出かけしよう
+https://maruchiba.jp/feature/detail_145.html
+基本情報
+住所
+千葉県千葉市美浜区美浜1
+電話番号
+0570-026-226（マリーンズ・インフォメーションセンター（一般））
+その他連絡先
+・マリーンズ・インフォメーションセンター
+03-5682-6329（TEAM26会員）
+ 043-296-1189（その他情報） 
+・球場への忘れ物、草野球等の一般利用
+043-296-1227（㈱千葉マリンスタジアム）
+営業時間
+平日およびZOZOマリン デーゲーム開催日：10:00～17:00
+ZOZOマリン ナイターゲーム開催日：10:00～20:00
+定休日
+月により異なるため、公式サイトお問い合わせページを参照してください
+料金
+チケット価格は購入するタイミングにより変動するダイナミックプライシング
+アクセス（車）
+・東関東自動車道湾岸習志野ICから約5分
+・京葉道路幕張ICから約5分
+・東関東自動車道湾岸千葉ICから約5分
+アクセス（鉄道）
+・JR京葉線海浜幕張駅から徒歩約15分、バスで約6分
+・JR総武線幕張本郷駅からバスで約20分
+・京成千葉線幕張本郷駅からバスで約20分
+・JR総武線幕張駅からバスで約15分
+・JR総武線稲毛駅からバスで約30分
+・JR京葉線幕張豊砂駅から徒歩約30分
+※バスはいずれも「ZOZOマリンスタジアム行」
+駐車場（乗用車／台数）
+・スタジアム海側駐車場　313台　※毎年12月～2月は休業
+・幕張海浜公園駐車場
+Aブロック　63台
+Bブロック　92台
+Cブロック　46台（うち1台は障がい者スペース）
+駐車場（大型バス／台数）
+なし
+駐車場（有料／無料）
+有料（料金等は関連リンクを参照）
+関連リンク
+ラブちばに投稿された写真を見る
+千葉ロッテマリーンズ公式サイト
+スタジアム海側駐車場
+幕張海浜公園駐車場
+※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
+おすすめ特集報
+春に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
+https://maruchiba.jp/feature/detail_23.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+まるで黄色い絨毯♪菜の花畑を見に行こう！
+https://maruchiba.jp/feature/detail_42.html
+春の訪れを教えてくれる、梅が咲くスポット
+https://maruchiba.jp/feature/detail_43.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+夏に読みたい！おすすめ特集
+千葉の潮干狩り2026
+https://maruchiba.jp/feature/detail_14.html
+千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
+https://maruchiba.jp/feature/detail_27.html
+千葉のプール・ウォーターレジャー2026
+https://maruchiba.jp/feature/detail_50.html
+千葉の花火大会・打ち上げ花火2026
+https://maruchiba.jp/feature/detail_53.html
+日帰りで楽しめる海のアクティビティ（体験）特集
+https://maruchiba.jp/feature/detail_62.html
+千葉のひまわり畑を歩こう！2026
+https://maruchiba.jp/feature/detail_64.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+ちばの祭り -山車・神輿・獅子舞-
+https://maruchiba.jp/feature/detail_88.html
+秋に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
+https://maruchiba.jp/feature/detail_28.html
+千葉の味覚狩り
+https://maruchiba.jp/feature/detail_33.html
+秋風にゆれるコスモス畑を歩こう！
+https://maruchiba.jp/feature/detail_34.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+落花生掘りといえば千葉！おすすめのスポットを紹介します。
+https://maruchiba.jp/feature/detail_63.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+冬に読みたい！おすすめ特集
+千葉の初詣スポット2026
+https://maruchiba.jp/feature/detail_17.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+千葉の初日の出スポット2026
+https://maruchiba.jp/feature/detail_69.html
+東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
+https://maruchiba.jp/feature/detail_169.html
+千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
+https://maruchiba.jp/feature/detail_177.html
+千葉の展望台＆灯台特集～個性豊かな絶景を望む～
+https://maruchiba.jp/feature/detail_178.html
+JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
+https://maruchiba.jp/feature/detail_197.html
+関連情報
+周辺にある観光スポット
+幕張メッセ
+https://maruchiba.jp/spot/detail_10112.html
+メッセモール
+https://maruchiba.jp/spot/detail_10489.html
+千葉県立幕張海浜公園 見浜園
+https://maruchiba.jp/spot/detail_10609.html
+ホテルスプリングス幕張
+https://maruchiba.jp/spot/detail_10487.html
+山縣飛行士殉空之地碑
+https://maruchiba.jp/spot/detail_10444.html
+千葉県国際総合水泳場
+https://maruchiba.jp/spot/detail_10595.html
+鈴木大地記念碑
+https://maruchiba.jp/spot/detail_10443.html
+茜浜緑地（関東富士見百景）
+https://maruchiba.jp/spot/detail_10439.html
+パサール幕張（上り）
+https://maruchiba.jp/spot/detail_10605.html
+パサール幕張（下り）
+https://maruchiba.jp/spot/detail_10606.html
+周辺にあるグルメスポット
+MAKUHARI BREWERY
+https://maruchiba.jp/gourmet/spot/detail_11069.html
+yukishirushi 0°（ユキシルシ ゼロド）
+https://maruchiba.jp/gourmet/spot/detail_15849.html
+
+
+
+--- SOURCE URL: https://maruchiba.jp/spot/detail_10302.html ---
+
+森に囲まれた大岩の上に建つお堂が圧巻のパワースポット！
+山頂の巨大な岩の上に建つお堂と下から支える何十本もの柱が見せる壮麗な姿。この笠森寺観音堂は、後一条天皇の勅願により1028年に建立された日本で唯一の「四方縣造」として知られ、国指定の重要文化財となっています。
+木造の階段を登りたどりつく回廊は、まるで空中に浮かんでいるかのよう。南房総の山々の素晴らしい眺望が見渡せ、眼下には国指定天然記念物である笠森寺自然林の豊かな森が広がります。
+マイナスイオンたっぷりの参道の両脇には巨木が見られ、「子授楠」や「三本杉」などの名木があります。春には境内に植えられたソメイヨシノや枝垂桜、周囲の森の山桜などが次々と花を咲かせます。
+十一面観音像が本尊であることから「笠森観音」と呼ばれ親しまれている笠森寺。784年に最澄上人が開基されたと伝わり、坂東三十三観音霊場の第三十一番札所として古くから巡礼の霊場となっています。また、御来光の道「レイライン」上にあり、神秘のパワーに満ちた注目のパワースポットです。
+4月初旬には、「花まつり（お釈迦様の誕生日を祝う行事）」が開催され、甘茶の接待があり、花桃の観賞することができます。
+見頃：３月下旬～4月上旬
+エリア
+九十九里
+長南町
+カテゴリー
+歴史・文化・社寺仏閣
+ちば文化資産
+旅のテーマ
+穴場観光
+レトロな街並み
+お気に入りリストに追加
+Share
+Twitter
+Facebook
+Line
+春の花（梅・桜）
+春になると境内に植えられた梅や桜、周囲の森の山桜が次々と可憐な花を咲かせ、笠森観音を彩ります。
+【規模】約120本（境内に約20本、観音山に約100本）
+【品種】（梅）枝垂れ梅、蠟梅、紅梅 等　（桜）河津桜、ソメイヨシノ、ヤマザクラ、枝垂れ桜、ギョイコウ 等
+関連する特集
+千葉の初詣スポット2026
+https://maruchiba.jp/feature/detail_17.html
+WEB会議・壁紙に！ちばのバーチャル背景特集
+https://maruchiba.jp/feature/detail_18.html
+女子旅におすすめ！千葉県の人気スポット21選
+https://maruchiba.jp/feature/detail_96.html
+千葉の桜の名所・お花見情報｜開花時期やおすすめスポット情報まで一挙紹介
+https://maruchiba.jp/feature/detail_117.html
+千葉の神社・お寺特集！有名な神社やパワースポットもたっぷり72か所ご紹介
+https://maruchiba.jp/feature/detail_252.html
+試飲や試食も♪千葉県の工場見学スポット6選＆周辺おでかけスポット！
+https://maruchiba.jp/feature/detail_279.html
+九十九里エリアの定番・有名・穴場・おすすめ観光スポット62選【2026年】
+https://maruchiba.jp/feature/detail_316.html
+【2026年版】エリア別！千葉のゴルフ場17選～観光もグルメも楽しむ欲張りゴルフ旅ガイド～
+https://maruchiba.jp/feature/detail_478.html
+関連するモデルコース
+＜ちば文化資産＞九十九里が誇る日本唯一の建築様式のお寺や歴史の痕跡をたどる
+https://maruchiba.jp/course/detail_43.html
+基本情報
+住所
+千葉県長生郡長南町笠森302
+電話番号
+0475-46-0536
+営業時間
+4月～9月　8:00～16:30
+10月～3月　8:00～16:00
+料金
+大人300円・小人100円
+御堂や山林の維持のため拝観料にご協力下さい
+アクセス（車）
+圏央道茂原長南ICから5km　約7分
+アクセス（鉄道）
+・JR外房線茂原駅下車、小湊バス上総牛久駅行　笠森下車、徒歩約5分
+・小湊鉄道上総牛久駅下車、小湊バス茂原駅行　笠森下車、徒歩約5分
+アクセス（その他）
+高速バス／横浜駅、羽田空港から茂原駅行き　長南駐車場下車約4km、タクシーで約5分
+・小湊鐵道バス　0475-46-3581
+・長南タクシー　0475-46-0003
+駐車場（乗用車／台数）
+50台
+駐車場（大型バス／台数）
+3台
+駐車場（有料／無料）
+無料
+関連リンク
+ラブちばに投稿された写真を見る
+笠森観音
+長南町公式サイト
+千葉県公式サイト
+※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
+おすすめ特集報
+春に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
+https://maruchiba.jp/feature/detail_23.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+まるで黄色い絨毯♪菜の花畑を見に行こう！
+https://maruchiba.jp/feature/detail_42.html
+春の訪れを教えてくれる、梅が咲くスポット
+https://maruchiba.jp/feature/detail_43.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+夏に読みたい！おすすめ特集
+千葉の潮干狩り2026
+https://maruchiba.jp/feature/detail_14.html
+千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
+https://maruchiba.jp/feature/detail_27.html
+千葉のプール・ウォーターレジャー2026
+https://maruchiba.jp/feature/detail_50.html
+千葉の花火大会・打ち上げ花火2026
+https://maruchiba.jp/feature/detail_53.html
+日帰りで楽しめる海のアクティビティ（体験）特集
+https://maruchiba.jp/feature/detail_62.html
+千葉のひまわり畑を歩こう！2026
+https://maruchiba.jp/feature/detail_64.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+ちばの祭り -山車・神輿・獅子舞-
+https://maruchiba.jp/feature/detail_88.html
+秋に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
+https://maruchiba.jp/feature/detail_28.html
+千葉の味覚狩り
+https://maruchiba.jp/feature/detail_33.html
+秋風にゆれるコスモス畑を歩こう！
+https://maruchiba.jp/feature/detail_34.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+落花生掘りといえば千葉！おすすめのスポットを紹介します。
+https://maruchiba.jp/feature/detail_63.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+冬に読みたい！おすすめ特集
+千葉の初詣スポット2026
+https://maruchiba.jp/feature/detail_17.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+千葉の初日の出スポット2026
+https://maruchiba.jp/feature/detail_69.html
+東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
+https://maruchiba.jp/feature/detail_169.html
+千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
+https://maruchiba.jp/feature/detail_177.html
+千葉の展望台＆灯台特集～個性豊かな絶景を望む～
+https://maruchiba.jp/feature/detail_178.html
+JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
+https://maruchiba.jp/feature/detail_197.html
+関連情報
+周辺にある観光スポット
+関東ふれあいの道（首都圏自然歩道）
+https://maruchiba.jp/spot/detail_15794.html
+大田中将顕彰碑
+https://maruchiba.jp/spot/detail_10287.html
+町営キャンプ場（野営場)
+https://maruchiba.jp/spot/detail_15800.html
+金運アップのお寺 長福寿寺
+https://maruchiba.jp/spot/detail_12529.html
+野見金公園
+https://maruchiba.jp/spot/detail_10300.html
+The Bamboo Forest
+https://maruchiba.jp/spot/detail_10627.html
+小湊鐵道　上総久保駅
+https://maruchiba.jp/spot/detail_10643.html
+高滝湖グランピングリゾート
+https://maruchiba.jp/spot/detail_10511.html
+
+
+
+--- SOURCE URL: https://maruchiba.jp/spot/detail_10118.html ---
+
+キャンプ場やアスレチック、スポーツ施設充実！花々あふれる総合公園
+東京ドームの約23個分という広大な敷地は千葉市最大の規模を誇り、日本の都市公園100選に選ばれています。春には梅や桜、初夏にはスイレンや紫陽花が美しく咲き、野鳥や昆虫なども多く生息します。
+長さ約109ｍのローラーすべり台をはじめ、アスレチックコースのあるレクリエーションゾーンは子ども達に大人気！ツツジが咲く4月中旬からは、お弁当を広げる家族連れや学校遠足の児童でにぎわいます。標高約101ｍの展望台からは九十九里平野を一望。千葉市で唯一太平洋が眺望でき、日の出が美しいスポットとしても知られています。
+園内にある「昭和の森フォレストビレッジ」は、キャンプサイトやバーベキュー場など設備が充実。家族やグループでアウトドアライフを楽しめます。テニスコートのほか野球やサッカーができる球技場もあり、多くのスポーツ団やゼミ合宿などにも利用される総合公園です。
+エリア
+ベイエリア
+千葉市
+カテゴリー
+公園・スポーツ施設
+バーベキュー・キャンプ・グランピング
+レジャースポット
+お気に入りリストに追加
+Share
+Twitter
+Facebook
+Line
+園内に咲く季節の花々（梅・さくら）
+2月上旬から下旬には園内の約220本の梅が見ごろになります。
+3月下旬から4月上旬にかけては、ソメイヨシノ、ヤマザクラ、サトザクラなど約600本の桜が咲き誇ります。梅や桜の見ごろに合わせて観賞会を開催予定。ガイドによる解説などが行われます。
+園内に咲く季節の花々（ツツジ）
+4月中旬には、赤や白、ピンクなど約5万株のツツジが園内を彩り、5月上旬まで楽しめます。
+関連する特集
+春の訪れを教えてくれる、梅が咲くスポット
+https://maruchiba.jp/feature/detail_43.html
+子連れ旅行に最適！千葉で子供が喜ぶスポット＆遊び場19選
+https://maruchiba.jp/feature/detail_51.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+子どもが喜ぶ千葉の公園25選！
+アスレチックや大型遊具などが充実したスポットを厳選しました
+https://maruchiba.jp/feature/detail_72.html
+千葉の桜の名所・お花見情報｜開花時期やおすすめスポット情報まで一挙紹介
+https://maruchiba.jp/feature/detail_117.html
+家族で楽しもう！千葉のキャンプ場特集
+https://maruchiba.jp/feature/detail_176.html
+千葉のGW（ゴールデンウィーク）を満喫！おすすめの観光スポット・イベントをご紹介！【2026年】
+https://maruchiba.jp/feature/detail_234.html
+千葉の夏休みを満喫！おすすめの観光スポット・イベントをご紹介！
+https://maruchiba.jp/feature/detail_257.html
+千葉のアスレチック12選！～子供から大人まで幅広く楽しめます～
+https://maruchiba.jp/feature/detail_261.html
+千葉市・市川市・船橋市・浦安市・市原市の公園15選！～子供から大人まで幅広く楽しめます～
+https://maruchiba.jp/feature/detail_265.html
+千葉の公園・パーク・庭園特集！人気スポットをたっぷり93か所ご紹介します
+https://maruchiba.jp/feature/detail_266.html
+千葉のお出かけスポット32選！
+https://maruchiba.jp/feature/detail_300.html
+千葉のホタル観賞スポット特集【2026年】
+https://maruchiba.jp/feature/detail_387.html
+基本情報
+住所
+〒267-0061　千葉県千葉市緑区土気町22
+電話番号
+043-294-3845（昭和の森　管理事務所）
+定休日
+無休
+料金
+野球場（サッカー場）1面2時間／1,290円
+テニスコート1面2時間／630円
+貸自転車／200円
+※小中高校生は割引料金あり。詳細は公式サイトでご確認ください。
+※野球場、テニスコート利用については昭和の森スポーツ施設（043-205-1171）に問い合わせください。
+アクセス（車）
+・千葉東金道路 中野ICから約15分
+・首都圏中央連絡自動車道 大網白里スマートICから約5分
+アクセス（鉄道）
+・JR外房線 土気（とけ）駅南口から徒歩約30分
+・JR外房線 土気駅南口から千葉中央バスあすみが丘ブランニューモール行で昭和の森西下車、徒歩約5分
+駐車場（乗用車／台数）
+826台
+駐車場（大型バス／台数）
+10台
+駐車場（有料／無料）
+有料
+備考
+ペット同伴可、トイレ設備あり
+関連リンク
+ラブちばに投稿された写真を見る
+千葉市　昭和の森
+公式Instagram
+昭和の森フォレストビレッジ
+※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
+おすすめ特集報
+春に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
+https://maruchiba.jp/feature/detail_23.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+まるで黄色い絨毯♪菜の花畑を見に行こう！
+https://maruchiba.jp/feature/detail_42.html
+春の訪れを教えてくれる、梅が咲くスポット
+https://maruchiba.jp/feature/detail_43.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+夏に読みたい！おすすめ特集
+千葉の潮干狩り2026
+https://maruchiba.jp/feature/detail_14.html
+千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
+https://maruchiba.jp/feature/detail_27.html
+千葉のプール・ウォーターレジャー2026
+https://maruchiba.jp/feature/detail_50.html
+千葉の花火大会・打ち上げ花火2026
+https://maruchiba.jp/feature/detail_53.html
+日帰りで楽しめる海のアクティビティ（体験）特集
+https://maruchiba.jp/feature/detail_62.html
+千葉のひまわり畑を歩こう！2026
+https://maruchiba.jp/feature/detail_64.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+ちばの祭り -山車・神輿・獅子舞-
+https://maruchiba.jp/feature/detail_88.html
+秋に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
+https://maruchiba.jp/feature/detail_28.html
+千葉の味覚狩り
+https://maruchiba.jp/feature/detail_33.html
+秋風にゆれるコスモス畑を歩こう！
+https://maruchiba.jp/feature/detail_34.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+落花生掘りといえば千葉！おすすめのスポットを紹介します。
+https://maruchiba.jp/feature/detail_63.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+冬に読みたい！おすすめ特集
+千葉の初詣スポット2026
+https://maruchiba.jp/feature/detail_17.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+千葉の初日の出スポット2026
+https://maruchiba.jp/feature/detail_69.html
+東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
+https://maruchiba.jp/feature/detail_169.html
+千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
+https://maruchiba.jp/feature/detail_177.html
+千葉の展望台＆灯台特集～個性豊かな絶景を望む～
+https://maruchiba.jp/feature/detail_178.html
+JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
+https://maruchiba.jp/feature/detail_197.html
+関連情報
+周辺にある観光スポット
+季節の花「あじさい・睡蓮」／昭和の森
+https://maruchiba.jp/spot/detail_13798.html
+季節の花「ツツジ」／昭和の森
+https://maruchiba.jp/spot/detail_13746.html
+ホキ美術館
+https://maruchiba.jp/spot/detail_10114.html
+小中池公園
+https://maruchiba.jp/spot/detail_10258.html
+縣神社
+https://maruchiba.jp/spot/detail_10263.html
+宮谷八幡神社
+https://maruchiba.jp/spot/detail_10262.html
+本國寺（宮谷県庁跡）
+https://maruchiba.jp/spot/detail_10260.html
+橘樹神社
+https://maruchiba.jp/spot/detail_10667.html
+山武緑の風　大網店
+https://maruchiba.jp/spot/detail_10546.html
+農産物直売所 旬の里ねぎぼうず
+https://maruchiba.jp/spot/detail_10521.html
+
+
+
+--- SOURCE URL: https://maruchiba.jp/spot/detail_10055.html ---
+
+地上150mから360度の眺望が見渡せる無料の展望施設
+アイ・リンクタウン展望施設は、市内最高地点（地上150m）から素晴らしい360度の眺望を楽しめるスポット。天候が良い日には、江戸川を渡る風を感じ、夜には美しい夜景を鑑賞することもできます。運が良ければ東京スカイツリーと富士山のツーショットが見られることも！
+施設内には市内の観光名所や物産を通年、季節ごと、月別で幅広く紹介してくれる「アイ・リンク情報コーナー」や、明るく開放感ある交流ラウンジ、市内遠景を楽しむカフェスペースも完備。45階までを直通するシースルーエレベーターは、上昇中でも眺望を楽しむことができます。
+エリア
+ベイエリア
+市川市
+カテゴリー
+展望台・灯台・タワー
+ビュースポット
+旅のテーマ
+穴場観光
+夜観光
+お気に入りリストに追加
+Share
+Twitter
+Facebook
+Line
+関連する特集
+カップルで行きたい！千葉県のおすすめデートスポット28選！
+https://maruchiba.jp/feature/detail_100.html
+ロマンチックな千葉の夜景11選！～デートやドライブにもおすすめ～
+https://maruchiba.jp/feature/detail_247.html
+千葉のお出かけスポット32選！
+https://maruchiba.jp/feature/detail_300.html
+関連するモデルコース
+初心者におすすめ！レンタサイクルで巡る市川市日帰りモデルコース
+https://maruchiba.jp/course/detail_98.html
+基本情報
+住所
+〒272-0033　千葉県市川市市川南1-10-1ザ・タワーズ・ウエスト45階
+電話番号
+047-322-9300
+営業時間
+9:00〜22:00
+※展望デッキは21:00まで
+※アイ・リンク情報コーナーの開所時間は12:00～18:00
+定休日
+毎月第1月曜日（祝日の場合は開館し、直後の平日休館）、年末年始
+料金
+無料（一定の要件のもとで使用する場合には使用料がかかります）
+アクセス（車）
+市川中央ICから約5分
+アクセス（鉄道）
+JR市川駅南口を出て東京方面「ザ　タワーズ　ウエスト」3階徒歩約3分
+駐車場（乗用車／台数）
+なし 
+駐車場（大型バス／台数）
+なし
+関連リンク
+ラブちばに投稿された写真を見る
+市川市公式Webサイト
+※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
+おすすめ特集報
+春に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
+https://maruchiba.jp/feature/detail_23.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+まるで黄色い絨毯♪菜の花畑を見に行こう！
+https://maruchiba.jp/feature/detail_42.html
+春の訪れを教えてくれる、梅が咲くスポット
+https://maruchiba.jp/feature/detail_43.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+夏に読みたい！おすすめ特集
+千葉の潮干狩り2026
+https://maruchiba.jp/feature/detail_14.html
+千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
+https://maruchiba.jp/feature/detail_27.html
+千葉のプール・ウォーターレジャー2026
+https://maruchiba.jp/feature/detail_50.html
+千葉の花火大会・打ち上げ花火2026
+https://maruchiba.jp/feature/detail_53.html
+日帰りで楽しめる海のアクティビティ（体験）特集
+https://maruchiba.jp/feature/detail_62.html
+千葉のひまわり畑を歩こう！2026
+https://maruchiba.jp/feature/detail_64.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+雨でも美しく魅せる 紫陽花スポット
+https://maruchiba.jp/feature/detail_67.html
+花菖蒲おすすめスポット
+https://maruchiba.jp/feature/detail_68.html
+ちばの祭り -山車・神輿・獅子舞-
+https://maruchiba.jp/feature/detail_88.html
+秋に読みたい！おすすめ特集
+京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
+https://maruchiba.jp/feature/detail_15.html
+千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
+https://maruchiba.jp/feature/detail_28.html
+千葉の味覚狩り
+https://maruchiba.jp/feature/detail_33.html
+秋風にゆれるコスモス畑を歩こう！
+https://maruchiba.jp/feature/detail_34.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+香り豊かなバラを楽しめるスポット
+https://maruchiba.jp/feature/detail_52.html
+今年も発売！サンキューちばフリーパスで旅しよう♪
+https://maruchiba.jp/feature/39pass.html
+落花生掘りといえば千葉！おすすめのスポットを紹介します。
+https://maruchiba.jp/feature/detail_63.html
+千葉のブルーベリー狩り2026
+https://maruchiba.jp/feature/detail_65.html
+冬に読みたい！おすすめ特集
+千葉の初詣スポット2026
+https://maruchiba.jp/feature/detail_17.html
+千葉のいちご狩り2025-2026
+https://maruchiba.jp/feature/detail_31.html
+千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
+https://maruchiba.jp/feature/detail_37.html
+おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
+https://maruchiba.jp/feature/detail_44.html
+千葉の紅葉スポット特集【2026年度】
+https://maruchiba.jp/feature/detail_48.html
+千葉の初日の出スポット2026
+https://maruchiba.jp/feature/detail_69.html
+東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
+https://maruchiba.jp/feature/detail_169.html
+千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
+https://maruchiba.jp/feature/detail_177.html
+千葉の展望台＆灯台特集～個性豊かな絶景を望む～
+https://maruchiba.jp/feature/detail_178.html
+JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
+https://maruchiba.jp/feature/detail_197.html
+関連情報
+周辺にある観光スポット
+真間山　弘法寺
+https://maruchiba.jp/spot/detail_10061.html
+芳澤ガーデンギャラリー
+https://maruchiba.jp/spot/detail_10611.html
+白幡天神社
+https://maruchiba.jp/spot/detail_10059.html
+里見公園
+https://maruchiba.jp/spot/detail_10598.html
+K's Garden Lab.
+https://maruchiba.jp/spot/detail_13185.html
+葛飾八幡宮
+https://maruchiba.jp/spot/detail_10062.html
+道の駅　いちかわ
+https://maruchiba.jp/spot/detail_10056.html
+小塚山フィールドアスレチック
+https://maruchiba.jp/spot/detail_10060.html
+千葉県立現代産業科学館
+https://maruchiba.jp/spot/detail_10051.html
+市立市川考古博物館
+https://maruchiba.jp/spot/detail_10057.html
+周辺にあるグルメスポット
+創作洋菓子モンペリエ
+https://maruchiba.jp/gourmet/spot/detail_11128.html
+Garten Café　ぶ楽り
+https://maruchiba.jp/gourmet/spot/detail_11253.html
+魚ばる 澤
+https://maruchiba.jp/gourmet/spot/detail_11070.html
+おいもや 壺
+https://maruchiba.jp/gourmet/spot/detail_14057.html
+発酵×スパイス食堂 　Yajikko KITCHEN
+https://maruchiba.jp/gourmet/spot/detail_13972.html
+ケーキラボ・マグネット
+https://maruchiba.jp/gourmet/spot/detail_11257.html
+梨屋　与佐ヱ門
+https://maruchiba.jp/gourmet/spot/detail_13046.html
+2 5 6 n i c o m
+https://maruchiba.jp/gourmet/spot/detail_15847.html
+串焼き 小野田
+https://maruchiba.jp/gourmet/spot/detail_15152.html
+峰月堂
+https://maruchiba.jp/gourmet/spot/detail_13044.html
 
 
 
@@ -4238,58 +4555,64 @@ https://maruchiba.jp/gourmet/spot/detail_11069.html
 
 
 
---- SOURCE URL: https://maruchiba.jp/spot/detail_10114.html ---
+--- SOURCE URL: https://maruchiba.jp/spot/detail_10112.html ---
 
-ゆったりとした空間の中で写実絵画を鑑賞できる癒やしの美術館
-2010年に開館した世界でもまれな写実絵画専門美術館です。画家が時間をかけて1枚の絵と向き合い、綿密につくりあげた写実絵画。地上1階、地下2階の3層で構成された計500mにわたる回廊型ギャラリーでは、日本最大の森本草介コレクションをはじめ、野田弘志、中山忠彦など、約60人の現代作家による写実の名品約120点を常時展示しています。
-建物の一部は鉄骨造によって空中に浮かせた特徴のある建築となっており、先端からは隣接する昭和の森が見渡せるでしょう。また、地下2階では美術館のための描き下ろしを中心とした100号以上の大作「私の代表作」がご覧いただけます。ゆったりとした空間の中で写実絵画の名品をぜひご鑑賞ください。
-当日中は入場券を受付にご提示いただければ何度でも出入りが自由。隣接する昭和の森を散策したり、イタリアンレストランやカフェでおいしいひとときを楽しみながら、のんびり作品と向き合ってみませんか。
+多彩なイベントで利用できる本格的な複合コンベンション施設
+1989年にオープンした日本初の複合コンベンション施設です。21万平方mの敷地には7万2千平方mの展示面積を誇る「国際展示場」、4つの同時通訳ブースを持つ「国際会議場」、約9,000人を収容できる「幕張イベントホール」の3施設を備えています。催す規模や内容に合わせて複合施設を連携したイベントも可能で、施設間の移動をスムーズに行えるのが特徴。アイドルのライブから企業の展示会まで、一年を通してさまざまなイベントが開催されています。
+また、ドラマや映画のロケ地にもなっている施設周辺には、関東最大級のショッピングセンターや有名ホテルのほか、「千葉マリンスタジアム」「日本庭園見浜園」など、お楽しみスポットも盛りだくさん。夏の子ども向けイベントに参加したり、野球観戦やデートのスケジュールと合わせながら、幕張メッセを満喫してみてはいかがでしょうか。
 エリア
 ベイエリア
 千葉市
 カテゴリー
-ミュージアム・ギャラリー
+その他レジャー
+レジャースポット
 お気に入りリストに追加
 Share
 Twitter
 Facebook
 Line
 関連する特集
-千葉の美術館・博物館特集！アートや文化に触れる、ミュージアムをご紹介します		
-https://maruchiba.jp/feature/detail_106.html
+千葉県のアウトレット情報まとめ
+幕張/木更津/酒々井アウトレットを比べてみました。	
+https://maruchiba.jp/feature/detail_55.html
 千葉都市モノレールで空中さんぽ！ギネス認定の乗り物でお出かけしよう
 https://maruchiba.jp/feature/detail_145.html
-初開催のトリエンナーレに注目！定番から穴場まで、千葉市の最新アートスポット5選
-https://maruchiba.jp/feature/detail_425.html
+千葉県内のトップ・プロスポーツチーム特集
+https://maruchiba.jp/feature/detail_166.html
+X Games（Xゲームズ） Chiba 2026の魅力を徹底解説！～アクセス・チケット情報についてもご紹介します～
+https://maruchiba.jp/feature/detail_284.html
 基本情報
 住所
-千葉県千葉市緑区あすみが丘東3－15
+〒261-0023　千葉県千葉市美浜区中瀬2-1
 電話番号
-043-205-1500
+043-296-0001
 営業時間
-10:00〜17:30（入館は17:00まで）
+開催イベントによる
 定休日
-火曜日（その他臨時休館あり）
+不定休
 料金
-一般2,100円、65歳以上・高校生・大学生1,600円、
-中学生1,000円、小学生以下800円（保護者1人につき2人まで無料）
-障害者割引あり、団体割引あり
+イベントによる
 アクセス（車）
-・茂原北ICから約10分
-・大網白里スマートICから約5分（ETC専用）
-・中野ICから約15分
-・板倉ICから約8分
+・東京都心・羽田空港から約40分
+・成田空港から約30分
+・東関東自動車道湾岸習志野ICから約5分
+・京葉道路幕張ICから約5分
+・東関東自動車道湾岸千葉ICから約5分
 アクセス（鉄道）
-東京駅から最寄り駅 JR土気駅まで約70分。JR土気駅からバスで約5分
+・JR海浜幕張駅から徒歩約5分
+・JR幕張豊砂駅から徒歩約20分
+・JR幕張本郷駅から幕張メッセ中央行きバスで約17分
 駐車場（乗用車／台数）
-40台
+5,500台
 駐車場（大型バス／台数）
-1台（要事前連絡）
+120台
 駐車場（有料／無料）
-乗用車用　無料、大型バス　1台1,000円
+普通・準中型 1,000円／1日／1回
+大型・中型 4,100円／1日／1回
+自動二輪車 200円／1日／1回
 関連リンク
 ラブちばに投稿された写真を見る
-ホキ美術館
+幕張メッセ
 ※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
 おすすめ特集報
 春に読みたい！おすすめ特集
@@ -4378,395 +4701,31 @@ JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒
 https://maruchiba.jp/feature/detail_197.html
 関連情報
 周辺にある観光スポット
-季節の花「あじさい・睡蓮」／昭和の森
-https://maruchiba.jp/spot/detail_13798.html
-季節の花「ツツジ」／昭和の森
-https://maruchiba.jp/spot/detail_13746.html
-昭和の森
-https://maruchiba.jp/spot/detail_10118.html
-小中池公園
-https://maruchiba.jp/spot/detail_10258.html
-縣神社
-https://maruchiba.jp/spot/detail_10263.html
-宮谷八幡神社
-https://maruchiba.jp/spot/detail_10262.html
-本國寺（宮谷県庁跡）
-https://maruchiba.jp/spot/detail_10260.html
-橘樹神社
-https://maruchiba.jp/spot/detail_10667.html
-農産物直売所 旬の里ねぎぼうず
-https://maruchiba.jp/spot/detail_10521.html
-Sport & Do Resort リソルの森
-https://maruchiba.jp/spot/detail_10600.html
-
-
-
---- SOURCE URL: https://maruchiba.jp/spot/detail_10055.html ---
-
-地上150mから360度の眺望が見渡せる無料の展望施設
-アイ・リンクタウン展望施設は、市内最高地点（地上150m）から素晴らしい360度の眺望を楽しめるスポット。天候が良い日には、江戸川を渡る風を感じ、夜には美しい夜景を鑑賞することもできます。運が良ければ東京スカイツリーと富士山のツーショットが見られることも！
-施設内には市内の観光名所や物産を通年、季節ごと、月別で幅広く紹介してくれる「アイ・リンク情報コーナー」や、明るく開放感ある交流ラウンジ、市内遠景を楽しむカフェスペースも完備。45階までを直通するシースルーエレベーターは、上昇中でも眺望を楽しむことができます。
-エリア
-ベイエリア
-市川市
-カテゴリー
-展望台・灯台・タワー
-ビュースポット
-旅のテーマ
-穴場観光
-夜観光
-お気に入りリストに追加
-Share
-Twitter
-Facebook
-Line
-関連する特集
-カップルで行きたい！千葉県のおすすめデートスポット28選！
-https://maruchiba.jp/feature/detail_100.html
-ロマンチックな千葉の夜景11選！～デートやドライブにもおすすめ～
-https://maruchiba.jp/feature/detail_247.html
-千葉のお出かけスポット32選！
-https://maruchiba.jp/feature/detail_300.html
-関連するモデルコース
-初心者におすすめ！レンタサイクルで巡る市川市日帰りモデルコース
-https://maruchiba.jp/course/detail_98.html
-基本情報
-住所
-〒272-0033　千葉県市川市市川南1-10-1ザ・タワーズ・ウエスト45階
-電話番号
-047-322-9300
-営業時間
-9:00〜22:00
-※展望デッキは21:00まで
-※アイ・リンク情報コーナーの開所時間は12:00～18:00
-定休日
-毎月第1月曜日（祝日の場合は開館し、直後の平日休館）、年末年始
-料金
-無料（一定の要件のもとで使用する場合には使用料がかかります）
-アクセス（車）
-市川中央ICから約5分
-アクセス（鉄道）
-JR市川駅南口を出て東京方面「ザ　タワーズ　ウエスト」3階徒歩約3分
-駐車場（乗用車／台数）
-なし 
-駐車場（大型バス／台数）
-なし
-関連リンク
-ラブちばに投稿された写真を見る
-市川市公式Webサイト
-※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
-おすすめ特集報
-春に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
-https://maruchiba.jp/feature/detail_23.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-まるで黄色い絨毯♪菜の花畑を見に行こう！
-https://maruchiba.jp/feature/detail_42.html
-春の訪れを教えてくれる、梅が咲くスポット
-https://maruchiba.jp/feature/detail_43.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-夏に読みたい！おすすめ特集
-千葉の潮干狩り2026
-https://maruchiba.jp/feature/detail_14.html
-千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
-https://maruchiba.jp/feature/detail_27.html
-千葉のプール・ウォーターレジャー2026
-https://maruchiba.jp/feature/detail_50.html
-千葉の花火大会・打ち上げ花火2026
-https://maruchiba.jp/feature/detail_53.html
-日帰りで楽しめる海のアクティビティ（体験）特集
-https://maruchiba.jp/feature/detail_62.html
-千葉のひまわり畑を歩こう！2026
-https://maruchiba.jp/feature/detail_64.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-ちばの祭り -山車・神輿・獅子舞-
-https://maruchiba.jp/feature/detail_88.html
-秋に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
-https://maruchiba.jp/feature/detail_28.html
-千葉の味覚狩り
-https://maruchiba.jp/feature/detail_33.html
-秋風にゆれるコスモス畑を歩こう！
-https://maruchiba.jp/feature/detail_34.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-落花生掘りといえば千葉！おすすめのスポットを紹介します。
-https://maruchiba.jp/feature/detail_63.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-冬に読みたい！おすすめ特集
-千葉の初詣スポット2026
-https://maruchiba.jp/feature/detail_17.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-千葉の初日の出スポット2026
-https://maruchiba.jp/feature/detail_69.html
-東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
-https://maruchiba.jp/feature/detail_169.html
-千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
-https://maruchiba.jp/feature/detail_177.html
-千葉の展望台＆灯台特集～個性豊かな絶景を望む～
-https://maruchiba.jp/feature/detail_178.html
-JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
-https://maruchiba.jp/feature/detail_197.html
-関連情報
-周辺にある観光スポット
-真間山　弘法寺
-https://maruchiba.jp/spot/detail_10061.html
-芳澤ガーデンギャラリー
-https://maruchiba.jp/spot/detail_10611.html
-白幡天神社
-https://maruchiba.jp/spot/detail_10059.html
-里見公園
-https://maruchiba.jp/spot/detail_10598.html
-K's Garden Lab.
-https://maruchiba.jp/spot/detail_13185.html
-葛飾八幡宮
-https://maruchiba.jp/spot/detail_10062.html
-道の駅　いちかわ
-https://maruchiba.jp/spot/detail_10056.html
-小塚山フィールドアスレチック
-https://maruchiba.jp/spot/detail_10060.html
-千葉県立現代産業科学館
-https://maruchiba.jp/spot/detail_10051.html
-市立市川考古博物館
-https://maruchiba.jp/spot/detail_10057.html
+メッセモール
+https://maruchiba.jp/spot/detail_10489.html
+ZOZOマリンスタジアム
+https://maruchiba.jp/spot/detail_10111.html
+千葉県立幕張海浜公園 見浜園
+https://maruchiba.jp/spot/detail_10609.html
+ホテルスプリングス幕張
+https://maruchiba.jp/spot/detail_10487.html
+山縣飛行士殉空之地碑
+https://maruchiba.jp/spot/detail_10444.html
+パサール幕張（上り）
+https://maruchiba.jp/spot/detail_10605.html
+パサール幕張（下り）
+https://maruchiba.jp/spot/detail_10606.html
+千葉県国際総合水泳場
+https://maruchiba.jp/spot/detail_10595.html
+鈴木大地記念碑
+https://maruchiba.jp/spot/detail_10443.html
+検見川神社
+https://maruchiba.jp/spot/detail_10636.html
 周辺にあるグルメスポット
-創作洋菓子モンペリエ
-https://maruchiba.jp/gourmet/spot/detail_11128.html
-Garten Café　ぶ楽り
-https://maruchiba.jp/gourmet/spot/detail_11253.html
-魚ばる 澤
-https://maruchiba.jp/gourmet/spot/detail_11070.html
-おいもや 壺
-https://maruchiba.jp/gourmet/spot/detail_14057.html
-発酵×スパイス食堂 　Yajikko KITCHEN
-https://maruchiba.jp/gourmet/spot/detail_13972.html
-ケーキラボ・マグネット
-https://maruchiba.jp/gourmet/spot/detail_11257.html
-梨屋　与佐ヱ門
-https://maruchiba.jp/gourmet/spot/detail_13046.html
-2 5 6 n i c o m
-https://maruchiba.jp/gourmet/spot/detail_15847.html
-串焼き 小野田
-https://maruchiba.jp/gourmet/spot/detail_15152.html
-峰月堂
-https://maruchiba.jp/gourmet/spot/detail_13044.html
-
-
-
---- SOURCE URL: https://maruchiba.jp/spot/detail_10076.html ---
-
-1900年以上の歴史を重ねる古社　灯明台は船橋のシンボルのひとつ
-正式名は「意富比神社（おおひじんじゃ）」といい、日本の総氏神・天照皇大神を祀る船橋地方最古、市内最大級の神社。通称「船橋大神宮」として、今もなお船橋市民に親しまれています。
-境内には1880（明治13）年に建てられた高さ約12mの灯明台を有します。和洋折衷の建物は千葉県有形民俗文化財にも指定されており、現存する灯明台としては国内最大規模。毎年1月の灯明台祭では新成人の門出を祝い、年に1度だけ点灯されます。
-また毎年10月20日の例大祭では、船橋市指定文化財の神楽のほか、400年以上の歴史を誇る相撲が奉納されることでも知られています。
-エリア
-ベイエリア
-船橋市
-カテゴリー
-歴史・文化・社寺仏閣
-ちば文化資産
-お気に入りリストに追加
-Share
-Twitter
-Facebook
-Line
-けんか相撲
-約400年前に徳川家康が船橋に滞在した折、慰めに子供相撲を献上したのが始まりです。徳川家康の船橋御殿が廃止された後も広大な地所を与えられた船橋大神宮の祭礼には欠かせない行事となりました。特に江戸時代には見物人のエキサイトぶりから「船橋のけんか相撲」の名が生まれ、関東でも屈指の草相撲大会として知られています。大人相撲（10月20日の例祭の日）と子供相撲が行われます。
-関連する特集
-千葉県観光ボランティアガイド
-https://maruchiba.jp/feature/detail_57.html
-千葉の神社・お寺特集！有名な神社やパワースポットもたっぷり72か所ご紹介
-https://maruchiba.jp/feature/detail_252.html
-千葉県の朝市特集！～勝浦/大原/千倉/船橋～
-https://maruchiba.jp/feature/detail_330.html
-千葉市・船橋市のおすすめ日帰り温泉・スーパー銭湯5選！
-https://maruchiba.jp/feature/detail_372.html
-関連するモデルコース
-寺社仏閣めぐりの旅！ベイエリアモデルコース（日帰り）
-https://maruchiba.jp/course/detail_18.html
-市川・船橋・千葉の神社仏閣めぐり
-https://maruchiba.jp/course/detail_25.html
-基本情報
-住所
-〒273-0003　千葉県船橋市宮本5-2-1
-電話番号
-047-424-2333
-営業時間
-電話受付　9:00～17:00
-定休日
-無休
-アクセス（車）
-京葉道路 船橋ICまたは花輪ICから約7分
-アクセス（鉄道）
-・京成本線 大神宮下駅から徒歩約3分
-・JR総武線 船橋駅南口から徒歩約15分
-駐車場（乗用車／台数）
-※台数に限りがありますので、できる限り公共交通機関または近隣の有料駐車場をご利用ください。
-駐車場（有料／無料）
-無料
-関連リンク
-ラブちばに投稿された写真を見る
-意富比神社（船橋大神宮 ）
-※施設情報が変更される場合があります。最新情報は各公式サイト等をご確認ください。
-おすすめ特集報
-春に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉でおすすめのたけのこ掘りスポット7選！旬の時期・費用、おすすめレシピも
-https://maruchiba.jp/feature/detail_23.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-まるで黄色い絨毯♪菜の花畑を見に行こう！
-https://maruchiba.jp/feature/detail_42.html
-春の訪れを教えてくれる、梅が咲くスポット
-https://maruchiba.jp/feature/detail_43.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-夏に読みたい！おすすめ特集
-千葉の潮干狩り2026
-https://maruchiba.jp/feature/detail_14.html
-千葉県のぶどう狩り・直売農園を紹介！食べ放題やシャインマスカットも
-https://maruchiba.jp/feature/detail_27.html
-千葉のプール・ウォーターレジャー2026
-https://maruchiba.jp/feature/detail_50.html
-千葉の花火大会・打ち上げ花火2026
-https://maruchiba.jp/feature/detail_53.html
-日帰りで楽しめる海のアクティビティ（体験）特集
-https://maruchiba.jp/feature/detail_62.html
-千葉のひまわり畑を歩こう！2026
-https://maruchiba.jp/feature/detail_64.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-雨でも美しく魅せる 紫陽花スポット
-https://maruchiba.jp/feature/detail_67.html
-花菖蒲おすすめスポット
-https://maruchiba.jp/feature/detail_68.html
-ちばの祭り -山車・神輿・獅子舞-
-https://maruchiba.jp/feature/detail_88.html
-秋に読みたい！おすすめ特集
-京成バラ園の魅力を徹底解説！開花時期やアクセス情報も紹介しています
-https://maruchiba.jp/feature/detail_15.html
-千葉県で梨狩りを楽しもう！品種や旬、周辺のおでかけスポットも紹介
-https://maruchiba.jp/feature/detail_28.html
-千葉の味覚狩り
-https://maruchiba.jp/feature/detail_33.html
-秋風にゆれるコスモス畑を歩こう！
-https://maruchiba.jp/feature/detail_34.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-香り豊かなバラを楽しめるスポット
-https://maruchiba.jp/feature/detail_52.html
-今年も発売！サンキューちばフリーパスで旅しよう♪
-https://maruchiba.jp/feature/39pass.html
-落花生掘りといえば千葉！おすすめのスポットを紹介します。
-https://maruchiba.jp/feature/detail_63.html
-千葉のブルーベリー狩り2026
-https://maruchiba.jp/feature/detail_65.html
-冬に読みたい！おすすめ特集
-千葉の初詣スポット2026
-https://maruchiba.jp/feature/detail_17.html
-千葉のいちご狩り2025-2026
-https://maruchiba.jp/feature/detail_31.html
-千葉でおすすめの花摘みスポット11選！周辺のおすすめ観光地も紹介
-https://maruchiba.jp/feature/detail_37.html
-おすすめ！クリスマスにもぴったり千葉のイルミネーションスポット2025-2026
-https://maruchiba.jp/feature/detail_44.html
-千葉の紅葉スポット特集【2026年度】
-https://maruchiba.jp/feature/detail_48.html
-千葉の初日の出スポット2026
-https://maruchiba.jp/feature/detail_69.html
-東京ドイツ村ってどんな所？人気のイルミネーションや最高の過ごし方を大公開！
-https://maruchiba.jp/feature/detail_169.html
-千葉の動物園＆水族館！可愛い動物と出会える人気スポット特集
-https://maruchiba.jp/feature/detail_177.html
-千葉の展望台＆灯台特集～個性豊かな絶景を望む～
-https://maruchiba.jp/feature/detail_178.html
-JR千葉駅周辺のグルメ・お土産・観光スポットをご紹介！徒歩圏内に見どころや魅力がたっぷりあります
-https://maruchiba.jp/feature/detail_197.html
-関連情報
-周辺にある観光スポット
-船橋市民文化ホール
-https://maruchiba.jp/spot/detail_10496.html
-船橋港親水公園
-https://maruchiba.jp/spot/detail_10494.html
-三番瀬みなとや
-https://maruchiba.jp/spot/detail_10077.html
-海老川ジョギングロード
-https://maruchiba.jp/spot/detail_10495.html
-谷津バラ園
-https://maruchiba.jp/spot/detail_10095.html
-季節の花「バラ」／谷津バラ園
-https://maruchiba.jp/spot/detail_13742.html
-季節の花「秋バラ」／習志野市谷津バラ園
-https://maruchiba.jp/spot/detail_10803.html
-飛ノ台史跡公園博物館
-https://maruchiba.jp/spot/detail_10436.html
-谷津干潟自然観察センター
-https://maruchiba.jp/spot/detail_10096.html
-ＪＡ千葉みらい農産物直売所 しょいか～ご　津田沼店
-https://maruchiba.jp/spot/detail_14093.html
-周辺にあるグルメスポット
+MAKUHARI BREWERY
+https://maruchiba.jp/gourmet/spot/detail_11069.html
+yukishirushi 0°（ユキシルシ ゼロド）
+https://maruchiba.jp/gourmet/spot/detail_15849.html
 Le Cafe de Pomme
 https://maruchiba.jp/gourmet/spot/detail_11035.html
-酒楽場 ごうにい
-https://maruchiba.jp/gourmet/spot/detail_11074.html
-居酒屋やどかり
-https://maruchiba.jp/gourmet/spot/detail_11979.html
-Wine&Tapas Callejero
-https://maruchiba.jp/gourmet/spot/detail_11983.html
-Ocean Seafood　LASISA DINING　船橋
-https://maruchiba.jp/gourmet/spot/detail_11980.html
-Ristorante Due by 2Leoni
-https://maruchiba.jp/gourmet/spot/detail_11073.html
-地魚・煮込み・串揚げ　いっきゅう funabashi
-https://maruchiba.jp/gourmet/spot/detail_11072.html
-ラーメン＆BAR963
-https://maruchiba.jp/gourmet/spot/detail_11982.html
-コンパーレ コマーレ
-https://maruchiba.jp/gourmet/spot/detail_11075.html
-Patisserie Rico
-https://maruchiba.jp/gourmet/spot/detail_11125.html
 

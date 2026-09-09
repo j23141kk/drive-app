@@ -112,6 +112,28 @@
                 margin-bottom: 8px;
             }
 
+            /* NEARBY SPOTS用のスタイル */
+            .spot-list {
+                list-style: none;
+                font-size: 0.85rem;
+            }
+
+            .spot-item {
+                padding: 6px 0;
+                border-bottom: 1px solid #f0f0f0;
+                display: flex;
+                justify-content: space-between;
+            }
+
+            .spot-item:last-child {
+                border-bottom: none;
+            }
+
+            .spot-category {
+                color: #888;
+                font-size: 0.75rem;
+            }
+
             footer {
                 padding: 12px;
                 text-align: center;
@@ -145,6 +167,13 @@
                         現在地を取得しています...
                     </div>
                 </section>
+
+                <section class="card">
+                    <div class="card-title">NEARBY SPOTS</div>
+                    <ul class="spot-list" id="spotList">
+                        <li class="spot-item">周辺情報を検索中...</li>
+                    </ul>
+                </section>
             </main>
 
             <footer>
@@ -155,6 +184,7 @@
         <script>
             let map;
             let currentMarker;
+            let spotMarkers = [];
             let isMapInitialized = false;
             let lastLat = null;
             let lastLng = null;
@@ -174,7 +204,10 @@
             // Python（FastAPI・RAG）からリアルタイム現在地の風景翻訳文を取得する処理
             async function fetchRAGTranslation(lat, lng) {
                 const translationEl = document.getElementById('translationText');
+                const spotListEl = document.getElementById('spotList');
+                
                 translationEl.textContent = "AIが現在地の風景を翻訳中...";
+                if (spotListEl) spotListEl.innerHTML = '<li class="spot-item">周辺情報を検索中...</li>';
 
                 try {
                     const response = await fetch("http://localhost:8000/api/translate-landscape", {
@@ -193,8 +226,37 @@
                     }
 
                     const data = await response.json();
-                    // Pythonから届いたリアルタイムな風景翻訳を表示
+                    
+                    // 風景翻訳文を表示
                     translationEl.textContent = data.translation;
+
+                    // RAGから取得した周辺スポットの表示処理
+                    if (spotListEl) {
+                        spotListEl.innerHTML = "";
+                        
+                        // 既存のマップピンを削除
+                        spotMarkers.forEach(m => map.removeLayer(m));
+                        spotMarkers = [];
+
+                        if (data.nearby_spots && data.nearby_spots.length > 0) {
+                            data.nearby_spots.forEach(spot => {
+                                const li = document.createElement('li');
+                                li.className = 'spot-item';
+                                li.innerHTML = `<span>📍 ${spot.name}</span><span class="spot-category">${spot.category}</span>`;
+                                spotListEl.appendChild(li);
+
+                                // 座標が含まれている場合のみ地図上にピンを立てる
+                                if (spot.lat && spot.lng) {
+                                    const marker = L.marker([spot.lat, spot.lng])
+                                        .addTo(map)
+                                        .bindPopup(`<b>${spot.name}</b><br>${spot.category}`);
+                                    spotMarkers.push(marker);
+                                }
+                            });
+                        } else {
+                            spotListEl.innerHTML = '<li class="spot-item">資料内に近くの関連スポットは見つかりませんでした。</li>';
+                        }
+                    }
 
                 } catch (error) {
                     console.error("API通信エラー:", error);
@@ -227,7 +289,7 @@
                     map.setView([currentLat, currentLng]);
                     currentMarker.setLatLng([currentLat, currentLng]);
 
-                    // 前回リクエストした位置から50m以上移動したら再取得（連続API呼び出し防止）
+                    // 前回リクエストした位置から50m以上移動したら再取得
                     if (lastLat !== null && lastLng !== null) {
                         const distanceMoved = getDistance(lastLat, lastLng, currentLat, currentLng);
                         if (distanceMoved >= 50) {
