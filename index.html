@@ -4,6 +4,8 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Landscape Translation System</title>
+        <link rel="manifest" href="/manifest.webmanifest">
+        <meta name="theme-color" content="#60c9ec">
         
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
         <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -210,7 +212,7 @@
                 if (spotListEl) spotListEl.innerHTML = '<li class="spot-item">周辺情報を検索中...</li>';
 
                 try {
-                    const response = await fetch("http://localhost:8000/api/translate-landscape", {
+                    const response = await fetch("/api/translate-landscape", {
                         method: "POST",
                         headers: {
                             "Content-Type": "application/json"
@@ -222,7 +224,10 @@
                     });
 
                     if (!response.ok) {
-                        throw new Error(`APIエラー: ${response.status}`);
+                        const errorData = await response.json().catch(() => ({}));
+                        const apiError = new Error(errorData.detail || `APIエラー: ${response.status}`);
+                        apiError.status = response.status;
+                        throw apiError;
                     }
 
                     const data = await response.json();
@@ -260,7 +265,10 @@
 
                 } catch (error) {
                     console.error("API通信エラー:", error);
-                    translationEl.textContent = "風景翻訳の取得に失敗しました。Pythonサーバーが起動しているか確認してください。";
+                    translationEl.textContent = error.message || "風景翻訳の取得に失敗しました。Pythonサーバーが起動しているか確認してください。";
+                    if (error.status === 503 && error.message.startsWith("資料を読み込んでいます。")) {
+                        setTimeout(() => fetchRAGTranslation(lat, lng), 15000);
+                    }
                 }
             }
 
@@ -289,10 +297,10 @@
                     map.setView([currentLat, currentLng]);
                     currentMarker.setLatLng([currentLat, currentLng]);
 
-                    // 前回リクエストした位置から50m以上移動したら再取得
+                    // 前回リクエストした位置から80m以上移動したら再取得
                     if (lastLat !== null && lastLng !== null) {
                         const distanceMoved = getDistance(lastLat, lastLng, currentLat, currentLng);
-                        if (distanceMoved >= 50) {
+                        if (distanceMoved >= 80) {
                             lastLat = currentLat;
                             lastLng = currentLng;
                             fetchRAGTranslation(currentLat, currentLng);

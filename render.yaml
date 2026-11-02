@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: landscape-translation-system
+    runtime: docker
+    plan: 0.5c-512mb
+    region: singapore
+    healthCheckPath: /healthz
+    envVars:
+      - key: PORT
+        value: "10000"
+      - key: RAG_DATA_DIR
+        value: /var/data/rag_files
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: APP_USERNAME
+        sync: false
+      - key: APP_PASSWORD
+        sync: false
+    disk:
+      name: rag-files
+      mountPath: /var/data
+      sizeGB: 1

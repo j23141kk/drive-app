@@ -1,0 +1,10 @@
+services:
+  drive-app:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    volumes:
+      - ./rag_files:/app/rag_files

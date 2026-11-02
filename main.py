@@ -1,12 +1,19 @@
 import os
 import re
 import json
+import hashlib
+import base64
+import secrets
+import shutil
+import threading
+from time import monotonic, sleep
 import requests
 from pathlib import Path
 from urllib.parse import urlparse, urljoin
 from bs4 import BeautifulSoup
-from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware
+from fastapi import FastAPI, HTTPException, Request
+from fastapi.responses import FileResponse, JSONResponse
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 from google import genai
 from dotenv import load_dotenv
@@ -14,45 +21,137 @@ from dotenv import load_dotenv
 load_dotenv()
 
 app = FastAPI()
+INDEX_FILE = Path(__file__).parent / "index.html"
+PROJECT_RAG_DIR = Path(__file__).parent / "rag_files"
+RAG_DIR = Path(os.environ.get("RAG_DATA_DIR", PROJECT_RAG_DIR))
+RAG_DIR.mkdir(parents=True, exist_ok=True)
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
 
-client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
+def file_sha256(path: Path) -> str:
+    digest = hashlib.sha256()
+    with path.open("rb") as source:
+        for chunk in iter(lambda: source.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
+
+
+def sync_rag_seed_files():
+    if RAG_DIR.resolve() == PROJECT_RAG_DIR.resolve():
+        return
+
+    manifest_path = RAG_DIR / ".seed-manifest.json"
+    try:
+        previous_hashes = json.loads(manifest_path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        previous_hashes = {}
+    current_hashes = dict(previous_hashes)
+
+    for source_file in PROJECT_RAG_DIR.glob("*.*"):
+        if not source_file.is_file():
+            continue
+        destination = RAG_DIR / source_file.name
+        source_hash = file_sha256(source_file)
+        if not destination.exists():
+            shutil.copy2(source_file, destination)
+            current_hashes[source_file.name] = source_hash
+        elif source_file.name in previous_hashes and file_sha256(destination) == previous_hashes[source_file.name]:
+            if source_hash != previous_hashes[source_file.name]:
+                shutil.copy2(source_file, destination)
+            current_hashes[source_file.name] = source_hash
+        elif source_file.name not in previous_hashes and file_sha256(destination) == source_hash:
+            current_hashes[source_file.name] = source_hash
+
+    if current_hashes != previous_hashes:
+        temporary_manifest = manifest_path.with_suffix(".tmp")
+        temporary_manifest.write_text(json.dumps(current_hashes, indent=2), encoding="utf-8")
+        temporary_manifest.replace(manifest_path)
+
+
+sync_rag_seed_files()
+URLS_FILE = RAG_DIR / "urls.txt"
+app.mount("/icons", StaticFiles(directory=Path(__file__).parent / "icons"), name="icons")
+
+client = None
+rag_ready = False
+rag_error = False
+_rag_lock = threading.Lock()
+_geocode_lock = threading.Lock()
+_geocode_cache = {}
+_last_geocode_request = 0.0
+
+
+@app.middleware("http")
+async def require_basic_auth(request: Request, call_next):
+    if request.url.path == "/healthz":
+        return await call_next(request)
+
+    expected_username = os.environ.get("APP_USERNAME")
+    expected_password = os.environ.get("APP_PASSWORD")
+    if not expected_username or not expected_password:
+        if os.environ.get("RENDER"):
+            return JSONResponse(status_code=503, content={"detail": "APP_USERNAME と APP_PASSWORD を設定してください。"})
+        return await call_next(request)
+
+    authorization = request.headers.get("Authorization", "")
+    scheme = ""
+    try:
+        scheme, encoded = authorization.split(" ", 1)
+        username, password = base64.b64decode(encoded, validate=True).decode("utf-8").split(":", 1)
+    except (ValueError, UnicodeDecodeError):
+        username = password = ""
+
+    valid_username = secrets.compare_digest(username.encode("utf-8"), expected_username.encode("utf-8"))
+    valid_password = secrets.compare_digest(password.encode("utf-8"), expected_password.encode("utf-8"))
+    if scheme.lower() != "basic" or not (valid_username and valid_password):
+        return JSONResponse(
+            status_code=401,
+            content={"detail": "認証が必要です。"},
+            headers={"WWW-Authenticate": 'Basic realm="Landscape Translation System", charset="UTF-8"'},
+        )
+    return await call_next(request)
 
 # --------------------------------------------------
 # 逆ジオコーディング（住所取得）
 # --------------------------------------------------
 def reverse_geocode(lat: float, lng: float) -> str:
-    try:
-        url = f"https://nominatim.openstreetmap.org/reverse?format=json&lat={lat}&lon={lng}&zoom=18&addressdetails=1"
-        headers = {"User-Agent": "LandscapeTranslationApp/1.0"}
-        res = requests.get(url, headers=headers, timeout=3)
-        if res.status_code == 200:
-            data = res.json()
-            address = data.get("address", {})
-            province = address.get("province", address.get("state", ""))
-            city = address.get("city", address.get("town", address.get("village", address.get("suburb", ""))))
-            suburb = address.get("suburb", address.get("neighbourhood", ""))
-            road = address.get("road", "")
-            amenity = address.get("amenity", address.get("building", ""))
-            location_str = f"{province}{city}{suburb}{road} {amenity}".strip()
-            return location_str if location_str else data.get("display_name", "")
-    except Exception as e:
-        print(f"逆ジオコーディング失敗: {e}")
+    global _last_geocode_request
+    rounded_lat, rounded_lng = round(lat, 3), round(lng, 3)
+    cache_key = (rounded_lat, rounded_lng)
+
+    with _geocode_lock:
+        if cache_key in _geocode_cache:
+            return _geocode_cache[cache_key]
+        wait = 1.0 - (monotonic() - _last_geocode_request)
+        if wait > 0:
+            sleep(wait)
+        _last_geocode_request = monotonic()
+
+        try:
+            url = f"https://nominatim.openstreetmap.org/reverse?format=json&lat={rounded_lat}&lon={rounded_lng}&zoom=18&addressdetails=1"
+            headers = {"User-Agent": "LandscapeTranslationApp/1.0"}
+            res = requests.get(url, headers=headers, timeout=3)
+            if res.status_code == 200:
+                data = res.json()
+                address = data.get("address", {})
+                province = address.get("province", address.get("state", ""))
+                city = address.get("city", address.get("town", address.get("village", address.get("suburb", ""))))
+                suburb = address.get("suburb", address.get("neighbourhood", ""))
+                road = address.get("road", "")
+                amenity = address.get("amenity", address.get("building", ""))
+                location_str = f"{province}{city}{suburb}{road} {amenity}".strip()
+                result = location_str if location_str else data.get("display_name", "")
+                if result:
+                    if len(_geocode_cache) >= 2048:
+                        _geocode_cache.pop(next(iter(_geocode_cache)))
+                    _geocode_cache[cache_key] = result
+                    return result
+        except Exception as e:
+            print(f"逆ジオコーディング失敗: {type(e).__name__}")
     return f"緯度 {lat}, 経度 {lng}"
 
 # --------------------------------------------------
 # RAGファイルの読み込み・アップロード処理
 # --------------------------------------------------
-RAG_DIR = Path(__file__).parent / "rag_files"
-URLS_FILE = RAG_DIR / "urls.txt"
-RAG_DIR.mkdir(exist_ok=True)
-
 uploaded_files = []
 
 def crawl_and_extract_text(start_url: str, max_depth: int = 1) -> str:
@@ -89,26 +188,65 @@ def crawl_and_extract_text(start_url: str, max_depth: int = 1) -> str:
         to_visit = next_visit
     return "\n\n".join(all_pages_text)
 
-if URLS_FILE.exists():
-    with open(URLS_FILE, "r", encoding="utf-8") as f:
-        urls = [line.strip() for line in f if line.strip() and not line.startswith("#")]
+def initialize_rag(refresh_crawl: bool = True) -> bool:
+    global client, rag_ready, rag_error
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        return False
 
-    for i, url in enumerate(urls):
-        site_corpus = crawl_and_extract_text(url, max_depth=1)
-        if site_corpus:
-            downloaded_file_path = RAG_DIR / f"crawled_site_{i}.txt"
-            with open(downloaded_file_path, "w", encoding="utf-8") as out:
-                out.write(site_corpus)
-            ref = client.files.upload(file=str(downloaded_file_path))
-            uploaded_files.append(ref)
+    try:
+        rag_client = client or genai.Client(api_key=api_key)
+        new_uploaded_files = []
+        if refresh_crawl and URLS_FILE.exists():
+            with open(URLS_FILE, "r", encoding="utf-8") as f:
+                urls = [line.strip() for line in f if line.strip() and not line.startswith("#")]
 
-for file_path in RAG_DIR.glob("*.*"):
-    if file_path.suffix in [".pdf", ".txt"] and not file_path.name.startswith("crawled_site_") and file_path.name != "urls.txt":
-        try:
-            ref = client.files.upload(file=str(file_path))
-            uploaded_files.append(ref)
-        except Exception as e:
-            print(f"ファイルアップロード失敗 ({file_path.name}): {e}")
+            for i, url in enumerate(urls):
+                site_corpus = crawl_and_extract_text(url, max_depth=1)
+                if site_corpus:
+                    downloaded_file_path = RAG_DIR / f"crawled_site_{i}.txt"
+                    with open(downloaded_file_path, "w", encoding="utf-8") as out:
+                        out.write(site_corpus)
+                    ref = rag_client.files.upload(file=str(downloaded_file_path))
+                    new_uploaded_files.append(ref)
+
+        for file_path in RAG_DIR.glob("*.*"):
+            should_upload = file_path.suffix in [".pdf", ".txt"] and file_path.name != "urls.txt"
+            if refresh_crawl and file_path.name.startswith("crawled_site_"):
+                should_upload = False
+            if should_upload:
+                try:
+                    ref = rag_client.files.upload(file=str(file_path))
+                    new_uploaded_files.append(ref)
+                except Exception as e:
+                    print(f"RAG file upload failed ({file_path.name}): {type(e).__name__}")
+        with _rag_lock:
+            client = rag_client
+            uploaded_files[:] = new_uploaded_files
+            rag_ready = True
+            rag_error = False
+        return True
+    except Exception as e:
+        with _rag_lock:
+            rag_error = True
+        print(f"RAG initialization failed: {type(e).__name__}")
+        return False
+
+
+def rag_refresh_loop():
+    needs_initial_crawl = True
+    while True:
+        refreshed = initialize_rag(refresh_crawl=needs_initial_crawl)
+        if refreshed:
+            needs_initial_crawl = False
+            sleep(24 * 60 * 60)
+        else:
+            sleep(60 * 60)
+
+
+@app.on_event("startup")
+def on_startup():
+    threading.Thread(target=rag_refresh_loop, daemon=True).start()
 
 # --------------------------------------------------
 # API リクエスト受取
@@ -117,8 +255,36 @@ class LocationRequest(BaseModel):
     lat: float
     lng: float
 
+@app.get("/", include_in_schema=False)
+def serve_index():
+    return FileResponse(INDEX_FILE)
+
+@app.get("/manifest.webmanifest", include_in_schema=False)
+def serve_manifest():
+    return FileResponse(Path(__file__).parent / "manifest.webmanifest", media_type="application/manifest+json")
+
+@app.get("/healthz", include_in_schema=False)
+def health_check():
+    return {"status": "ok"}
+
 @app.post("/api/translate-landscape")
 def get_landscape_translation(req: LocationRequest):
+    if not (-90 <= req.lat <= 90 and -180 <= req.lng <= 180):
+        raise HTTPException(status_code=422, detail="Invalid coordinates")
+    if not os.environ.get("GEMINI_API_KEY"):
+        raise HTTPException(
+            status_code=503,
+            detail="サーバー設定エラー: Gemini APIキーが登録されていません。管理者がGEMINI_API_KEYを設定してください。",
+        )
+    with _rag_lock:
+        rag_client = client
+        rag_files = list(uploaded_files)
+        ready = rag_ready
+        has_rag_error = rag_error
+    if has_rag_error:
+        raise HTTPException(status_code=503, detail="資料の読み込みに失敗しました。サービス管理者へお問い合わせください。")
+    if not ready or rag_client is None:
+        raise HTTPException(status_code=503, detail="資料を読み込んでいます。しばらくしてから再度お試しください。")
     location_name = reverse_geocode(req.lat, req.lng)
 
     prompt = (
@@ -137,10 +303,10 @@ def get_landscape_translation(req: LocationRequest):
         f"3. RAG資料から現在地近くの関連スポットが抽出できない場合は、nearby_spots を空配列 [] にしてください。"
     )
 
-    contents = [*uploaded_files, prompt]
+    contents = [*rag_files, prompt]
 
     try:
-        response = client.models.generate_content(
+        response = rag_client.models.generate_content(
             model="gemini-2.5-flash",
             contents=contents
         )
@@ -158,7 +324,7 @@ def get_landscape_translation(req: LocationRequest):
         }
         
     except Exception as e:
-        print(f"Gemini API / JSON Parse Error: {e}")
+        print(f"Gemini API / JSON Parse Error: {type(e).__name__}")
         return {
             "translation": "現在地の解説を取得できませんでした。",
             "nearby_spots": []
@@ -166,4 +332,4 @@ def get_landscape_translation(req: LocationRequest):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=int(os.environ.get("PORT", "8000")))
