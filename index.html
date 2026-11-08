@@ -121,6 +121,35 @@
                 min-height: 80px;
             }
 
+            .speech-controls {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 8px;
+                margin-top: 10px;
+            }
+
+            .speech-controls button {
+                padding: 8px 10px;
+                border: 1px solid #ccc;
+                border-radius: 6px;
+                background: #fff;
+                color: var(--text-main);
+                font: inherit;
+                cursor: pointer;
+            }
+
+            .speech-controls button:disabled {
+                opacity: 0.5;
+                cursor: default;
+            }
+
+            .speech-status {
+                min-height: 1.4em;
+                margin-top: 6px;
+                color: #666;
+                font-size: 0.85rem;
+            }
+
             /* 座標表示デバッグ用 */
             .location-info {
                 font-size: 0.8rem;
@@ -183,6 +212,13 @@
                     <div class="translation-text" id="translationText">
                         現在地を取得しています...
                     </div>
+                    <div class="speech-controls" aria-label="音声読み上げ操作">
+                        <button id="speechStartButton" type="button">🔊 読み上げ</button>
+                        <button id="speechPauseButton" type="button" disabled>⏸ 一時停止</button>
+                        <button id="speechResumeButton" type="button" disabled>▶ 再開</button>
+                        <button id="speechStopButton" type="button" disabled>■ 停止</button>
+                    </div>
+                    <div class="speech-status" id="speechStatus" role="status" aria-live="polite"></div>
                 </section>
 
                 <section class="card">
@@ -212,6 +248,10 @@
             let lastLng = null;
             let translationRequestId = 0;
             let hasStartedTranslationRequest = false;
+            let speechUtterance = null;
+            let speechTextSnapshot = "";
+            let speechTextChanged = false;
+            let japaneseVoices = [];
 
             // 2点間の距離(メートル)を計算する関数
             function getDistance(lat1, lng1, lat2, lng2) {
@@ -223,6 +263,144 @@
                         Math.sin(dLng / 2) * Math.sin(dLng / 2);
                 const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
                 return R * c;
+            }
+
+            function refreshJapaneseVoices() {
+                if (!('speechSynthesis' in window)) return;
+                japaneseVoices = window.speechSynthesis.getVoices()
+                    .filter(voice => voice.lang && voice.lang.toLowerCase().startsWith('ja'));
+            }
+
+            function updateSpeechControls(state) {
+                const startButton = document.getElementById('speechStartButton');
+                const pauseButton = document.getElementById('speechPauseButton');
+                const resumeButton = document.getElementById('speechResumeButton');
+                const stopButton = document.getElementById('speechStopButton');
+                const supported = ('speechSynthesis' in window) && ('SpeechSynthesisUtterance' in window);
+                startButton.disabled = !supported || state === 'speaking' || state === 'paused';
+                pauseButton.disabled = state !== 'speaking';
+                resumeButton.disabled = state !== 'paused';
+                stopButton.disabled = state !== 'speaking' && state !== 'paused';
+            }
+
+            function stopSpeech(message) {
+                const utterance = speechUtterance;
+                speechUtterance = null;
+                if (utterance && 'speechSynthesis' in window) window.speechSynthesis.cancel();
+                updateSpeechControls('idle');
+                document.getElementById('speechStatus').textContent = message;
+            }
+
+            function startSpeech() {
+                if (!('speechSynthesis' in window) || !('SpeechSynthesisUtterance' in window)) {
+                    document.getElementById('speechStatus').textContent = 'このブラウザは音声読み上げに対応していません。';
+                    updateSpeechControls('idle');
+                    return;
+                }
+
+                const text = document.getElementById('translationText').textContent.trim();
+                if (!text) {
+                    document.getElementById('speechStatus').textContent = '読み上げる文章がありません。';
+                    return;
+                }
+
+                refreshJapaneseVoices();
+                if (japaneseVoices.length === 0) {
+                    document.getElementById('speechStatus').textContent = '日本語音声が利用できません。端末の音声・読み上げ設定を確認してください。';
+                    return;
+                }
+
+                speechTextSnapshot = text;
+                speechTextChanged = false;
+                const utterance = new SpeechSynthesisUtterance(speechTextSnapshot);
+                utterance.lang = 'ja-JP';
+                utterance.voice = japaneseVoices.find(voice => voice.default && voice.localService)
+                    || japaneseVoices.find(voice => voice.localService)
+                    || japaneseVoices.find(voice => voice.default)
+                    || japaneseVoices[0];
+                utterance.rate = 1;
+                speechUtterance = utterance;
+                updateSpeechControls('speaking');
+                document.getElementById('speechStatus').textContent = '読み上げを開始しています…';
+
+                utterance.onstart = () => {
+                    if (speechUtterance !== utterance) return;
+                    updateSpeechControls('speaking');
+                    document.getElementById('speechStatus').textContent = '読み上げ中です。';
+                };
+                utterance.onpause = () => {
+                    if (speechUtterance !== utterance) return;
+                    updateSpeechControls('paused');
+                    document.getElementById('speechStatus').textContent = '読み上げを一時停止しています。';
+                };
+                utterance.onresume = () => {
+                    if (speechUtterance !== utterance) return;
+                    updateSpeechControls('speaking');
+                    document.getElementById('speechStatus').textContent = '読み上げ中です。';
+                };
+                utterance.onend = () => {
+                    if (speechUtterance !== utterance) return;
+                    speechUtterance = null;
+                    updateSpeechControls('idle');
+                    document.getElementById('speechStatus').textContent = speechTextChanged
+                        ? '読み上げが完了しました。更新後の文章は「読み上げ」を押すと再生できます。'
+                        : '読み上げが完了しました。';
+                };
+                utterance.onerror = event => {
+                    if (speechUtterance !== utterance) return;
+                    speechUtterance = null;
+                    updateSpeechControls('idle');
+                    const detail = event.error === 'not-allowed'
+                        ? 'ブラウザが再生を許可しませんでした。読み上げボタンから再試行してください。'
+                        : '端末の音声合成設定を確認してください。';
+                    document.getElementById('speechStatus').textContent = `読み上げに失敗しました。${detail}`;
+                };
+
+                try {
+                    window.speechSynthesis.speak(utterance);
+                } catch (error) {
+                    if (speechUtterance === utterance) speechUtterance = null;
+                    updateSpeechControls('idle');
+                    document.getElementById('speechStatus').textContent = '読み上げを開始できませんでした。もう一度お試しください。';
+                    console.error('音声読み上げエラー:', error);
+                }
+            }
+
+            function initializeSpeechControls() {
+                if (!('speechSynthesis' in window) || !('SpeechSynthesisUtterance' in window)) {
+                    document.getElementById('speechStatus').textContent = 'このブラウザは音声読み上げに対応していません。';
+                    updateSpeechControls('idle');
+                    return;
+                }
+
+                refreshJapaneseVoices();
+                window.speechSynthesis.onvoiceschanged = refreshJapaneseVoices;
+                document.getElementById('speechStartButton').addEventListener('click', startSpeech);
+                document.getElementById('speechPauseButton').addEventListener('click', () => {
+                    if (speechUtterance && window.speechSynthesis.speaking) window.speechSynthesis.pause();
+                });
+                document.getElementById('speechResumeButton').addEventListener('click', () => {
+                    if (speechUtterance && window.speechSynthesis.paused) window.speechSynthesis.resume();
+                });
+                document.getElementById('speechStopButton').addEventListener('click', () => stopSpeech('読み上げを停止しました。'));
+                updateSpeechControls('idle');
+
+                const translationEl = document.getElementById('translationText');
+                new MutationObserver(() => {
+                    if (speechUtterance && translationEl.textContent.trim() !== speechTextSnapshot) {
+                        speechTextChanged = true;
+                        document.getElementById('speechStatus').textContent = '表示内容が更新されました。読み上げ中の文章の後に「読み上げ」を押すと新しい文章を再生できます。';
+                    }
+                }).observe(translationEl, { childList: true, characterData: true, subtree: true });
+
+                document.addEventListener('visibilitychange', () => {
+                    if (document.visibilityState === 'hidden' && speechUtterance) {
+                        stopSpeech('画面を切り替えたため読み上げを停止しました。');
+                    }
+                });
+                window.addEventListener('pagehide', () => {
+                    if (speechUtterance) stopSpeech('画面を切り替えたため読み上げを停止しました。');
+                });
             }
 
             // Python（FastAPI・RAG）からリアルタイム現在地の風景翻訳文を取得する処理
@@ -416,6 +594,7 @@
             }
 
             window.onload = function() {
+                initializeSpeechControls();
                 if (navigator.geolocation) {
                     watchId = navigator.geolocation.watchPosition(updateLocation, handleError, {
                         enableHighAccuracy: true,
