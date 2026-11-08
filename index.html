@@ -250,7 +250,9 @@
             let hasStartedTranslationRequest = false;
             let speechUtterance = null;
             let speechTextSnapshot = "";
-            let speechTextChanged = false;
+            let speechIsAutomatic = false;
+            let pendingAutoSpeechText = "";
+            const autoSpokenTexts = new Set();
             let japaneseVoices = [];
 
             // 2点間の距離(メートル)を計算する関数
@@ -286,32 +288,33 @@
             function stopSpeech(message) {
                 const utterance = speechUtterance;
                 speechUtterance = null;
+                speechIsAutomatic = false;
+                pendingAutoSpeechText = "";
                 if (utterance && 'speechSynthesis' in window) window.speechSynthesis.cancel();
                 updateSpeechControls('idle');
                 document.getElementById('speechStatus').textContent = message;
             }
 
-            function startSpeech() {
+            function speakText(text, automatic = false) {
                 if (!('speechSynthesis' in window) || !('SpeechSynthesisUtterance' in window)) {
                     document.getElementById('speechStatus').textContent = 'このブラウザは音声読み上げに対応していません。';
                     updateSpeechControls('idle');
-                    return;
+                    return false;
                 }
-
-                const text = document.getElementById('translationText').textContent.trim();
                 if (!text) {
                     document.getElementById('speechStatus').textContent = '読み上げる文章がありません。';
-                    return;
+                    return false;
                 }
 
                 refreshJapaneseVoices();
                 if (japaneseVoices.length === 0) {
+                    if (automatic) pendingAutoSpeechText = text;
                     document.getElementById('speechStatus').textContent = '日本語音声が利用できません。端末の音声・読み上げ設定を確認してください。';
-                    return;
+                    return false;
                 }
 
                 speechTextSnapshot = text;
-                speechTextChanged = false;
+                speechIsAutomatic = automatic;
                 const utterance = new SpeechSynthesisUtterance(speechTextSnapshot);
                 utterance.lang = 'ja-JP';
                 utterance.voice = japaneseVoices.find(voice => voice.default && voice.localService)
@@ -325,33 +328,50 @@
 
                 utterance.onstart = () => {
                     if (speechUtterance !== utterance) return;
+                    autoSpokenTexts.add(speechTextSnapshot);
                     updateSpeechControls('speaking');
-                    document.getElementById('speechStatus').textContent = '読み上げ中です。';
+                    document.getElementById('speechStatus').textContent = pendingAutoSpeechText
+                        ? '読み上げ中です。終了後に最新の翻訳を読み上げます。'
+                        : '読み上げ中です。';
                 };
                 utterance.onpause = () => {
                     if (speechUtterance !== utterance) return;
                     updateSpeechControls('paused');
-                    document.getElementById('speechStatus').textContent = '読み上げを一時停止しています。';
+                    document.getElementById('speechStatus').textContent = pendingAutoSpeechText
+                        ? '一時停止中です。再開後、終了時に最新の翻訳を読み上げます。'
+                        : '読み上げを一時停止しています。';
                 };
                 utterance.onresume = () => {
                     if (speechUtterance !== utterance) return;
                     updateSpeechControls('speaking');
-                    document.getElementById('speechStatus').textContent = '読み上げ中です。';
+                    document.getElementById('speechStatus').textContent = pendingAutoSpeechText
+                        ? '読み上げ中です。終了後に最新の翻訳を読み上げます。'
+                        : '読み上げ中です。';
                 };
                 utterance.onend = () => {
                     if (speechUtterance !== utterance) return;
+                    autoSpokenTexts.add(speechTextSnapshot);
                     speechUtterance = null;
+                    speechIsAutomatic = false;
                     updateSpeechControls('idle');
-                    document.getElementById('speechStatus').textContent = speechTextChanged
-                        ? '読み上げが完了しました。更新後の文章は「読み上げ」を押すと再生できます。'
-                        : '読み上げが完了しました。';
+                    const nextText = pendingAutoSpeechText;
+                    pendingAutoSpeechText = '';
+                    if (nextText && nextText !== speechTextSnapshot && !autoSpokenTexts.has(nextText)) {
+                        speakText(nextText, true);
+                    } else {
+                        document.getElementById('speechStatus').textContent = '読み上げが完了しました。';
+                    }
                 };
                 utterance.onerror = event => {
                     if (speechUtterance !== utterance) return;
+                    const failedText = speechTextSnapshot;
+                    const wasAutomatic = speechIsAutomatic;
                     speechUtterance = null;
+                    speechIsAutomatic = false;
+                    if (wasAutomatic) pendingAutoSpeechText = failedText;
                     updateSpeechControls('idle');
                     const detail = event.error === 'not-allowed'
-                        ? 'ブラウザが再生を許可しませんでした。読み上げボタンから再試行してください。'
+                        ? 'ブラウザが自動再生を許可しませんでした。読み上げボタンを押して再試行してください。'
                         : '端末の音声合成設定を確認してください。';
                     document.getElementById('speechStatus').textContent = `読み上げに失敗しました。${detail}`;
                 };
@@ -360,10 +380,45 @@
                     window.speechSynthesis.speak(utterance);
                 } catch (error) {
                     if (speechUtterance === utterance) speechUtterance = null;
+                    speechIsAutomatic = false;
+                    if (automatic) pendingAutoSpeechText = text;
                     updateSpeechControls('idle');
                     document.getElementById('speechStatus').textContent = '読み上げを開始できませんでした。もう一度お試しください。';
                     console.error('音声読み上げエラー:', error);
+                    return false;
                 }
+                return true;
+            }
+
+            function startSpeech() {
+                if (speechUtterance) return;
+                pendingAutoSpeechText = '';
+                const text = document.getElementById('translationText').textContent.trim();
+                speakText(text, false);
+            }
+
+            function queueAutomaticSpeech(text) {
+                const latestText = typeof text === 'string' ? text.trim() : '';
+                if (!latestText) return;
+
+                // Do not replay text already being spoken, queued, or completed.
+                if (speechUtterance && speechTextSnapshot === latestText) {
+                    pendingAutoSpeechText = '';
+                    return;
+                }
+                if (autoSpokenTexts.has(latestText)) {
+                    pendingAutoSpeechText = '';
+                    return;
+                }
+                if (pendingAutoSpeechText === latestText) return;
+
+                pendingAutoSpeechText = latestText;
+                if (speechUtterance) {
+                    document.getElementById('speechStatus').textContent = '読み上げ中です。終了後に最新の翻訳を読み上げます。';
+                    return;
+                }
+                pendingAutoSpeechText = '';
+                speakText(latestText, true);
             }
 
             function initializeSpeechControls() {
@@ -374,7 +429,14 @@
                 }
 
                 refreshJapaneseVoices();
-                window.speechSynthesis.onvoiceschanged = refreshJapaneseVoices;
+                window.speechSynthesis.onvoiceschanged = () => {
+                    refreshJapaneseVoices();
+                    if (!speechUtterance && pendingAutoSpeechText && japaneseVoices.length > 0) {
+                        const latestText = pendingAutoSpeechText;
+                        pendingAutoSpeechText = '';
+                        speakText(latestText, true);
+                    }
+                };
                 document.getElementById('speechStartButton').addEventListener('click', startSpeech);
                 document.getElementById('speechPauseButton').addEventListener('click', () => {
                     if (speechUtterance && window.speechSynthesis.speaking) window.speechSynthesis.pause();
@@ -384,14 +446,6 @@
                 });
                 document.getElementById('speechStopButton').addEventListener('click', () => stopSpeech('読み上げを停止しました。'));
                 updateSpeechControls('idle');
-
-                const translationEl = document.getElementById('translationText');
-                new MutationObserver(() => {
-                    if (speechUtterance && translationEl.textContent.trim() !== speechTextSnapshot) {
-                        speechTextChanged = true;
-                        document.getElementById('speechStatus').textContent = '表示内容が更新されました。読み上げ中の文章の後に「読み上げ」を押すと新しい文章を再生できます。';
-                    }
-                }).observe(translationEl, { childList: true, characterData: true, subtree: true });
 
                 document.addEventListener('visibilitychange', () => {
                     if (document.visibilityState === 'hidden' && speechUtterance) {
@@ -486,6 +540,7 @@
                             spotListEl.innerHTML = '<li class="spot-item">資料内に近くの関連スポットは見つかりませんでした。</li>';
                         }
                     }
+                    queueAutomaticSpeech(data.translation);
 
                 } catch (error) {
                     if (activeRequestId !== translationRequestId) return;
