@@ -190,8 +190,11 @@ def crawl_and_extract_text(start_url: str, max_depth: int = 1) -> str:
 
 def initialize_rag(refresh_crawl: bool = True) -> bool:
     global client, rag_ready, rag_error
+    initialization_started_at = monotonic()
+    phase = "refresh" if refresh_crawl else "bundled"
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
+        print(f"RAG_INIT phase={phase} status=missing_api_key")
         return False
 
     try:
@@ -202,13 +205,35 @@ def initialize_rag(refresh_crawl: bool = True) -> bool:
                 urls = [line.strip() for line in f if line.strip() and not line.startswith("#")]
 
             for i, url in enumerate(urls):
+                crawl_started_at = monotonic()
                 site_corpus = crawl_and_extract_text(url, max_depth=1)
+                crawl_ms = (monotonic() - crawl_started_at) * 1000
                 if site_corpus:
                     downloaded_file_path = RAG_DIR / f"crawled_site_{i}.txt"
                     with open(downloaded_file_path, "w", encoding="utf-8") as out:
                         out.write(site_corpus)
+                    upload_started_at = monotonic()
                     ref = rag_client.files.upload(file=str(downloaded_file_path))
                     new_uploaded_files.append(ref)
+                    print(
+                        f"RAG_SOURCE source={i + 1}/{len(urls)} status=updated "
+                        f"crawl_ms={crawl_ms:.0f} "
+                        f"upload_ms={(monotonic() - upload_started_at) * 1000:.0f}"
+                    )
+                else:
+                    # A failed live crawl must not discard the bundled/previous snapshot.
+                    cached_path = RAG_DIR / f"crawled_site_{i}.txt"
+                    if cached_path.exists():
+                        upload_started_at = monotonic()
+                        ref = rag_client.files.upload(file=str(cached_path))
+                        new_uploaded_files.append(ref)
+                        upload_ms = (monotonic() - upload_started_at) * 1000
+                    else:
+                        upload_ms = 0
+                    print(
+                        f"RAG_SOURCE source={i + 1}/{len(urls)} status=using_cached "
+                        f"crawl_ms={crawl_ms:.0f} upload_ms={upload_ms:.0f}"
+                    )
 
         for file_path in RAG_DIR.glob("*.*"):
             should_upload = file_path.suffix in [".pdf", ".txt"] and file_path.name != "urls.txt"
@@ -216,26 +241,51 @@ def initialize_rag(refresh_crawl: bool = True) -> bool:
                 should_upload = False
             if should_upload:
                 try:
+                    upload_started_at = monotonic()
                     ref = rag_client.files.upload(file=str(file_path))
                     new_uploaded_files.append(ref)
+                    print(
+                        f"RAG_UPLOAD phase={phase} status=ok "
+                        f"elapsed_ms={(monotonic() - upload_started_at) * 1000:.0f}"
+                    )
                 except Exception as e:
                     print(f"RAG file upload failed ({file_path.name}): {type(e).__name__}")
+                    raise
+        if not new_uploaded_files:
+            raise RuntimeError("No RAG files were uploaded")
         with _rag_lock:
             client = rag_client
             uploaded_files[:] = new_uploaded_files
             rag_ready = True
             rag_error = False
+        print(
+            f"RAG_INIT phase={phase} status=ready files={len(new_uploaded_files)} "
+            f"elapsed_ms={(monotonic() - initialization_started_at) * 1000:.0f}"
+        )
         return True
     except Exception as e:
         with _rag_lock:
-            rag_error = True
-        print(f"RAG initialization failed: {type(e).__name__}")
+            # Keep serving the last complete snapshot if a refresh fails.
+            if not rag_ready:
+                rag_error = True
+        print(
+            f"RAG_INIT phase={phase} status=failed error={type(e).__name__} "
+            f"still_ready={rag_ready} "
+            f"elapsed_ms={(monotonic() - initialization_started_at) * 1000:.0f}"
+        )
         return False
 
 
 def rag_refresh_loop():
     needs_initial_crawl = True
     while True:
+        if not rag_ready:
+            # Upload the bundled snapshot first so the app can answer while the
+            # initial live crawl and its uploads run in the background thread.
+            if not initialize_rag(refresh_crawl=False):
+                sleep(60)
+                continue
+
         refreshed = initialize_rag(refresh_crawl=needs_initial_crawl)
         if refreshed:
             needs_initial_crawl = False
