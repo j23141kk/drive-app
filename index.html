@@ -210,6 +210,8 @@
             let lastAcceptedTimestamp = null;
             let lastLat = null;
             let lastLng = null;
+            let translationRequestId = 0;
+            let hasStartedTranslationRequest = false;
 
             // 2点間の距離(メートル)を計算する関数
             function getDistance(lat1, lng1, lat2, lng2) {
@@ -224,7 +226,20 @@
             }
 
             // Python（FastAPI・RAG）からリアルタイム現在地の風景翻訳文を取得する処理
-            async function fetchRAGTranslation(lat, lng) {
+            async function fetchRAGTranslation(lat, lng, locationCapturedAt = performance.now(), requestId = null, requestKind = null) {
+                const isNewRequest = requestId === null;
+                const activeRequestId = isNewRequest ? ++translationRequestId : requestId;
+                if (isNewRequest) {
+                    requestKind = hasStartedTranslationRequest ? "update" : "initial";
+                    hasStartedTranslationRequest = true;
+                }
+                if (activeRequestId !== translationRequestId) return;
+                const searchStartedAt = performance.now();
+                console.info("LANDSCAPE_TIMING", JSON.stringify({
+                    phase: "search_started",
+                    kind: requestKind,
+                    location_to_search_ms: Math.round(searchStartedAt - locationCapturedAt)
+                }));
                 const translationEl = document.getElementById('translationText');
                 const spotListEl = document.getElementById('spotList');
                 
@@ -251,9 +266,20 @@
                     }
 
                     const data = await response.json();
+                    const resultRetrievedAt = performance.now();
+                    if (activeRequestId !== translationRequestId) return;
                     
                     // 風景翻訳文を表示
                     translationEl.textContent = data.translation;
+                    const displayedAt = performance.now();
+                    console.info("LANDSCAPE_TIMING", JSON.stringify({
+                        phase: "displayed",
+                        kind: requestKind,
+                        location_to_search_ms: Math.round(searchStartedAt - locationCapturedAt),
+                        search_to_result_ms: Math.round(resultRetrievedAt - searchStartedAt),
+                        result_to_display_ms: Math.round(displayedAt - resultRetrievedAt),
+                        location_to_display_ms: Math.round(displayedAt - locationCapturedAt)
+                    }));
 
                     // RAGから取得した周辺スポットの表示処理
                     if (spotListEl) {
@@ -284,15 +310,17 @@
                     }
 
                 } catch (error) {
+                    if (activeRequestId !== translationRequestId) return;
                     console.error("API通信エラー:", error);
                     translationEl.textContent = error.message || "風景翻訳の取得に失敗しました。Pythonサーバーが起動しているか確認してください。";
                     if (error.status === 503 && error.message.startsWith("資料を読み込んでいます。")) {
-                        setTimeout(() => fetchRAGTranslation(lat, lng), 15000);
+                        setTimeout(() => fetchRAGTranslation(lat, lng, locationCapturedAt, activeRequestId, requestKind), 3000);
                     }
                 }
             }
 
             function updateLocation(position) {
+                const locationCapturedAt = performance.now();
                 const accuracy = position.coords.accuracy || 0;
                 const candidate = { lat: position.coords.latitude, lng: position.coords.longitude };
                 const timestamp = position.timestamp || Date.now();
@@ -353,7 +381,7 @@
                     // 初回測位時に翻訳リクエストを送信
                     lastLat = currentLat;
                     lastLng = currentLng;
-                    fetchRAGTranslation(currentLat, currentLng);
+                    fetchRAGTranslation(currentLat, currentLng, locationCapturedAt);
                 } else {
                     currentMarker.setLatLng([currentLat, currentLng]);
                     const routePoints = routeLine.getLatLngs();
@@ -372,7 +400,7 @@
                         if (distanceMoved >= 80) {
                             lastLat = currentLat;
                             lastLng = currentLng;
-                            fetchRAGTranslation(currentLat, currentLng);
+                            fetchRAGTranslation(currentLat, currentLng, locationCapturedAt);
                         }
                     }
                 }

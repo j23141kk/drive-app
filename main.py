@@ -269,6 +269,7 @@ def health_check():
 
 @app.post("/api/translate-landscape")
 def get_landscape_translation(req: LocationRequest):
+    request_started_at = monotonic()
     if not (-90 <= req.lat <= 90 and -180 <= req.lng <= 180):
         raise HTTPException(status_code=422, detail="Invalid coordinates")
     if not os.environ.get("GEMINI_API_KEY"):
@@ -285,7 +286,9 @@ def get_landscape_translation(req: LocationRequest):
         raise HTTPException(status_code=503, detail="資料の読み込みに失敗しました。サービス管理者へお問い合わせください。")
     if not ready or rag_client is None:
         raise HTTPException(status_code=503, detail="資料を読み込んでいます。しばらくしてから再度お試しください。")
+    geocode_started_at = monotonic()
     location_name = reverse_geocode(req.lat, req.lng)
+    geocode_ms = (monotonic() - geocode_started_at) * 1000
 
     prompt = (
         f"【現在地情報】: 「{location_name}」（座標: 緯度 {req.lat}, 経度 {req.lng}）\n\n"
@@ -306,10 +309,12 @@ def get_landscape_translation(req: LocationRequest):
     contents = [*rag_files, prompt]
 
     try:
+        generation_started_at = monotonic()
         response = rag_client.models.generate_content(
             model="gemini-2.5-flash",
             contents=contents
         )
+        generation_ms = (monotonic() - generation_started_at) * 1000
         
         # JSONレスポンスのパース処理
         res_text = response.text.strip()
@@ -318,13 +323,25 @@ def get_landscape_translation(req: LocationRequest):
             res_text = re.sub(r"^```(?:json)?\n|\n```$", "", res_text, flags=re.MULTILINE)
             
         data = json.loads(res_text)
+        print(
+            "LANDSCAPE_TIMING "
+            f"geocode_ms={geocode_ms:.0f} "
+            f"gemini_ms={generation_ms:.0f} "
+            f"server_total_ms={(monotonic() - request_started_at) * 1000:.0f} "
+            f"rag_file_count={len(rag_files)}"
+        )
         return {
             "translation": data.get("translation", ""),
             "nearby_spots": data.get("nearby_spots", [])
         }
         
     except Exception as e:
-        print(f"Gemini API / JSON Parse Error: {type(e).__name__}")
+        print(
+            f"Gemini API / JSON Parse Error: {type(e).__name__}; "
+            f"geocode_ms={geocode_ms:.0f}; "
+            f"gemini_ms={(monotonic() - generation_started_at) * 1000:.0f}; "
+            f"server_total_ms={(monotonic() - request_started_at) * 1000:.0f}"
+        )
         return {
             "translation": "現在地の解説を取得できませんでした。",
             "nearby_spots": []
